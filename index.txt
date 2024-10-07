@@ -1,0 +1,531 @@
+$attribute_list
+$badclus
+$bitmap
+$boot
+$data
+$ea
+$ea_information
+$extend
+$file_name
+$j
+$logfile
+$logged_utility_setredam win
+$max
+$mft
+$mftmirr
+$object_id
+$objid
+$quota
+$reparse
+$reparse_point
+$secure
+$security_descriptor
+$standard_information liv
+$upcase
+$usnjrnl
+$volume
+$volume_information
+$volume_name
+\device\physicalmemory
+access token
+account creation
+account logon
+account logon events
+account management
+account usage
+acquiring processes
+additional time rule exceptions
+admin shares
+admin$
+ads
+advanced persistent threat
+allocated clusters
+alternate data streams
+amcache.hve
+analyzing process objects
+anonymous logon
+apihooks
+appcompatprocessor.py
+application compatibility cache
+r r
+c t
+application deployment software
+application installation
+application vulnerabilities
+asep
+asjob
+at.exe
+atomic
+att&ck
+attack progression
+autoruns
+autorunsc.exe
+b-tree
+baseline
+bcwipe
+behavioral
+behavioral indicators
+blkls
+bodyfile
+bulk extractor
+bulk_extractor
+ohnrhac fza
+cache
+e r
+cached
+capa project
+capability
+certificate revocation list
+certification authority
+change journal
+cmdline
+cmdscan
+code injection
+code signing
+collector
+command line
+common malware locations
+common malware names
+compromised host
+computed
+computed indicators
+connections
+connscan
+consoles
+containment
+containment and intelligence
+development
+context clues
+cookies
+copy malware
+credential guard
+credssp
+critical remediation control
+crits
+csrss
+csrss.exe
+custom
+cyber threat intelligence
+cyber threat intelligence capability
+data collection
+data exfiltration
+data layer
+data reduction
+dcsync
+deep dive analysis
+deep-dive forensics
+default.rdp
+delegate token liv
+deleted files
+density
+deskthrd
+devicetree
+e r
+digital forensics
+direct kernel object manipulation
+direct kernel object manipulation
+(dkom)
+directory handle
+directory service
+distributedkansa
+dkom
+dll injection
+dll persistence
+dll persistence attacks
+dll search order
+dll search order hijackin
+dll side-loading
+dlldump
+dlllist
+dlls
+domain account hash
+ohnrhadrifvez leatter
+driverbl
+driverirp
+drivers
+dumpfiles
+dumpit
+dun & bradstreet
+email attachments
+enter-pssession
+enterprise incident response
+enterprise scanning
+entropy
+eprocess
+eprocess blocks
+eraser
+event handle
+event log clearing
+event log explorer
+event logs
+event viewer
+eventid
+eventvwr.exe
+evtx
+ohnrhaevtfxezcmad
+ewfmount
+exfat
+exfiltration
+explicit credentials
+exploitation
+f-response
+fast forensics
+fat
+file carving
+file downloads
+file handle
+file system layer
+file system timeline
+file_object
+fileless malware
+filename layer
+filescan
+filter file
+find evil
+firefox downloads
+fixup array
+fls
+forensic analysis
+forensics process
+forwarded events
+fsutil
+ftk imager
+gain authority
+gathering intel through kill chain
+completion
+get-rekalpslist.ps
+get-svcfail.ps
+getsids
+golden ticket liv
+grep
+grr
+handle
+handles
+hash lookups
+hashes
+hiberfil.sys
+hibernation file analysis
+hibr
+hiding in plain sight
+hiding techniques
+hivelist
+hooking
+hunting organization
+i/o request packets (irp)
+iat
+liv
+icat
+identification
+idt
+ief
+imagecopy
+impact
+import address table (iat)
+incident response
+incident response detection and
+intelligence loop
+incident response process
+indicator of compromise
+indicator of compromise (ioc)
+indicators
+indicators of compromise
+indx
+indxparse.py
+initial compromise
+inodes
+intelligence
+intelligence development
+intent
+interactive logon
+inventoryapplication
+inventorydriverbinary
+invoke-command
+invoke-phant
+ioc
+ioc development
+ioc editor
+ioce
+ipc$
+ir process
+irp
+istat
+jobparser.py
+journal
+jp
+kansa
+kansa.ps
+kdbg
+kernel debugger datablock (kdbg)
+kernel processor control region (kpcr)
+kill chain
+kpcr
+lateral movement
+ldrmodules
+least frequency of occurrence
+lfo
+lnk files
+local service
+log
+log
+logfileparser
+logon events
+logon id
+logon type
+logon type codes
+logon types
+logs
+liv
+e r
+lolbas
+lolbin
+lsa secrets
+lsass.exe
+macb
+mactime
+maintain presence
+malfind
+malware analysis
+malware detection
+malware detection methods
+malware execution
+malware paradox
+management support
+master file table
+mbr
+memdump
+memory acquisition
+memory analysis
+liv
+memory analysis tools
+memory compression
+memory forensics
+e r
+memory sections
+memory.dmp
+metadata layer
+mftecmd
+mimikatz
+moddump
+modscan
+modules
+mutex
+named pipes
+namespace type
+netscan
+network artifacts
+network logon
+network service
+network shares
+non-resident
+nsrl
+ntds.dit liv
+ntdsxtract
+ntfs
+e r
+ntfs attributes
+ntfs features
+ntfs timestamps
+ntuser.dat
+object access
+object id
+openioc
+openioc_scan
+operating system vulnerabilities
+operational tempo
+opportunity
+page_execute_readwrite
+pass the hash attack
+pass the ticket attack
+peb
+persistence
+persistence mechanisms
+pf
+r r
+phantom dll
+phantom dll hijacking
+photorec
+pinfo
+pinfo.py
+pivot point
+pivotal phase
+plaso
+policy change
+ports
+powercfg.exe
+powershell
+powershell authentication
+powershell basics
+powershell remoting
+powershell script block logging
+powershell transcript
+prefetch
+preparation
+previous versions
+printkey
+privacy cleaner
+problems
+procdump
+process environment block (peb)
+process hollowing
+process objects
+process tracking
+processbl
+program execution
+protected process
+psexec
+psexec.exe
+pslist
+psloglist
+psort
+psort.py
+pspcid
+psscan
+pstree
+psxview
+rdp
+rdp usage
+rdpclip.exe
+rdphint
+reactive organization
+real-time remediation
+recentfilecache
+recentfilecache.bcf
+recon
+reconnaissance
+records carving
+recovery
+reg.exe
+registry handle
+regripper
+regular expressions
+ohnrharekfazll a
+remediation
+remediation event
+remote management tools
+reparse point
+resident
+restore points
+right mindset
+risk
+rootkit
+rootkit hooking
+rootkits
+runas
+sacrificial process
+sc.exe
+schtasks.exe
+scope
+scopesnapshots
+sdelete
+semaphore
+servicebl
+session
+setup
+shadow copy liv
+shellbags
+shimcache
+shimcachemem
+shimcacheparser.py
+e r
+shortcut (lnk) files
+sift workstation
+sigcheck
+sigcheck.exe
+six-step incident response process
+sleuth kit
+sockets
+sockscan
+sparse file
+ssdt
+stix
+string searching
+strings
+stuxnet
+super timeline
+super timeline analysis
+suspicious services
+svcscan
+swapfile.sys
+sysinternals
+ohnrhasysftezm eaven
+system files
+system process
+system restore
+task scheduler logs
+task scheduler v
+tdl
+team composition
+teamviewer
+technet
+temporal proximity
+the pivot point
+the sleuth kit
+thrdproc
+thread
+threads
+threat
+threat hunting
+tickets
+time rule exceptions
+time rules
+time slice
+timeline
+timeline analysis
+timeline benefits
+timeline creation
+timeline explorer
+timeliner
+timestamp analysis
+timestamp anomalies
+timestomp
+timezone
+token
+tokens
+triage
+triage extraction
+trusted code signing
+tsk
+ultimate windows security
+unallocated
+unallocated clusters liv
+understanding security identifiers
+userassist
+vad tree
+velociraptor
+virtual address descriptor (vad)
+virustotal.com
+vnc
+volatile registry keys
+volatility
+volatility plugins
+volatility profiles
+volume boot record
+volume name
+volume serial number
+volume shadow copy
+vshadowinfo
+vshadowmount
+vss examination
+ohnrhavssf_zcarvaer
+vssadmin list shadows
+vssadmin.exe
+vulnerability
+vulnerability exploitation
+wdigest
+weaponization
+web history
+windows credential editor (wce)
+windows error reporting
+windows management instrumentation
+windows memory acquisition
+windows time rules
+winpmem
+wiper
+wmi
+wmi event consumers
+wmic
+wsmprovhost.exe
+yara
+zeus
+zone.identifier
+r r
