@@ -1,0 +1,6961 @@
+####-serverwas: (3)79
+#: (2)155
+#pragma: (1)79
+$()}{: (2)168
+$_.getowner().user}: (2)154
+$_.pathname.startswith("'")}: (2)154
+$_.pathname.startswith("`"")}: (2)154
+$_.pathname.trim: (2)154
+$attrdef: (5)15, (5)27
+$attribute_list: (5)32, (5)119
+$badclus: (5)27, (5)28, (5)119
+$bitmap: (5)15, (5)26, (5)27, (5)28, (5)32, (5)67, (5)73, (5)78, (5)82, (5)119
+$boot: (4)44, (5)15, (5)27, (5)28, (5)119
+$consumer: (1)79
+$data: (5)32, (5)33, (5)40, (5)49, (5)50, (5)51, (5)53, (5)58, (5)73, (5)97, (5)119
+$ea: (5)32, (5)119
+$ea_information: (5)32, (5)119
+$extend: (5)14, (5)15, (5)27, (5)28, (5)119
+$extend\$objid: (5)28
+$extend\$quota: (5)28
+$extend\$reparse: (5)28
+$extend\$usnjrnl: (5)28
+$failei_ln_amceo: (5)46
+$file_nadme: (5)61
+$filter: (1)79
+$fn: (5)33, (5)42, (5)91
+$iindex: (5)82
+$index_allocation: (5)32, (5)58, (5)59, (5)60, (5)64, (5)104, (5)119
+$index_alloclaitvione: (5)64
+$index_root: (5)32, (5)58, (5)59, (5)60, (5)119
+$islack: (5)88
+$j: (5)70
+$lcogfile),: (5)71
+$logfdile: (5)89
+$logfile'sverbose: (5)79
+$logfile(e.g: (5)79
+$logfile(specifically: (5)71
+$logfile--and: (5)67
+$logfile_filenames.csv: (5)78
+$logfileaims: (5)67
+$logfilealso: (5)72
+$logfileanalysis: (5)71
+$logfileand: (5)66, (5)78
+$logfilebecause: (5)79
+$logfilecan: (5)79
+$logfilediscussion: (5)71
+$logfiledoes: (5)78
+$logfilefrom: (5)78
+$logfilein: (5)78, (5)80
+$logfileincludes: (5)71
+$logfileis: (5)66, (5)67, (5)79, (5)82, (5)110
+$logfileitself: (5)67
+$logfilemaintains: (5)78
+$logfilemarker: (5)72
+$logfileon: (5)67
+$logfileoperation: (5)72
+$logfileoperations: (5)71
+$logfilescould: (5)67
+$logfilesevents: (5)71
+$logfilesize: (5)67
+$logfilestores: (5)71
+$logfilesystem: (5)67
+$logfileto: (5)67, (5)72, (5)76
+$logfiletoo: (5)72
+$logfilewhich: (5)73
+$logfilewill: (5)72
+$logfilewith: (5)72
+$logfilleiasv: (5)66
+$logged_utility_setredam: (5)119
+$logged_utility_strea: (5)32
+$logifnile: (3)174
+$machine.acc: (1)146
+$max: (5)70, (5)119
+$mfdt: (3)174
+$mftmirr: (5)14, (5)15, (5)27, (5)119
+$mftrecord: (5)82
+$mft|$j|$boot|$sds: (4)43
+$null: (2)154
+$object_id: (5)32, (5)119
+$objid: (5)27, (5)64, (5)82, (5)119
+$owners: (2)154
+$quota: (5)27, (5)39, (5)82, (5)119
+$recycle.bin$i: (4)57
+$recycle.bin: (2)27, (4)97, (5)14, (5)15
+$recycle.binor: (2)27
+$recycle: (1)60
+$reparse: (5)27, (5)64, (5)119
+$reparse_point: (5)32, (5)119
+$s: (1)50, (4)10
+$sds: (4)44
+$secure: (5)14, (5)15, (5)27, (5)28, (5)39, (5)82, (5)119
+$security_descriptor: (5)32, (5)119
+$si: (5)33, (5)42, (5)47, (5)48, (5)78, (5)91
+$upcase: (5)14, (5)15, (5)27, (5)28, (5)119
+$usnjrnl,and: (5)82
+$usnjrnl:$j: (5)70, (5)80
+$usnjrnland: (5)66, (5)78
+$usnjrnlbut: (4)89
+$usnjrnlby: (5)69
+$usnjrnlcodes: (5)71
+$usnjrnlevents: (5)69
+$usnjrnlfile: (5)67
+$usnjrnlfirst: (5)76
+$usnjrnlhas: (5)66
+$usnjrnlin: (5)78
+$usnjrnlis: (5)69, (5)80, (5)82
+$usnjrnll:$ijve: (5)104
+$usnjrnllogging: (5)69
+$usnjrnllogs: (5)66
+$usnjrnlprovides: (5)69, (5)80
+$usnjrnlsequence: (5)36
+$usnjrnlupdates: (5)78
+$usnjrnlworks: (5)67
+$usnjrnl—unallocated: (5)70
+$volume: (5)14, (5)15, (5)27, (5)32, (5)119
+$volume_information: (5)32, (5)120
+$volume_name: (5)32, (5)120
+$vulnservices=: (2)154
+${#/~: (2)168
+${#/~}: (2)168
+${#/~}=${#/~}+${/.})}: (2)168
+${#/~}=${#/~}+${/.}: (2)168
+${#/~}=${#/~}: (2)168
+${*~}=(${#/~}: (2)168
+${/.}: (2)168
+${;}: (2)168
+${‘}: (2)168
+%appdata%\roaming\microsoft\windows\start: (1)71
+%comspec%: (5)94
+%path%: (1)75
+%systemdrive%\hiberfil.sys: (3)11
+%systemroot%: (1)105, (2)94, (3)11
+%systemroot%\\system\\config\\.+[.]evt: (4)73
+%systemroot%\ntds: (1)156
+%systemroot%\system: (3)37
+%systemroot%\system\config: (2)38
+%systemroot%\system\svchost.exe: (3)37
+%systemroot%\system\tasks: (2)93
+%systemroot%\system\winevt\logs: (2)38
+%systemroot%\syswow\tasks: (2)93
+%systemroot%\tasks: (2)93
+%user: (2)142
+%windir%\\sysnative\\svchost.exe: (3)67
+%windir%\\syswow\\svchost.exe: (3)67
+*).[]one: (5)56
+***********************************: (4)78
+*********************************: (4)78
+********************************: (4)78, (4)81
+***************************: (4)78
+**************************: (4)78, (4)79
+*************************: (4)79
+*-}=: (2)168
+*.automaticdestinations-ms: (4)63
+*.customdestinations-msfiles: (4)57
+*:process: (3)92
+*bulk_extractor-rec: (5)104
+*except: (1)129
+*exceptfor: (1)129
+*nix: (3)167
+*usn-vss.csv: (5)81
++${/.})}: (2)168
++${/.}: (2)168
+++${#/~}}{: (2)168
+.%: (3)121
+..'|%{${#/~}: (2)168
+.[]a: (3)103
+.\analysis: (1)99
+.\exploit_kits\ek_zeroacces.yar: (4)11
+.\exploit_kits\ek_zerox.yar: (4)11
+.\exploit_kits\ek_zeus.yar: (4)11
+.\hostlist: (1)103, (1)104
+.\hostlist”tellskansa.psto: (1)103
+.\kansa.ps: (1)103, (1)104
+.\malware\_common_rules.yar: (4)11
+.\malware\apt_apt.yar: (4)11
+.\malware\apt_apt_grizzly_steppe.yar: (4)11
+.\modules: (1)99, (1)103
+.\modules\bin: (1)105
+.\modules\bin\autorunsc.exe: (1)105
+.\modules\bin\directory: (1)105
+.\output\: (1)104
+.a.b: (4)41
+.aspxwebshelland: (3)75
+.bat: (5)76, (5)77
+.cab: (5)76, (5)77
+.csv: (2)24, (2)178
+.dat: (3)120
+.datdatabases: (3)174
+.dll: (1)75, (1)76, (1)82, (3)172, (4)7, (4)54, (5)76, (5)77, (5)98
+.dllfiles: (4)27
+.dllwas: (4)54
+.dmpfilecs: (3)119
+.eval: (1)82
+.evt/.evtxformat: (2)178
+.evt: (2)38, (2)77, (2)178
+.evtand: (2)77
+.evtextension: (2)38
+.evtor: (2)178
+.evtx: (2)38, (2)178, (5)105
+.evtxextension: (2)38
+.evtxformats: (2)77
+.evtxlog: (2)77
+.exe,.dll: (3)172
+.exe/.dll: (1)77
+.fon: (3)126
+.gthr: (5)86
+.job: (1)74, (2)93, (2)94, (2)123
+.lnk: (5)95, (5)99
+.mof: (1)78, (2)128, (2)184
+.msi(microsoft: (3)172
+.msifile: (3)172
+.msifiles: (3)77, (3)172, (3)175
+.msstylesfile: (3)126
+.mui: (3)126
+.muifiles: (3)120
+.net: (1)93, (1)100, (2)32, (2)161, (2)164, (3)110, (3)129, (3)134, (3)168
+.pf: (2)6, (2)8, (2)9, (2)11, (2)15, (5)76, (5)95, (5)99
+.ps: (1)82, (2)160, (4)27, (5)76, (5)77
+.py: (3)21, (4)27
+.pyd: (5)76, (5)77
+.rar: (4)27, (5)5, (5)76, (5)77
+.rararchives: (5)9
+.reg: (2)16
+.scr: (5)98
+.sys: (3)172, (4)7, (5)76, (5)77, (5)98
+.txt: (2)178
+.vbs: (1)82, (2)160, (5)76, (5)77
+.vmem: (3)12
+.vmsn: (3)12
+.vmss(vmware: (3)12
+.vvmem: (3)133
+.werfiles: (2)142
+.winmd: (3)126
+.xml: (2)178
+.z: (5)76, (5)77
+.zip: (5)76, (5)77
+/(users|documents: (4)72
+//bfore.comr/orlzny: (5)106
+/allfrom: (3)72
+/cases/cdrive/disk.e: (4)83
+/cases/iis_mftecmd.body: (4)82
+/cases/iis_triage_files: (4)82
+/cases/mftecmd.body: (4)83
+/cases/precooked/<subfolder>: (1)6
+/complg: (2)89
+/create: (1)74, (2)123
+/dba: (1)0, (2)0, (3)0, (4)0, (5)0
+/dev/sdd: (4)66
+/domainadmin: (1)137
+/emnt/shdadow_wmount/ivsns/: (5)14
+/export: (1)149
+/indxfile:g:\cases\$i: (5)64
+/l:<size>: (5)67
+/log: (5)98
+/logfilefile:e:\c\$logfile: (5)78, (5)79
+/memory/hiberfil.sys: (3)14
+/mn: (5)14
+/mnt/ewf_file/ewf: (5)101
+/mnt/ewf_mount/: (5)14, (5)16
+/mnt/ewf_mount/ewf: (5)14, (5)16, (5)101
+/mnt/ewf_mountdirectory: (5)14
+/mnt/shadow_mount/$i: (5)16
+/mnt/shadow_mount/vss/: (5)14
+/mnt/shadow_mount/vss: (5)14, (5)16
+/mnt/shadow_mount: (5)16
+/mnt/shadowcarve_basefile/$i: (5)101
+/mnt/vss/: (5)14, (5)16
+/mnt/vss: (5)16
+/mnt/vsscarve_basefile/: (5)101
+/node:host: (2)127
+/other: (4)62
+/outputpath: (5)79
+/outputpath:g:\cases: (5)64
+/outputpath:g:\output: (5)78
+/path-to/image.dd: (4)66
+/path-to/image.e: (4)66
+/path-to/out.plaso: (4)66
+/path-to/triage.vhdx: (4)66
+/path/to/out.plaso: (4)64
+/reconstructdataruns: (5)79
+/restrictedadmin: (1)126
+/ru: (2)123
+/sc: (1)74, (2)123
+/st: (1)74, (2)123
+/tn: (1)74, (2)123
+/tr: (1)74, (2)123
+/triage-output/: (4)75
+/triage/dir/: (4)66
+/triage/directory/: (4)66
+/user:user: (2)127
+/w:<drive>: (5)88
+/w:c: (5)91
+<$fn: (5)48
+<*|bdeghiklmoprsw>: (1)85
+<..continued..>: (4)78
+<..snip..>: (4)79
+<: (3)176
+<artifact>: (5)65
+<body>: (4)44
+<coleumn>r: (1)116
+<column>.<nested: (1)116
+<column>: (1)116
+<csv>: (4)44
+<dd>: (4)44
+<de>: (4)44
+<desc>order: (1)116
+<dir-of-exe>: (4)6
+<dir: (2)9
+<dir>: (2)6, (2)9, (4)43
+<do>: (4)44
+<ds>: (4)44
+<dt>: (4)44
+<entrynumber>-<sequencenumber>_<filename>.bin: (4)44
+<exe: (2)6
+<f>: (4)44
+<file: (4)11
+<file>: (3)131, (4)15, (4)43
+<filename>: (2)9, (3)167, (4)43, (5)16
+<filter: (4)69
+<format>: (4)15
+<hostname>$: (2)56
+<image: (3)53
+<image>: (5)97
+<json>: (4)44
+<m>: (4)44
+<memory>: (3)91
+<mft#>-<attributetype>-<attributeid>: (5)53
+<mounted: (4)13
+<new: (1)116
+<num>: (3)167
+<output-directory>: (5)97
+<password: (1)129
+<root_dir>: (4)13
+<scource>: (5)14
+<sec>: (4)45
+<source>: (5)13
+<systemroot>: (1)85
+<target>: (4)71
+<threads>: (4)11
+<tz>: (4)64
+<unknown>: (3)148
+<username>-p: (1)129
+<userprofile>: (1)85
+<volume-letter>: (5)111
+<x>.e: (5)91
+<x>: (5)91
+<xxxx>: (5)91
+=${#/~}+: (2)168
+=${#/~}: (2)168
+=(${#/~}: (2)168
+=(${#/~}=: (2)168
+=r~: (1)116
+>file: (5)48
+\"c:\\windows\\system\\rundll.exe: (2)155
+\$recycle.bin: (1)60
+\??\: (3)154
+\\...\c$\windows\temp\.bat: (2)30
+\\...\c$\windows\temp\browsinghistoryview.exe: (2)30
+\\...\pipe\psexesvc-<sourcehostname>-<pid>-stderr: (2)122
+\\...\pipe\psexesvc-<sourcehostname>-<pid>-stdin: (2)122
+\\...\pipe\psexesvc-<sourcehostname>-<pid>-stdout: (2)122
+\\.\g: (5)34
+\\.\pipe\#######: (3)79
+\\\"c:\\windows\\perfc.dat\\\: (2)155
+\\admin\$"}: (2)180
+\\host: (2)120, (2)123
+\\host\hklm\software\microsoft\windows\currentversion\run: (2)123
+\\server\share\autoruns.csv: (1)85
+\\siftworkstation\cases\response\...-arun.csv: (1)85
+\appdata: (1)60
+\device\harddiskvolume\temp\mz.exe: (2)146
+\device\physicalmemory: (5)120
+\device\physicalmemorycould: (3)11
+\program: (1)60, (3)107
+\programdata: (1)60
+\system: (1)60
+\temp: (1)60
+\windows: (1)60, (1)75, (2)121
+\windows\flash_installer.msi: (3)172
+\windows\ntds: (1)156
+\windows\system: (1)60, (1)75, (3)30, (3)107, (3)153
+\windows\system\drivers: (3)153
+\windows\system\lsass.exe: (3)128
+\windows\system\ntmarta.dll: (3)127
+\windows\system\tasks: (1)74, (2)93
+\windows\syswow\tasks: (2)93
+\windows\tasks: (1)74
+\windows\temp\perfmon: (5)65
+\windows\winsxs: (3)107
+\winsxs: (1)60
+__eventconsumer: (1)80
+__eventfilter: (1)80
+__eventfilteras: (1)79
+__filtertoconsumerbinding: (1)80
+__filtertoconsumerbinding{: (1)79
+__instancemodificationeventwithin: (1)79
+_com: (3)100
+_corrupted: (5)105
+_notlinked-xfffbe.dll: (3)133
+_readwrite: (3)118
+a(--shiolw_knocwn)om: (3)52
+a(note: (5)14
+a-access: (4)33
+a.b.c.d: (1)39
+a.exe: (3)39, (5)31, (5)59, (5)62
+a/cases/cdrcive/out.boddyfile: (4)45
+a:,s: (5)135
+a=: (5)111
+a_dmcinoistrmator: (1)145
+a_dmicn: (1)157
+a_rtifaccts: (2)122
+aa/vil: (3)100
+aaa.aaa: (5)86
+aadauthhelper.dll: (3)130
+aalso: (1)77
+aan: (1)41
+aand: (2)117
+aat: (5)51
+abilities: (2)57
+abilityy: (1)28
+able: (5)77
+abnd: (1)7
+abo: (3)150
+about: (5)70
+aboutdata: (5)25
+abttriebutresr: (5)32
+abuout: (5)27
+acacounts: (2)56
+acbtiviety: (2)183
+accepteula: (1)85, (2)120
+accerss: (1)38
+access: (1)18, (1)29, (4)33
+access:audit: (2)42
+accesscontrol: (2)40
+accessdata: (5)97
+accessthe: (1)146
+accodunt: (3)71
+accomdplished: (1)152
+accordingto: (1)65
+account(for: (3)70
+account)—password: (1)129
+account/workgroup: (2)69
+account: (1)140, (2)72, (3)71
+accountmust: (1)145
+accountname,and: (2)91
+accounts.[]while: (1)125
+accounts: (1)124
+accounts;change: (1)155
+accountsd: (1)29
+accountsession: (2)52
+acctivescdript): (1)82
+acc}{b-c-e-bae-ecc}: (5)10
+acd: (2)115, (2)134
+acdbe-d-a-a-ad: (4)78
+acdcess: (2)134
+acdcouant: (2)113, (2)119, (2)135
+acdrosds: (5)17
+acehash(cid:: (1)145
+acehash: (1)127, (1)141
+achievable—there: (1)30
+achievingdomain: (1)156
+acitivvitiees: (4)50
+ackd: (3)51
+acmtion: (2)143
+acoct: (1)123
+acquaisitioin: (1)54, (2)4, (3)3, (4)3, (5)3
+acquisitiontools: (3)11
+across: (5)31
+act/react/counteract: (1)23
+actdive: (5)10
+active: (3)143
+activescript: (2)160
+activescriptconsumers: (2)160, (3)49
+activescriptevent: (2)157
+activescripteventconsumers: (1)82
+activescripteventconsumersare: (1)83, (3)49
+activexobject: (1)82, (2)160
+activexobjectall: (2)160
+activities: (3)6
+activity.[]an: (2)163
+activity.ddacd: (2)51
+activity/operational: (2)128
+activity—intended: (2)62
+ad: (3)39, (3)64
+adbouta: (5)108
+adctivity: (1)37
+adctiwvity: (1)74
+add-in: (1)69, (1)84
+add-ins: (1)85
+add-on: (2)151, (2)175
+add-ons: (1)85
+addded: (5)73
+addditional: (2)71
+addindexendtryallocadtiona: (5)72
+addindexentryallocation: (5)71, (5)72
+addindexentryroot: (5)71
+addison-wesley: (5)39, (5)52, (5)61
+additio: (4)89
+additional: (3)82
+adl_applicationprofiles_system_relliovad: (3)64
+adl_applicationprofiles_system_reload: (3)64
+adlmiinvistrateion: (1)18
+admin$: (1)123, (2)81, (2)117, (2)121, (2)180, (5)120
+admin-equivalent: (2)58
+admin-friendly: (1)125
+admin-level: (2)58
+adminaction: (1)129
+administrator-equivalent: (2)46
+administrator-level: (2)58, (4)52
+administrator—assignment: (2)58
+admins: (1)157, (2)114, (2)130, (2)153
+adminto: (1)157
+admo: (1)127
+adnad: (2)116
+adnd: (1)12, (3)14
+adrdirndeyxentryallocation: (5)72
+adre: (3)119
+ads: (5)51
+adsdll.dll: (5)56
+adsldpc.dll: (3)147
+adttackwer: (1)28
+advaentage: (5)110
+advanced: (3)143
+advapi.dll: (3)147
+adveersarby: (1)28
+advelrsiarvy: (1)24
+adversadry: (1)57
+adversary-controlled: (1)22, (1)25
+adversary—fighting: (1)33
+adversary—nation-state: (1)65
+advisory: (1)135
+aeble: (5)37
+aeddismon-wevsley: (5)70
+aedditironarl: (1)7
+aell: (2)122
+aend: (1)152
+aerticle:b: (1)112
+aewffmozunat: (5)16
+afew: (1)40
+afinal: (1)103
+afinalsly: (1)40
+afor: (3)156
+afromi: (1)77
+after-hours: (1)123
+after: (5)108
+aftercredential: (1)157
+ag*.db: (2)7
+against: (5)48
+again—producing: (4)43
+agapplaunch.db: (2)7
+agccemss: (1)148
+agccesms: (3)59
+agent-based: (2)27, (2)178
+agent-free: (2)179
+agents: (1)91
+agoc: (1)40
+agrobust.db: (2)7
+ahnlab: (2)132
+ahnlabpress: (2)132
+ahnlabserver: (2)132
+ahnlabwas: (2)132
+aidxil_mcs: (4)61
+ail_cboinariems: (5)95
+ail_com: (2)17, (2)38, (2)96, (3)111, (4)77
+aindv: (3)86
+ainir: (3)150
+aivavilabele: (5)11
+akill: (1)112
+alclowos: (1)148
+aleready: (1)41
+alert: (4)27
+aleso: (3)185
+all-access: (1)151, (1)152, (1)155
+all: (3)18, (3)165, (3)174
+alll: (3)17
+allow-list: (1)82
+allow-listing: (1)61
+allowing: (1)57
+allowlist: (1)81, (1)82, (2)158, (2)160, (3)183
+allowlisting: (1)82
+allowlistingand: (2)23
+allowlistingcan: (2)183
+allowlistingcommon: (2)74
+allowlistingsolutions: (1)62
+allowlistthe: (1)80
+allthe: (5)82
+almi: (2)47
+almyost: (5)28
+alnid: (3)28
+alone—a: (1)76
+alphanumeric: (5)63
+already: (1)76
+also: (1)97, (3)14, (3)118
+alternatecontent: (5)24
+alternatedata: (5)24
+alterrnartivcely: (3)125
+althoughthat: (3)17
+althrourghc: (5)72
+althzougyh: (3)162
+always-on: (3)14
+amadey: (3)46, (3)88
+amadeyimage: (3)88
+amadeymalware: (3)88
+amcache(amcache.hve: (4)59
+amcache.hve: (2)17, (2)19, (2)21, (2)24, (2)28, (5)120
+amcache.hvedatabase: (2)19, (2)142
+amcache.hvefile: (2)25
+amcache.hveinventorydriverbinarykey: (2)21
+amcache.hvekeys: (2)24
+amcache_driverbinaries: (2)25
+amcache_programentries: (2)24, (2)25
+amcache_unassociatedentries: (2)25
+amcacheparser: (2)23, (2)24, (2)25
+amcacheparserattempts: (2)24
+amcacheparsercan: (2)23
+amcacheparserdivides: (2)24
+amcacheparseris: (2)23
+amcacheparseroutputs: (2)24
+amcacheparserto: (2)25
+amcacheparserwill: (2)23
+amcacheunder: (2)17
+amdocl_as.exe: (3)64, (3)72
+amdocl_as.exewith: (3)64
+amnd: (2)183
+amoeunt: (4)52
+amongdst: (5)94
+amount: (1)71
+amsi: (2)143, (2)168, (3)129
+an: (2)167, (3)39, (3)64, (3)75, (3)143, (4)92
+anaccesstoken: (3)68
+anadlyst: (5)65
+anadversary: (2)60
+analysgis: (5)92
+analysis.z: (5)70
+analysis: (2)104, (3)18, (4)70, (4)84, (5)102
+analysis:the: (4)22
+analysis—file: (5)82
+analyzing: (1)140
+anb: (5)105
+ancd: (3)168
+and/dor: (2)179
+andc: (2)180
+andchanging: (1)113
+andd: (5)22, (5)114
+andextract: (4)80
+andfile: (2)14
+andg: (3)102
+andit: (5)5
+andnotrelying: (3)183
+android_app_usage: (4)62
+android_calls: (4)62
+android_sms: (4)62
+andthreadmapin: (3)135
+andw: (5)55
+andwhere: (1)157
+and|or: (1)116
+aned: (1)58, (3)48, (4)24
+anialnysiss: (1)77
+anidentified: (3)115
+anlaliytvical: (1)5
+anmd: (1)141, (1)145
+anomalilesi: (3)56
+anotmher: (5)90
+anoutput: (1)103
+anrd: (1)33
+anti-analysis: (4)5, (4)14
+anti-detection: (4)5
+anti-forensic: (4)20, (4)39, (5)5
+anti-forensics/timestomping: (1)62
+anti-malware: (1)15, (2)143, (2)145, (2)177, (3)111
+anti-virus: (1)56, (1)76, (2)139, (2)143, (3)61, (3)90, (3)131, (3)161, (4)5, (4)8, (4)12, (4)39, (4)57
+antimalware: (2)168
+antivirus/hips/exploit: (2)134
+anud: (1)126, (4)44
+anumber: (3)6
+anwd: (3)103, (3)174
+any: (1)154, (4)42
+anydomain: (1)151
+anyl: (5)11
+aof: (2)167
+aparent: (1)145
+apfs: (5)34
+api-based: (1)62, (3)183
+api-like: (2)77
+api.[: (1)112
+apihooks: (3)139, (3)147, (3)148, (3)157, (5)120
+apihooksincludes: (3)148
+apihooksplugin: (3)139, (3)147, (3)148
+aploy: (3)173
+app_web_blfyv.dll: (3)75
+appcompat: (4)59
+appcompatcache(aka: (2)28
+appcompatcache: (2)15, (2)16, (3)162, (4)59, (4)79, (5)47
+appcompatcachecan: (2)15
+appcompatcachecould: (2)15
+appcompatcachedatabases: (2)15
+appcompatcacheentries: (2)15
+appcompatcacheentry: (2)15
+appcompatcacheinsertflagis: (2)15
+appcompatcacheis: (2)14, (2)15
+appcompatcacheparser.exe: (5)47, (5)48
+appcompatcacheparser: (2)16
+appcompatcacheparseris: (2)16
+appcompatcachepreemptively: (2)15
+appcompatcacheregistry: (2)15
+appcompatcacheshows: (5)48
+appcompatcacheto: (2)14
+appcompatcachetracks: (2)14
+appcompatcachevalue: (2)16
+appcompatprocessor.py: (2)28, (2)29, (2)30, (2)32, (5)120
+appcompatprocessor: (2)28
+appcompatsearch.txt: (2)30
+appcrash: (2)140
+appdata\roaming: (3)64
+appdata\roaming\microsoft\nsacwesqczltkfvohq: (3)176
+appevent.evt: (2)38
+appfirewall.log: (4)63
+appinitdlls: (1)85
+appleacco: (4)62
+applicatiodn: (5)68
+application-specific: (2)114
+application.evtx: (2)38
+application: (2)113, (2)119, (2)135
+applicationand: (2)142
+applocker/device: (1)76
+applocker: (1)76
+approeach: (1)6
+appusage: (4)62, (4)63, (4)71
+aprocess: (3)68
+apt: (1)72, (1)73, (1)76, (3)44, (3)64, (3)118
+apt_history: (4)71
+aqddinedexemntryavllocationa: (5)72
+aqlso: (3)103
+arccoyunt: (1)126
+archgive: (4)13
+archieyved: (1)38
+architected: (1)15, (2)114
+archive-security-<date>: (2)39
+arctiyon: (2)143
+ards: (5)51
+ardvrancyed: (1)12
+are: (1)76, (1)154, (2)15, (3)51, (3)118, (4)6, (5)6, (5)38, (5)51
+aree: (5)105
+areone: (1)153
+aretypically: (5)95
+arez: (1)41, (5)51
+args: (3)60, (5)64, (5)65
+arguments: (3)66
+arnalyyzed: (3)168
+arnd: (5)34
+arnyalysis: (1)93
+arounds: (1)64
+arre: (5)73
+arrivingl: (4)54
+arrre: (1)145
+article: (5)105
+artidfact: (4)28
+artifact(s: (1)114
+artifact-based: (4)30, (4)94
+artifact-less: (5)5
+artifact: (4)70
+artifact—has: (5)104
+arye: (5)37
+as-is: (1)113
+as: (1)97, (1)114, (2)71, (3)64, (3)161, (5)90, (5)92, (5)105
+ascii: (3)168
+asection: (3)117
+asep: (1)70, (1)73, (5)121
+aseps: (1)70, (1)71, (1)84
+asjob: (5)121
+asl: (4)62, (4)63
+asl_log: (4)63, (4)71
+asll: (3)164
+aslowly: (2)57
+asnapshot: (3)12
+asndb: (1)0, (2)0, (3)0, (4)0, (5)0
+asp.net: (3)75
+assigned/committed: (3)111
+astrategic: (5)111
+asuch: (5)96
+asy: (2)89
+at*.job: (1)74
+at-job: (4)58
+at.exe: (1)74, (2)94, (5)59, (5)62, (5)121
+at.job: (1)74
+at: (1)99, (5)24
+atdtribautecd: (5)49
+atherfe: (3)162
+atiumdag.dll: (3)64
+atl: (1)30
+atomicindicators: (1)38
+att&ck: (1)43, (1)44, (1)45, (1)47, (3)125, (4)14, (5)121
+att&ck®: (5)56
+att&ck™: (1)43
+att: (3)51
+attachedl: (3)144
+attack: (2)54, (3)30, (3)130
+attacker-collected: (1)153
+attackeres: (2)15
+attacks.[,: (3)103
+attacks: (2)104
+attaeck: (3)138
+attarckerr: (2)122
+attdacks: (1)128
+attention-grabbing: (1)42
+attribdute: (5)61
+attributes"—that: (1)41
+attributes: (5)51
+attsribubtes: (5)36
+attzacksy: (1)152
+audit/limit: (1)155
+audit: (2)43
+auditingin: (3)91
+auediting: (3)139
+aund: (5)51
+aunlinkecd: (3)130
+authentication.[]this: (1)126
+authentication: (2)71
+authenticode(filename=exe)asauthenticode: (1)113
+authlenitivcatee: (2)85
+authority—in: (3)70
+authorizedlogon: (2)42
+authroot.stl: (4)6
+authrootstl.cab: (4)6
+auto-compiled: (1)78
+auto-generated: (2)64
+auto-loads: (1)72
+auto-log: (2)164
+auto-login: (1)146
+auto-logon: (1)145
+auto-mount: (5)16
+auto-profile: (3)20, (3)90
+auto-start: (2)154
+autoexec.bat: (5)15
+autorecover: (1)79
+autorun: (1)70, (1)86
+autoruns: (1)71, (1)73, (1)79, (1)84, (1)85, (1)113, (1)117, (4)91, (5)121
+autorunsc.exe: (1)84, (1)85, (5)121
+autorunsc.exefrom: (1)85
+autorunsc: (1)85
+autorunscis: (1)85
+autostart: (1)69, (1)70, (1)72, (1)84
+autostartentry: (1)85
+autostartinglocations: (1)85
+autostartservices: (1)85
+autostartutilities: (1)85
+auty: (3)20
+av/edr: (5)56
+available: (3)174
+aveailarbrley: (3)156
+aversion: (3)103
+avgailamble: (3)185
+avira: (4)12
+avnd: (3)79
+avs: (2)175
+aws: (1)108
+awyare: (3)174
+aynd: (5)72
+ayou: (5)111
+ayuebzyq:: (5)137
+ayuebzyqemvasrrrcmmk: (4)81
+azccoaunt: (1)126
+azre: (3)162
+aðsafnaöllu: (4)56
+a“golden: (1)151
+b-birth: (4)33
+b-tree: (5)57, (5)58, (5)59, (5)62, (5)121
+b-trees: (5)59, (5)63
+b/mnt/ezwf_ymounqt/: (5)16
+baad: (5)37, (5)38
+back: (1)71
+backchannel: (2)46
+backdataed: (5)47
+backdoors: (1)36, (1)39, (1)74, (1)78, (1)152, (2)46, (2)62, (2)98, (3)44, (3)50, (3)66, (3)84
+backed-up: (5)10
+backed: (3)101
+backend: (1)111, (4)56, (4)64
+backgrocund: (1)97
+backgroundtaskhost: (2)6
+backported: (1)125, (2)17, (2)147, (2)156
+bacse-admin: (2)64
+badrabbit: (1)82, (2)155
+bads(e.g: (2)17
+bagmru(or: (4)59
+bagmru: (4)59, (4)79
+balind: (2)128
+ballenthin'sevtxtractgithub: (5)106
+ballenthin: (5)65, (5)106
+bam/dam: (2)120
+barian.file: (5)70
+bartato: (3)52
+base-encoded: (2)166, (5)94
+base-file: (5)98, (5)103
+base-filefrom: (5)103
+base-fileserver: (5)103
+base-rd---: (2)30
+base-rd-: (2)72, (5)49, (5)80
+base-wkstn---: (2)30
+base-wkstn-: (2)72, (2)87
+base: (1)39, (2)149, (2)158, (2)169, (5)94
+based: (5)72
+baselgine: (3)52
+baselined: (3)153
+baseliner(darkcomet: (3)54
+baselinerallows: (3)56
+baselining: (3)52
+basenamedobjects: (3)59
+bash_history: (4)71
+basicinfochange: (5)90
+basis: (1)154
+battle-tested: (1)87, (3)20
+bby: (2)122
+bconetenrt: (5)25
+bcurrenet: (1)126
+bcw-dir-nodes: (5)90
+bcwipe: (5)88, (5)89, (5)90, (5)91, (5)92, (5)121
+bcwipeand: (5)88
+bcwipedoes: (5)88
+bcwipefirst: (5)88
+bcwipeis: (5)88
+bcwiping: (5)89
+bcy: (1)0, (2)0, (3)0, (4)0, (5)0
+bdeen: (2)128
+bdl<bdl>: (4)44
+bdlc: (4)43
+bdlis: (4)44
+bdy: (1)126
+be: (1)57, (2)38, (2)51, (2)124, (2)162, (2)180, (3)107, (3)164, (5)14, (5)111
+beannerd: (1)86
+because: (3)173
+bedfore: (5)28
+beecause: (5)101
+beeln: (5)67
+been: (2)57
+befomre: (1)28
+before: (1)40
+begin: (4)26
+being: (1)100
+believed: (1)40
+belkasoftevidence: (3)13
+belkasoftlive: (3)11
+below: (3)119
+bencode: (4)57, (4)62, (4)71
+bencode_transmission: (4)57, (4)62, (4)63
+bencode_utorrent: (4)57, (4)62, (4)63
+bencoded: (4)63
+bencodedfiles: (4)57, (4)62
+berggren: (4)97
+best-case: (1)98
+best: (1)37, (2)160
+beteter: (2)163
+better: (1)57, (4)73
+beut: (1)53, (3)101
+bevilacqua: (2)28
+bfor: (5)90
+big-picture: (5)33
+biin: (4)24
+binary: (1)49
+bindep: (1)105
+binpath=: (2)123
+bit-for-bit: (3)161, (5)108
+bitcode: (3)34
+bitlocker: (5)11, (5)107, (5)108
+bitsadmin.exe: (1)61
+bitstransfer: (2)167
+biuivlt-in: (1)72
+biyl: (2)171
+blackenergyversion: (3)141
+blackhole: (1)21
+blackpos: (3)80
+bleachbit: (5)93
+blelnid: (3)37
+bliniarvies: (1)105
+blkls: (5)105, (5)106, (5)121
+blks: (5)106
+blmend: (3)85
+block).[]a: (3)124
+blocklist: (1)82, (2)164, (3)156
+blocklisted: (2)131, (2)163
+blocklistedcmdlets: (2)131
+blocklistingbased: (2)23
+blocks—the: (5)33
+bloclk: (2)72
+blog: (1)41, (1)42, (1)112, (2)7, (2)146, (3)44, (3)52, (3)116, (3)149, (5)94
+blogs: (1)70
+bloodhoodgraph: (1)157
+bluetooth: (4)62, (4)63
+bmc-tools.py: (2)114
+bobve: (3)85
+bodeyfile”d: (4)45
+bodyf: (4)43
+bodyf<bodyf>: (4)44
+bodyfile(file: (4)83
+bodyfile-z: (4)46
+bodyfile/: (4)50
+bodyfile: (4)43, (4)44, (4)45, (4)46, (4)63, (4)79, (5)121
+bodyfileas: (4)46
+bodyfilecontaining: (4)46
+bodyfileformat: (4)45, (4)83, (5)48
+bodyfileformatted: (4)44
+bodyfilelocation: (4)46
+bodyfilewith: (4)46
+boffset: (5)51
+boolean: (1)49
+boot: (4)60
+bootcamp: (4)33
+bootcfg.exe: (5)59, (5)62
+bootkit: (3)138, (3)151
+bootkits: (1)60, (2)21, (3)138, (3)149
+bootkitsand: (3)139
+bootmgr: (5)15
+bootsect.bak: (5)14, (5)15
+bootup: (1)85
+borland: (4)16
+bosyton: (5)70
+boteh: (3)103
+both: (3)168
+boththe: (2)83
+botnet: (2)54
+bottom-left: (5)87
+bottom-right: (5)87, (5)98
+bpython.dll: (1)50, (4)10
+bqit: (3)162
+brian.file: (5)39, (5)52, (5)61
+broadcasted: (1)25
+bromiley: (5)15
+browser-based: (1)0, (2)0, (3)0, (4)0, (5)0
+brruter-fyorce: (1)157
+bsm_log: (4)63, (4)71
+bstrings.exe: (3)168
+bstrings: (3)167, (3)168, (5)108
+bstringsfrom: (3)168
+bstringsor: (5)107
+bstringsutility: (3)169
+btimeleine: (4)30, (4)94
+btsvcs: (3)37
+buet: (1)28
+buielt-in: (4)6
+building: (1)33
+built-in: (2)117
+built-lini: (3)156
+bulk_extractor-rec: (5)105, (5)106
+bulk_extractor: (5)121
+bulk_extractr-rec: (5)104
+bulkextractor: (3)13
+but: (1)77
+butw: (1)40
+buy-in: (1)33
+bvtfilter: (1)82, (2)160
+bwut: (3)53
+by: (1)116, (2)57, (4)70, (5)79
+byd: (3)39, (3)141, (5)34
+byi: (3)120
+byl: (3)26
+byovd: (3)149, (3)156
+bypwass: (1)62
+byr: (3)80
+byte-level: (2)38
+byte: (5)38
+bytesg: (5)70
+c(attackers: (2)124
+c++: (3)90
+c-change: (4)33
+c-drive: (5)13, (5)65
+c-level: (5)11
+c: (2)54
+c:/windows/mnemosyne.sys: (4)52
+c:/windows/subject_srv.exe: (4)52
+c:\$recycle.bin\<sid>: (5)76, (5)77
+c:\: (3)13
+c:\>: (2)9, (4)6, (4)43
+c:\>autorunsc: (1)85
+c:\ads\file.txt: (5)56
+c:\calc.exe: (4)41
+c:\data: (5)24
+c:\evil.exe: (2)123, (2)124, (2)127
+c:\forensic: (5)79
+c:\kb:aclui.dll”,dllmain: (1)61
+c:\program: (2)115
+c:\programdata: (2)32
+c:\programdata\microsoft\search\data\applications\windows\gatherlogs\systemindex: (5)86
+c:\programdata\microsoft\windows: (2)143, (2)144
+c:\programdata\microsoft\windows\start: (2)30
+c:\programdata\microsoft\windows\wer: (2)140, (2)142
+c:\programdata\staging\za.exe: (2)30
+c:\temp: (2)10, (2)91, (2)140
+c:\temp\bout: (4)43
+c:\temp\calc.exe-fbeffd.pf: (2)10
+c:\temp\evil.exe: (2)120, (2)123, (2)127
+c:\temp\evil.exe}: (2)129
+c:\temp\jsonout: (4)43
+c:\temp\malware.exe: (2)123
+c:\temp\mz.exe: (2)145
+c:\temp\onedrive: (4)12
+c:\temp\out: (4)43
+c:\temp\output: (1)109
+c:\temp\somemft: (4)43
+c:\temp\winsvchost.exe: (1)74, (2)91
+c:\tools\kansa>: (1)103
+c:\users\*\appdata\roaming\microsoft\windows\recent: (5)76, (5)77
+c:\users\*\downloads: (5)77
+c:\users\admin\: (3)176
+c:\users\admin\appdata\: (3)169
+c:\users\admin\appdata\roaming\ati_subsystem\amdocl_as.exe: (3)64
+c:\users\admin\appdata\roaming\ati_subsystem\atiumdag.dll: (3)64
+c:\users\spsql\appdata\local\temp\rarsfx\setup.exe: (2)30
+c:\users\tdungan\downloads\: (5)58
+c:\users\tdungan\downloads\eb.html: (5)49
+c:\windows: (1)75, (1)105, (2)81, (3)11, (3)153, (4)8, (4)54, (5)76
+c:\windows\\: (2)154
+c:\windows\perfc.dat: (2)155
+c:\windows\prefetch: (2)6, (2)10, (5)76
+c:\windows\schedlgu.txt: (1)74
+c:\windows\system: (1)75, (2)6, (4)27, (4)54, (5)46, (5)47, (5)54, (5)76, (5)77
+c:\windows\system\dllhost\svchost.exe: (5)48
+c:\windows\system\pa.exe: (4)8
+c:\windows\system\srv.exe: (2)93
+c:\windows\system\svchost.exe: (2)100, (3)48
+c:\windows\system\tasks: (2)94
+c:\windows\system\userinit.exe,c:\temp\winsvchost.exe: (1)70
+c:\windows\systemand: (4)26
+c:\windows\systemsettings.exe: (4)54
+c:\windows\tasks: (2)94
+c:\windows\temp\config.mof: (2)184
+c:\windows\temp\kb.exe: (2)184
+c:\windows\temp\perfmon\p.exe: (4)8
+ca: (2)54
+caan: (1)112
+caarvercd: (5)98
+cached: (3)174
+cachedcredentials: (2)50
+cachedl: (3)61
+cachedlogonscount: (1)144
+cachedlogonscountvalue: (1)144
+cachedremote: (2)50
+cachedump.py: (1)142
+cachedump: (1)141
+cachedumpand: (1)141
+cadn: (3)31
+cadpaable: (2)123
+cajigashave: (1)108
+calc.exe: (3)62, (5)59, (5)62
+cald: (1)99
+call: (2)127
+called: (2)94
+caln: (5)85
+calustesrs: (5)105
+campaeignsm: (1)42
+campeaign: (1)42
+can: (1)152, (2)38, (2)133, (2)180, (5)108
+cang: (1)127, (4)92
+canimmediately: (1)132
+cannot: (1)140
+capa.exe: (4)15
+capaaccomplished: (4)14
+capabilities: (3)168
+capability: (1)97
+capabilityc: (1)33
+capacan: (4)15
+capais: (4)15
+capaproject: (4)14
+capatool: (4)14
+capawill: (4)15
+capawith: (4)14
+caption,command,location,user: (2)153
+caption,description,hotfixid,installedon: (2)153
+cariticiall: (2)143
+carrfiezr: (5)70
+carrver: (5)105
+carveyin: (2)94
+carving: (5)38
+case,a: (4)30, (4)94
+case-by-case: (5)101
+case-dependent: (5)95
+case-insensitive: (4)73
+case-related: (1)6
+case-sensitive: (1)141, (3)167, (5)42
+case-spedcifica: (5)99
+case: (5)42
+cases,if: (1)156
+cases: (5)47
+casesa: (1)76
+caumsing: (3)164
+cayn: (1)39
+cbarton-a: (1)18, (4)52
+cbhangeed: (2)96
+ccapability: (1)38
+cchannels: (4)20
+ccleaner: (4)59, (5)93
+ccleanerregistry: (4)59
+ccmmdd..eexxee: (5)59, (5)62
+ccontain: (3)174
+cd-roms: (4)29
+cdaa: (3)141
+cdhangaing: (5)47
+cdhildren: (3)46
+cdocuments: (5)96
+cdollaect: (2)180
+cdompdroamisecd: (1)139
+cealled: (5)46
+ceartainly: (3)174
+cehina: (1)12
+celean-udp: (5)92
+ceommodn: (3)164
+ceontrolds: (4)92
+cereddentwialsinsb: (1)127
+certairn: (2)15
+certs: (1)65
+certutil.exe: (1)61, (2)27
+cfile: (3)175
+cgleanm: (5)66
+chadrgeda: (1)37
+chain®: (1)38
+challenge-response: (1)127
+chandging: (1)154
+change: (5)70
+changed: (2)38
+changed—not: (5)67
+changeof: (2)42
+changes: (2)183, (5)22
+changinlg: (5)46
+characgteristmics: (1)112
+cheatsheet: (3)21
+checkedd: (3)56
+chede: (2)89
+chicken-and-egg: (1)100
+child: (3)66
+china-based: (1)72
+chip-to-cloud: (3)149
+chkdsk: (5)111
+chkdsk<volume>: (5)67
+choosee: (3)162
+chrome.exe-aa.pf: (2)6
+chrome.exe: (3)30, (3)70
+chrome__cookie: (4)71
+chrome__cookies: (4)71, (4)79
+chrome__history: (4)71, (4)79
+chrome_autofill: (4)71, (4)79
+chrome_cache: (4)61
+chrome_cookies: (4)61
+chrome_extension_activity: (4)61, (4)71
+chrome_history: (4)61
+chrome_preferences: (4)79
+chromium-based: (5)54
+ciann: (1)41
+ciannnot: (3)168
+cianv: (3)129
+cid:)#: (5)16, (5)101
+cid:)$attrdef: (5)14
+cid:)$badclus: (5)14
+cid:)$bitmap: (5)14
+cid:)$boot: (5)14
+cid:)%appdata%\roaming\microsoft\windows\start: (1)70
+cid:)%systemdrive%\pagefile.sys: (3)11
+cid:)%systemdrive%\swapfile.sys: (3)11
+cid:)%systemroot%\memory.dmp: (3)11
+cid:)(security: (2)147
+cid:)-record: (2)157
+cid:)/: (2)89, (2)161
+cid:)/:successful: (2)46
+cid:): (1)145, (2)46, (2)62, (2)74, (2)80, (2)83, (2)89, (2)96, (2)143, (2)157, (2)161
+cid:):a: (2)96
+cid:):account: (2)46
+cid:):failed: (2)46
+cid:):script: (2)161
+cid:):successful: (2)46
+cid:)applicationevent: (2)139
+cid:)autoexec.bat: (5)14
+cid:)boot: (5)14
+cid:)bootmgr: (5)14
+cid:)c:\programdata\microsoft\windows: (2)143
+cid:)event: (2)139
+cid:)icat: (5)97
+cid:)is: (2)157
+cid:)logtimeline.py: (4)66
+cid:)microsoft-windows-powershell%operational.evtx: (2)161
+cid:)microsoft-windows-powershellcore%operational.evtx: (2)161
+cid:)microsoft-windows-windows: (2)143
+cid:)microsoft-windows-wmi-activity%operational.evtx: (2)157
+cid:)ntuser.dat\software\microsoft\windows\currentversion\run: (1)70
+cid:)ntuser.dat\software\microsoft\windows\currentversion\runonce: (1)70
+cid:)securityevent: (2)80
+cid:)securitylog: (2)46, (2)62
+cid:)software\microsoft\windows: (1)70
+cid:)software\microsoft\windows\currentversion\run: (1)70
+cid:)software\microsoft\windows\currentversion\runonce: (1)70
+cid:)system: (2)139
+cid:)tsk_recover: (5)97
+cid:)windows: (2)161
+cid:)winrm/operational: (2)161
+cid:: (1)127, (1)136, (1)141, (1)145, (1)148, (1)156, (2)38, (2)117, (3)38, (5)17, (5)101
+cihlec_k: (4)6
+cin: (2)56
+cioa: (3)64
+ciopvyinge: (4)35
+cipher.exe: (5)88, (5)91, (5)92
+cisa: (3)124
+cla: (1)0, (1)108, (2)0, (3)0, (4)0, (5)0
+classictoken: (1)137
+clcoud: (5)47
+cleaners: (5)93
+clear-eventlog: (3)49
+clear-text: (3)5, (5)86
+cleartext: (1)127, (1)145, (2)50
+cliasvs: (1)58, (4)24
+client-server: (1)111
+client-side: (1)17, (2)46, (2)180, (3)139
+client-vpn: (1)17
+client\servers: (2)114
+clientmachine: (2)160
+clioent: (1)114
+cloninevctioens: (3)84
+cloppert: (1)38
+cloppertand: (1)42
+cloppertas: (1)41
+closelcy: (3)31
+cloudand: (1)21
+clr.dll: (3)134
+clreiatved: (3)101
+clustedr: (5)79
+cluster: (5)106
+clusters: (5)50
+cmany: (1)25
+cmdlet: (1)78, (1)79, (1)94, (1)96, (1)97, (2)180
+cmdlets: (1)93, (1)94, (1)105, (2)74, (2)131, (2)161, (2)163, (2)167, (3)49, (5)56
+cmdlets—execute: (1)99
+cmdline: (3)52, (3)63, (3)64, (5)122
+cmdscan: (3)162, (5)122
+cmdscanand: (3)162, (3)169
+cmmk: (5)122
+cnot: (1)57
+coallection: (3)174
+coamputer: (1)21
+coddea: (3)165
+code(s: (5)80
+code-injected: (2)134
+code-named: (1)16, (5)55
+code-signing: (1)63, (1)64
+code.[]the: (3)130
+codemeter/hasp: (3)147
+code—an: (3)113
+code—potential: (3)117
+coennections: (1)157
+coentent: (5)51
+coerrurprtioyn: (2)77
+coimnplete: (3)62
+coiulnd: (1)42
+collect: (2)181
+collected: (5)96
+collection.the: (1)103
+collection/exfiltration: (1)56
+collection: (1)100, (1)112
+collectorscripts: (1)103
+colmiprvise: (1)36
+colmipvreheensive: (5)107
+color-code: (2)77
+color-coded: (4)91
+colorized: (2)9, (4)92
+column: (4)42
+com: (2)62
+comamansds: (3)125
+comcposedd: (3)59
+comdlg: (5)93
+comdmands: (3)44
+comdpaarator: (4)7
+comel: (2)142
+cominmosn: (5)32
+comma-delimited: (4)46
+comma-separated: (2)9, (4)71
+commaend: (5)28
+command-lines: (1)47, (1)109
+command: (3)66
+command_historybuffers: (3)162
+commandline: (1)113, (2)160, (3)122
+commandlineand: (2)160, (3)49
+commandlineevent: (2)157, (3)49
+commandlineeventconsumer: (1)80
+commandlineeventconsumeras: (1)79
+commandlineeventconsumerattack: (3)49
+commandlineeventconsumers: (3)51
+commandlineeventconsumersallow: (1)82
+commandlineeventconsumersand: (1)82
+commandlinetempleate="cd:\wiwndowsi\envil.ex: (1)79
+commercial-level: (1)63
+commitcharge(number: (3)111
+common: (1)100
+commonly: (3)118
+communicating: (3)85
+community-driven: (1)48
+comparisonof: (3)183
+compdonenat: (3)18
+compiled-rules-file: (4)11
+compledtely: (5)24
+complete.since: (3)22
+complicated:we: (3)16
+complroimvise: (3)80
+component: (1)33
+components/windows: (2)171
+compression: (5)24
+compromise:yara: (4)10
+compromised: (1)29
+computecr: (2)43
+computername: (2)180, (3)49
+comqmande: (3)156
+comrmron: (3)103
+comymonq: (1)41
+conctinually: (1)112
+conficker: (2)118
+config.sys: (5)14, (5)15
+configs: (3)156
+configuration/administrative: (2)171
+conhost.exe: (3)169, (3)176, (3)178
+connection: (1)25
+connectioninformation: (3)59
+connections: (2)115
+connections:modern: (3)84
+connections_incdoming.txdt: (2)115
+connscan: (5)123
+connscanplugin: (3)86
+consicdered: (5)42
+consists: (1)49
+consolehost_history.txt: (2)129, (2)175
+consolehost_historyand: (2)162
+consolesare: (3)169
+consolesplugins: (3)162
+consumers: (1)82, (2)157
+contadins: (4)88
+container: (3)143
+containment/: (1)20, (1)22, (1)24, (1)26
+containment/intelligence: (1)37
+contains: (4)42
+content-length: (5)51
+contextg: (5)90
+contextof: (3)68
+contexts.[: (2)56
+control/limit: (3)59
+controlservers: (3)84
+controlsetsin: (2)16
+controlsetto: (2)16
+control—the: (2)96
+contryol: (1)126
+conventions.[: (3)185
+convertto-csv: (2)180
+convertto-html: (2)180
+copy-on-write: (5)10, (5)103
+copy.\modules\bin\autorunsc.exeto: (1)105
+copy: (5)10, (5)12
+cord: (2)62
+corefloodbotnet: (3)118
+coriginal: (5)79
+correlctilyv: (3)128
+correspondingevent: (2)52, (2)58, (2)60, (2)72
+corriupnt: (5)37
+corrupdt: (5)68
+corurrse.c: (1)6
+cosmicstrand: (3)149
+could: (1)57, (5)79, (5)92
+couldw: (5)37
+coumpromeise: (1)42
+counter-point: (3)13, (3)38
+courseware: (1)0, (2)0, (3)0, (4)0, (5)0
+covdereddacd: (4)74
+cozyduke(pdf: (3)80
+cozyduke: (3)64
+cozydukeis: (3)64
+cozydukerat: (3)64
+cozydukeremote: (3)80
+cozydukeuses: (3)64
+crackged: (1)141
+craftedd: (1)76
+crashaes: (2)139
+crashdumpenabledvalue: (3)12
+crashes(mimikatz,powerpick,etc: (3)66
+createattribute: (5)71, (5)72
+created.[]collectively: (3)14
+createinstancecan: (1)78
+createjournal: (5)111
+createremotethread: (3)100, (3)101, (3)106, (3)107
+createremotethreadonly: (3)106
+createtime: (3)34, (3)38, (3)41
+createtimeand: (3)39
+creatiocn: (2)119, (2)135
+creation/replacement: (1)69, (1)84
+creationcd: (2)113
+creationddacd: (1)72
+creationtime: (5)48
+creddump: (1)127, (1)141, (1)142
+creddumpcan: (1)141
+creddumpis: (1)142
+creddumpsuite: (1)142
+creddumputilities: (1)142
+creddumpwas: (1)142
+credendtial: (2)71
+credential: (1)128
+credentials.: (1)126
+credentials: (2)124
+credentials:tickets: (1)148, (1)153
+credentials:tokens: (1)136, (1)139
+credentialsd: (2)135
+credentilali: (1)153
+credrenrtialys: (2)46
+creds: (1)98, (1)129, (1)134
+credssp(essentially: (1)98
+credssp: (1)98, (1)126, (5)123
+credsspand: (1)125
+credsspwill: (1)98
+crelay: (1)41
+cremoted: (2)123
+creoationm: (3)7
+crhroyme_cache: (4)71
+crimeware: (2)155, (2)168
+criticalto: (2)129
+criticism: (1)100
+crits: (1)49, (5)123
+crodre: (1)76
+cross-linked: (3)160
+cross-platform: (1)7, (2)161
+cross-referenced: (3)87, (3)126, (3)131
+cross-referencing: (2)62, (3)129
+cross-view: (3)139, (3)144
+crovreyred: (2)127
+crowd-sourced: (1)108, (2)106, (3)20
+crowddsoudrcead: (4)14
+crowdsourced: (2)186
+crowdsourcing: (4)14
+crowdstrike: (1)11, (2)146, (2)156, (3)51
+crreatriony: (4)30, (4)94
+cryptic: (5)71
+crypto-worms: (1)78
+crypto.cipher.aes: (1)50, (4)10
+csaba: (3)52
+csname,descdriptiodn,eaxecutabclepath,pdrocessid: (2)153
+csrss.exe: (3)46, (3)144, (3)145, (3)161, (5)123
+csrss.exewill: (3)144
+csrss: (3)144, (5)123
+csrssdo: (3)145
+csrssinformation: (3)144
+csrssprocess: (3)145
+cssrs.exe: (2)28
+csvf: (2)9, (2)16, (4)43, (5)80
+csvf<csvf>: (4)44
+csvffoo.csv: (2)10
+csvfmyoutputfile.csv: (4)43
+ct: (1)99
+ctei: (1)127
+cthe: (3)14
+cti: (1)11
+ctrl-c: (4)91
+ctrl-d: (4)91
+ctrl-down: (4)91
+ctrl-e: (4)91
+ctrl-f: (4)91
+ctrl-r: (4)91
+ctrl-shift-a: (4)91
+ctrl-t: (4)91
+cumebersmome: (3)162
+cups_ipp: (4)63, (4)71
+curerently: (3)17
+current: (4)6, (5)111
+currentcly: (4)42
+custom:a: (2)40
+custom_destinations: (4)57, (4)71
+customapplication: (2)40
+cyber-attacks: (1)14
+cyber-warfare: (3)141
+cyber: (1)22, (1)31, (1)33, (1)38, (1)44, (1)45, (1)48, (1)56, (1)57, (2)169, (2)180, (5)123
+cyberattacks.[]att&ck: (1)44
+cyberchef: (2)169
+cyberchefis: (2)169
+cybersecthreat: (2)162
+cybersecurity: (1)44, (4)7
+czip/oxml: (4)71
+c|-ct: (1)85
+d-u-n-s: (1)63
+d: (1)152, (2)70, (3)183
+d_efaculot: (2)171
+da: (1)99
+dabta: (5)55
+dacd: (1)11, (2)15, (2)63, (5)60
+daddwress:i: (3)148
+damcachde.ahve--cscv: (2)23
+dand: (2)113, (2)119
+danderspritz: (2)104, (2)105
+dariveirl: (2)183
+dariver: (3)141
+darkcomet: (3)54
+darkcometand: (3)101
+darkcometwas: (3)54
+darkseoul: (2)132
+data-hiding: (4)5
+data-layer: (5)90
+data.cd: (4)60
+data: (2)57, (2)109, (4)72, (5)49, (5)50, (5)85, (5)88
+data_overwrite: (5)73
+data_truncation: (5)73
+databalsei: (4)56
+database-like: (5)32
+datablock(kdbg: (3)17
+datablock: (5)130
+datac: (5)106
+dataextend|datatruncation: (5)90
+dataoverwrite: (5)86, (5)90
+dataoverwrite|dataextend|data: (5)71
+data—the: (5)91
+datbe: (4)46
+date/time: (2)8, (2)10, (2)16, (2)70, (2)94, (4)44, (5)13
+date/timestamps: (4)39
+date: (4)82, (4)83
+datea: (3)62
+datetime(‘--t::'): (4)82, (4)83
+datetime(‘--t::: (4)80, (4)81, (4)82, (4)83
+datya: (5)50
+dayes: (1)33
+days: (2)133
+dbetect: (1)39
+dbubbale: (3)53
+dbytes: (5)60
+dcata: (3)165
+dcom/psremotingtraffic: (2)152
+dcom: (3)49
+dcomlaunch: (3)37
+dcompromdise: (5)92
+dcontaains: (4)70
+dcreated: (5)73
+dcredentiadls: (1)135
+dcshadow: (1)152
+dcsync: (1)151, (1)152, (1)155, (5)123
+dcsyncis: (1)152
+ddacd: (2)8, (2)77, (5)93
+ddata: (1)112, (5)73
+ddeeffrraagg..eexxee: (5)59, (5)62
+ddelegated”d: (1)140
+ddeswcribien: (1)48
+ddiscuwssed: (1)41
+ddlal: (3)75
+ddoes: (2)120
+ddos: (3)141
+de-duplicate: (2)106, (4)30, (4)94
+de-duplication: (1)108
+de: (2)129
+dead-box: (5)11
+deallocatefilerecordsegment: (5)71, (5)72
+deathstar)—these: (2)74
+deathstar: (1)157, (2)74, (2)75
+deathstarbuilds: (2)74
+deathstaruses: (1)157
+debtect.e: (1)40
+debugging/analysis: (4)16
+debuted: (2)93
+decryption/de-obfuscation: (4)5
+decryptor: (2)169
+ded-acb-e-a-acc: (5)13
+dedfault: (2)57
+dedupe: (4)44, (5)81
+deduplicate: (4)44, (5)11, (5)17
+deedicated: (5)78
+deenying: (1)24
+deep-dive: (1)54, (1)56, (1)58, (2)4, (3)3, (4)3, (4)24, (5)3, (5)5, (5)89, (5)112, (5)123
+deescriprtorrsy: (3)17
+defaiullt: (4)92
+defamult: (3)174
+default).txt: (3)178
+default)[: (1)75
+default.rdp: (2)114, (5)123
+default: (1)126, (4)65
+defaultpassword: (1)146
+defaultshared: (2)117
+defecnder\sudpport\: (2)146
+defemnder: (1)65
+defender%operational.evtx: (2)143, (2)145
+defender\quarantine: (2)143, (2)144
+defender\scans\history\service\: (2)143
+defensle: (2)180
+definition(that: (3)128
+defrag.exe: (5)63
+defrag: (5)73
+degrazia: (5)94
+degraziahas: (2)169
+delectes: (2)104
+deledted: (5)6, (5)96
+delegate: (1)139
+delegated.[]make: (1)139
+delete/wiping: (5)5
+deleted: (5)91
+deleted—data: (5)93
+deleteindexentryallocation: (5)71, (5)72
+deleteindexentryroot: (5)71
+deletion/tampering: (5)5, (5)6
+deletion/wiping: (5)6
+deliovery: (1)40
+delivery: (1)42
+delpeinvdencey: (1)103
+delpy: (1)152, (2)104
+deobfuscatedversion: (2)167
+deobfuscation: (2)161, (2)167
+deownmloadervs: (1)40
+depeundencey: (1)76
+deploy: (1)91
+deriverbs: (3)156
+derusbi: (3)149
+desccription: (4)88
+desclribievs: (5)86
+descriptidon: (2)70
+description: (4)88
+descriptiond: (1)49
+desk: (5)10
+deskthrd&: (3)144
+deskthrd: (3)144, (5)123
+deskthrdand: (3)144
+desktop-: (2)32
+desktop-iipe: (2)64
+desktopservice: (2)115
+desticnationd: (2)116
+destinationl: (2)127
+detail.[: (5)10
+details: (5)105
+detectingmalware: (1)84
+detection: (4)14
+detectionhistory: (2)143, (2)144, (4)58
+detectionhistorystores: (2)143
+detect—the: (4)20
+detewct: (5)37
+device/process: (3)151
+devicetree: (5)123
+devmonstrataed: (1)42
+devoalutionacry: (3)183
+devops: (1)32
+dfeatuares: (5)22
+dfind: (4)70
+dfir: (1)11, (1)91, (1)111, (1)160, (2)183, (2)189, (3)52, (3)188, (4)37, (4)100, (5)117
+dfromd: (4)56
+dfvfs: (4)66
+dfvfsdocumentation: (4)66
+dgll: (3)120
+dhcp: (1)72
+dhparser: (2)144
+diagwrammiingn: (5)34
+diantabsaseb: (3)156
+diatna: (5)73
+did: (3)153, (5)106
+dierectories: (5)77
+difdferenat: (5)42
+differednce: (5)106
+differednt: (5)42
+differee: (3)150
+differendt: (2)167
+different: (5)106
+differentcredentials: (2)50
+difficult-to-detect: (1)55
+difficultcredential: (1)153
+diffyerent: (5)51
+digital-forensics.sans.org: (1)160, (2)189, (3)188, (4)100, (5)117
+digsabmled: (2)96
+diirevctlye: (2)142
+dimage: (3)174
+dinforamation: (2)71
+dintrusion: (1)42
+dir: (2)9, (5)90
+dir=: (3)174
+direct/exploit: (1)38
+directodries: (5)77
+directory/filenamingscheme: (2)149
+directory: (4)6, (4)44, (5)10, (5)76, (5)82
+directory>: (4)11
+directoryglobs="f:\\windows\\temp\\perfmon\\: (5)64, (5)65
+dirfferrenyce: (5)103
+dirspecified: (4)44
+dirtymoe: (3)143
+dirtymoerootkit: (3)143
+dirtymoe–introduction: (3)143
+disabled)—reports: (2)96
+disablemax: (3)154
+disassemblers: (3)90
+disassembly(: (3)148
+discodvera: (2)160
+discover: (3)140
+discovery.: (4)73
+discussed: (5)105
+discussingcredential: (1)127
+disk-based: (3)7, (3)28, (3)135, (3)162, (4)75, (5)34, (5)97
+disk.img: (5)17
+disk: (5)14
+diskimage: (5)64
+dispalayed: (2)48
+display: (3)87
+disruption: (1)38
+distincdtion:: (5)61
+distributedkansa.ps: (1)106
+distributedkansa: (5)124
+dit: (3)39
+diuagrame: (5)105
+dknowledgde: (1)42
+dkom: (3)125, (3)138, (3)143, (3)145, (5)124
+dl: (3)64
+dl_c: (1)148
+dlbl: (3)102
+dlebiuvggeres: (3)183
+dlgl: (2)183
+dlike: (3)168
+dll(named: (1)75
+dll/exe/: (3)159
+dll/exe: (3)129
+dll/exes: (3)122, (3)129
+dll: (3)130, (3)148
+dlldump: (3)162, (3)163, (5)124
+dlldumpplugin: (3)61
+dllgs: (1)77
+dllhost.exe: (3)46
+dllhost: (2)6
+dllhostcrashes: (3)46
+dlllist: (3)62, (3)63, (3)64, (3)107, (3)110, (3)181, (5)124
+dlllistor: (3)127
+dlllistplugin: (3)107, (3)128
+dlllistuses: (3)128
+dllls: (3)52
+dlogs: (2)180
+dlogtwimelinie,n: (4)81
+dlriivevr: (3)139
+dmata: (1)54, (2)4, (3)3, (4)3, (5)3
+dmownloaaded: (5)76
+dnext: (3)183
+dns: (2)40
+dnscache: (1)101
+dnt: (1)141, (1)145
+do: (2)97, (4)26
+doamaiinl: (1)157
+doawn: (1)116
+dockerjson: (4)71
+documentation.[,: (3)24
+documented: (1)76
+documents: (5)15
+documentsummaryinformation: (4)63
+documentsummaryinformationolecf: (4)57
+doeas: (5)90
+dof: (5)72
+doften: (4)88
+dolan-gavitt: (3)20
+domain-admin: (1)139
+domain-joined: (1)125, (2)56
+domain-wide: (2)60
+domain/active: (2)69
+domain: (1)63, (3)71
+doppelganging: (3)121
+doppelganging–a: (3)121
+dos-compatible: (5)42
+double-byte: (5)51
+double-click: (4)89, (5)79
+double-clicking: (4)92, (5)64
+doublepulsar: (3)109
+doublepulsarbackdoor: (3)109
+doublepulsarnow: (3)118
+doubletap: (1)47
+doubly-linked: (3)122, (3)129
+dowan: (2)43
+downloads.[]firefox: (5)54
+dozwnyload: (1)40
+dpkg: (4)71
+dratya_extend: (5)73
+drayta: (4)33
+dregiastry: (4)60
+dresults: (4)44
+drisarppcointed: (3)174
+drive: (3)138
+driver: (5)22
+driverbl: (3)53, (5)124
+driverirp: (3)157, (5)124
+driverirpplugins: (3)139
+drivers: (3)26, (3)98, (3)153
+dropbox: (1)1, (1)7, (1)87, (5)46
+dropboxand: (1)17, (1)58, (4)24
+dropped: (1)25
+drv: (3)52, (3)153
+drvive: (5)23
+dsata: (5)70
+dsharedabale/mapcped: (3)120
+dt/v: (5)14
+dtaken: (3)69
+dtecahnique: (5)76
+dthe: (1)97
+dthreat: (1)33
+dto: (5)85
+dtriggered.d: (2)48
+dtriggers: (2)181
+dtsearchto: (5)107
+dtypes: (2)97
+dual-boot: (4)33
+dual-hop: (1)98
+duimlpf_ilecsbyo: (3)174
+dump-dir: (3)113
+dump-dir=<directory>: (3)112
+dump-dir=in: (3)163
+dump-dir=output-folder: (3)163, (3)164
+dumpcommand: (3)165
+dumped: (3)119
+dumpedsections: (3)111
+dumpfiles: (3)162, (3)181, (5)124
+dumpfilesand: (3)174
+dumpfilesbecause: (3)174
+dumpfilesidentifies: (3)174
+dumpit.exe: (3)54
+dumpit: (5)124
+dumpmakes: (3)164
+dumpplugin: (3)163
+dumpshould: (3)163
+dumpwill: (3)164
+duringinteractive: (1)127
+dusing: (2)64
+dveepeer: (1)56
+dvirusdtaotal: (4)9
+dwata: (1)25
+dwefeats: (1)126
+dwin: (1)33
+dwinsbpseexerc: (1)122
+dwisplaiyn: (3)52
+dwm: (2)56
+dwoesn'ti: (5)65
+dword: (5)10
+dynamiclinked: (3)59
+dzefiniative: (2)15
+dzelivearing: (1)40
+e"b: (1)79
+e(cid:)d: (2)89
+e.g.,get-item: (5)56
+e: (3)64, (4)64, (4)66, (4)83, (5)13, (5)14, (5)34, (5)98
+e:\[root]\windows\prefetch: (2)9
+e:\c\$extend\$j: (5)80
+e:\c\$mft: (4)43, (5)80
+e:process: (3)92
+e\<: (2)171
+e\\hosdt: (2)123
+ea/vd: (1)62
+each: (1)49, (5)10
+eachcase: (2)42
+eaesy: (1)65
+ealdlowws: (1)93
+eand: (5)65
+earlier: (1)42
+early-stage: (1)70
+easier: (3)53
+easy-to: (2)121
+easy;simply: (1)99
+easyi: (1)76
+eav: (5)105
+eavent: (2)70
+eavents: (5)139
+eb.html: (5)53
+ebaserliner: (3)53
+ebp: (3)115, (3)116
+ebpand: (3)116
+ebxist: (1)53
+ebzyqemvasrrrcmmk: (4)79, (5)50
+ec: (2)129
+ec:\udsers\*w\downilonads: (5)76
+ecasesb: (1)41
+echadractewrs: (5)90
+eco-system: (1)32, (1)69
+ecomdplwete: (3)156
+ecomprletre: (5)108
+ecopy: (1)122
+ecould: (3)131
+ecrimeattackers: (1)11
+ecu: (2)89, (2)151
+ed(cid:)w: (2)143
+ed(cid:)w:logionn: (2)46
+ed(cid:)w:sitanrt: (2)96
+ed*pwowerisnhesll: (2)127
+ed-q: (4)13
+ed-wu: (4)6
+ed: (2)50, (3)51
+edacqwuire: (3)16
+edadta: (5)25
+edeletedindewxentryianlloca: (5)72
+edexwploitaitnion: (1)38
+edfiwlesysitenm:s: (4)29
+edgee: (5)54
+edinwvesitnigastibvee: (3)38, (3)41, (3)61, (3)68
+edinwvesitnigsatibvee: (3)87
+edirdectowries: (3)59
+ediredctowries: (4)33
+edownbloaders: (1)40
+edr: (1)56, (1)61, (1)106, (1)157, (2)156, (3)7, (3)8, (3)9, (3)51, (3)104, (3)118, (3)149, (3)184, (5)112
+edshawdow: (5)13
+edvent: (2)43
+edw-hinsberryshow: (1)85
+edwbacki: (5)78
+edwhoisnt: (4)87, (4)89
+edwhttipsn://twitster.cobm/mikeepilkirngtorn: (1)160, (2)189, (3)188
+edwinsb(paess: (1)148
+edwinsbe: (3)11
+edwinsberry: (1)54, (2)4, (3)3
+edwinsberryif: (5)95
+edwinsberr‒yevidence: (1)109
+edwinsbinbary_ceookiers: (4)71
+edwoipntionasl: (4)46
+edwpreifentch: (4)74
+edw•filesyistnem-bsased: (4)30, (4)94
+ed•rweview: (2)139
+ed•shwow: (3)111
+eea: (3)148
+eeach: (3)22, (5)90
+eede: (1)141
+eessenmtial: (1)6
+eevedntw: (2)69
+eexample: (2)83
+eexceptions: (2)17
+eexdtrawct: (3)133
+eexecutable: (2)6, (2)19
+eextracmt: (5)105
+eexxppaanndd..eexxee: (5)59, (5)62
+efefectivdely: (1)126
+effecctive: (2)117
+efficaiency: (3)173
+effort: (1)157
+efields: (5)69
+eflight: (5)66
+efor: (3)111
+efrfecctive: (1)42
+efstmpwp: (5)88, (5)91, (5)92
+egrepfilter: (3)140
+egrep–v: (3)140
+ehappedn: (1)40
+eids: (2)67, (2)145, (4)52, (4)54
+eincluding: (1)105
+eixtvernael: (2)38
+elastic_ts: (4)81
+elasticsearch+: (4)97
+elasticsearch: (1)81, (1)115, (2)179, (4)81, (4)97
+elasticsearchnamed: (4)97
+elf: (1)18
+elogicarl: (5)16
+email.header: (1)50, (4)10
+emailaddresses: (5)104
+emailarchives: (4)74
+emails: (1)42, (3)5
+embedsthe: (2)8
+emdawlwairne: (2)27
+emdemwory: (3)159
+ememdorwy: (1)77
+emotet: (3)124
+emotetmalware: (3)100
+emotettrojan: (3)124
+empety: (5)70
+emsedb/msaie_weibclac_he: (4)71
+emvasrrrcmmk: (5)16
+emwail: (1)42
+enable-duplicatetoken: (1)146
+enabled/disabled: (2)89
+enabledas: (1)134
+enabled—$usnjrnlnot: (5)82
+enableprefetchervalue: (2)7
+encodedcommand(-e: (2)166
+encrypted: (5)6
+encryptedform: (1)145, (1)146
+encryption/decryption: (4)5
+endian: (2)145, (5)33, (5)37, (5)50
+end—will: (2)97
+enforcge: (1)0, (2)0, (3)0, (4)0, (5)0
+engineversion=.: (2)162
+enmasse: (1)56, (2)106
+enrablredc: (1)76
+enrichment: (2)28
+entdire: (4)73
+enter-pssession: (1)96, (1)98, (1)129, (2)129, (3)49, (5)125
+enter-pssession<computername>: (1)96
+enter-pssessionshell: (1)98
+enterprise-wide: (1)21, (1)32, (1)56, (2)29, (2)133
+entries: (1)79, (2)15, (5)26, (5)89
+entriesfrom: (4)50
+entries”—also: (5)25
+entropy: (4)7
+entry,: (4)88
+entry-seq: (4)44
+entry/sequence: (4)44
+entry: (4)87, (4)89, (5)90
+enu: (2)74
+environment—both: (2)80
+enxecutsablebs: (1)112
+eoperratesr: (4)92
+eperrsisrteynce: (3)102
+epin: (5)24
+eplanned: (3)129
+eplugibn: (3)103
+epossibdly: (3)183
+eprdimwary: (5)66
+eradication/: (1)20, (1)22, (1)26, (1)27, (1)30
+eradication/remediation: (1)22
+erede: (1)145
+ericzimmerman/pecmd: (2)9
+ermaril: (1)41
+errrory: (2)139
+erry: (1)79, (1)86, (2)15, (5)119
+ersa: (1)99
+erun: (4)80
+erxprort: (5)65
+es: (3)39
+escal: (1)0, (2)0, (3)0, (4)0, (5)0
+esearch: (3)167
+esedb/file_history: (4)71
+esedb: (4)57, (4)61, (4)71
+eset: (4)12
+esi: (1)99
+essd: (3)51
+estadnwd-ailnonse: (4)9
+estedp: (5)16
+estedt: (4)82, (4)83, (5)34
+esuppdortiwng: (1)7
+esurer: (1)39
+esysdtewm,i: (3)109
+esystremr: (1)77
+etechniques: (1)5
+etedm: (2)89
+ethat: (3)11
+eus-crerrt: (5)88
+eusdinwg: (4)77
+eusdualwly: (3)80
+evade: (1)77
+evdent: (5)105
+evdents: (1)28
+evecnts: (2)179
+even: (5)31, (5)96
+evendt: (2)56, (2)69
+event(s: (2)75
+event: (2)48, (2)63, (2)97, (2)106, (2)181, (4)89
+event::drop: (2)104
+event_id:: (2)181
+eventid: (2)109, (5)125
+eventingd: (2)160
+eventingthan: (2)160
+eventlog(evt: (4)57
+eventlog(evtx: (4)58
+eventlog: (2)102
+eventlogedit: (2)104
+eventlogeditfunctionality: (2)104
+eventlogs: (2)38
+eventnamespace=: (1)79
+events: (2)43, (2)139, (2)179, (4)56
+events:audit: (2)42
+events:when: (2)39
+eventsand: (4)81
+eventslog: (1)82
+eventsstored: (2)42
+eventvwr.exe.alternatively: (2)47
+eventvwr.exe: (5)125
+event—a: (2)60
+ever-popular: (4)16
+everdy: (2)77
+everyform: (3)102
+everyprocess: (3)68
+everywindows: (1)136
+evesntsr: (5)72
+evi: (2)129, (3)121
+evidence: (2)7
+evidentiary-rich: (4)59
+evievrydaey: (2)146
+evil.exe: (1)24, (1)82, (3)143
+evil: (2)160
+evt: (4)57
+evtx-evtx: (5)104
+evtx: (2)180, (4)57, (4)72, (5)104, (5)105, (5)106, (5)125
+evtxecmd: (2)106, (2)107, (2)109, (2)136, (5)105, (5)106
+evtxecmdtool: (2)104
+evtxtract.[: (5)106
+evtxtract: (5)106
+evxample,a: (1)41
+ewadtch: (1)112
+ewf: (4)66, (5)14, (5)34
+ewffile: (5)14
+ewffort-tio-nhit: (1)45
+ewfmount: (5)14, (5)16, (5)125
+ewill: (3)151
+eworksd: (5)55
+ex: (2)89, (2)151
+exa: (2)181
+exactlywhat: (1)97
+exactopposite: (5)72
+exactpoint: (5)76
+examlpilev: (3)54
+example,we: (1)130
+exatractiionl: (3)164
+exbpliciet: (2)46
+excellent: (1)77, (5)98
+exception—while: (2)124
+exceptreference: (2)96
+exd: (2)70
+exe,hash.md,count: (1)116
+exe,hash.md: (1)116
+exe,hashfrom: (1)116
+exe/dll/driver: (3)153
+exe/dll: (3)122, (3)126
+exe_ads_methods.txt: (5)75
+execdutioans: (1)97
+execflag: (2)28
+executable: (3)107
+executableinfo: (2)107
+executadbles: (3)174
+executdion: (2)98
+execute_read: (3)118, (3)120, (3)121
+execute_readwrite: (3)120, (3)121
+execute_writecopy: (3)120
+executed/completed: (2)91
+executed: (2)8
+executedwhena: (1)70
+executed—from: (2)161, (2)163
+execution: (2)123
+execution:wer: (2)142
+execution;the: (3)59
+executionof: (2)85
+executionpolicybypass: (2)166
+exelciutved: (2)121
+exemcuted: (2)15
+exfat: (5)22, (5)34, (5)125
+exfil: (5)5, (5)76, (5)96
+exfiltrated: (5)9
+exfiltrating: (1)24, (5)77
+exifinltratiosn: (1)25
+exiftool.exe: (5)48
+exiftoolby: (5)47
+exile_cutcionos: (2)27
+existencez: (5)90
+exit: (3)46
+exittime: (3)34, (3)38, (3)41
+exittimefield: (3)38
+exittimetimestamps: (3)38
+exittimevalues: (3)39
+exleciutvablee: (3)165
+expand.exe: (5)63
+expect: (5)85
+expected: (5)46
+exploitation: (2)113, (2)119, (2)135
+exploits: (2)134
+explolreir.vexe: (3)30
+explorer.exe: (1)60, (1)70, (1)75, (2)74, (3)30, (3)35, (3)41, (3)42, (3)46, (3)48, (3)50
+explorer.multiple: (4)91
+explorer_mountpoints: (4)59, (4)79
+explorer_programscache: (4)59, (4)79
+exported: (5)106
+exposes: (3)161
+ext//: (4)33, (5)34
+ext/ext/ext: (5)98
+extension: (2)183
+extent-based: (5)21
+extraa: (1)127
+extracted.data: (5)53
+extracting: (4)12
+extradctinga: (3)168
+e“sc: (1)72
+e“vmemd: (3)133
+f--zhelpa: (4)44
+f-response: (1)15, (1)18, (2)21, (2)178, (3)11, (3)153, (4)52, (4)66, (5)11, (5)125
+f:\$extend\$usnjrnl:$j: (5)80
+f:\: (1)109
+f_ailucre: (2)143
+fa-fb: (5)81
+facebook: (4)22
+facetime: (1)0, (2)0, (3)0, (4)0, (5)0
+failc: (3)164
+failed: (2)143
+failes: (4)12
+failproof: (5)101
+failure: (1)21
+fallsie-vpositeives: (5)95
+false-positives: (5)47, (5)48, (5)71, (5)98, (5)108
+familiarity: (1)6
+fanbot.a: (3)143
+fanbot.aworms: (3)143
+fanci: (5)86
+far-right: (5)90
+farze: (3)174
+fat//: (4)33, (5)34
+fat/ntfs: (4)29
+fbind: (1)77
+fcile: (5)91
+fcilter”o: (4)92
+fcull-poackemt: (1)25
+fdiles: (5)96
+fdilews: (2)146
+fdirst: (5)111
+feature-full: (5)23
+feature-rich: (3)103, (5)21, (5)108
+feile: (2)145, (5)50
+feiles,m: (5)90
+feindr: (1)48
+ferbred: (1)12
+few: (1)71
+ffffabaef-flash_installer.msi: (3)173
+ffoorr..: (1)8
+fgdump.exe: (5)59, (5)62, (5)63
+fgdump: (1)127, (2)98
+fiale_iolb_jecctsom: (3)162
+fidle: (5)47
+field: (4)88
+field;this: (4)88
+fieldof: (2)52
+fieldrs.ry: (4)81
+fielescdan: (3)162
+fiilesl_com: (5)76
+fiilev: (4)72
+fiilevs: (3)61
+fiille: (5)70
+fil<xxxx>.tmp: (5)91
+filde: (5)98
+file'slast: (2)14
+file(s: (5)81, (5)103
+file*: (5)38
+file,key: (3)74
+file-filter: (4)70
+file-less: (2)167, (3)178
+file-level: (5)24
+file.body: (4)43
+file.txt: (5)42, (5)56
+file/directory: (5)71, (5)72, (5)73, (5)76, (5)80
+file/folder/share: (2)41
+file/folder: (2)81
+file/free: (5)5
+file: (1)76, (1)86, (3)75, (5)10, (5)38, (5)68, (5)79
+file>: (4)69
+file_filter: (4)70
+file_object: (5)126
+file_objectdata: (3)172, (3)174
+file_objectin: (3)174
+file_objectreference: (3)172
+file_objects: (3)162, (3)172, (3)174
+file_objectsand: (3)175
+file_objectsignatures: (3)174
+file_objectsin: (3)176
+file_objectstied: (3)174
+file_objectswithin: (3)174
+file_objectwill: (3)174
+fileattributes: (5)90
+fileb: (5)27
+filecreate: (5)69, (5)71, (5)72
+filedelete: (5)71, (5)72, (5)90
+filees: (3)13, (4)20
+filehitcount: (2)28
+fileid: (2)19
+filel: (4)35
+fileless: (1)62, (3)7, (3)77, (5)5, (5)6, (5)94, (5)126
+filename/service: (1)62
+filenamewith: (4)88
+filepath: (1)96, (2)28, (2)32
+files(not: (5)43
+files.[,: (4)12
+files.[][]there: (5)54
+files.[]files: (3)172
+files.[]to: (4)43
+files/directories: (5)57
+files: (3)119, (3)173, (3)174, (4)7, (4)58, (4)63, (4)70, (5)77, (5)89, (5)90
+files>: (2)9
+files\handles: (3)172
+files\jschicht\logfileparser: (5)79
+files\modules: (3)172
+files\teamviewer\versionxfolder: (2)115
+files\vads: (3)172
+filescan: (3)22, (3)174, (5)126
+filescanand: (3)23
+filesdystemw-awarie: (5)105
+filesfolder: (3)172
+filesize: (1)50, (4)10
+filestat: (4)57, (4)62, (4)63, (4)71, (4)82
+filestatparser: (4)83
+filesystem-aware: (5)105
+filesystem-focused: (4)29
+filesystemd: (5)24
+filesystems: (4)29, (4)35, (4)40, (4)42, (4)45, (5)23, (5)27, (5)51, (5)93, (5)101
+files—one: (5)80
+files—there: (4)92
+fileter: (3)54
+filetime: (4)34
+filevault: (1)0, (2)0, (3)0, (4)0, (5)0
+filew: (5)36
+filews: (3)12
+filges: (4)24
+filiesn: (5)28
+fillesi: (5)26
+filse: (5)37
+filter/consumer: (2)157
+filter: (2)180, (4)70
+filter_file: (4)70
+filter_windows.txt: (4)72
+filter_windows.yaml: (4)72, (4)83
+filtere: (1)116
+filterhashtable: (2)180
+filtering: (5)76
+filyled: (5)70
+fin: (3)39
+finallimitation: (3)62
+find/exfiltrate: (1)38
+find: (5)79
+findcommand: (5)16
+findevil(and: (3)123
+findevil(anomaly: (3)90
+findevil: (3)91, (3)93, (3)103, (3)122, (3)124, (3)129, (3)130, (3)131, (3)133, (3)134, (3)160, (3)171
+findevildetects: (3)135
+findevilfile: (3)131
+findevilflags: (3)122
+findevilinformation: (3)124
+findevilmodule: (3)107
+findevilon: (3)134
+findeviloutput: (3)131, (3)134
+findevilto: (3)129
+findinlgi: (2)28
+findstr/i: (2)154
+find—a: (1)146
+fiondingms: (1)54, (2)4, (3)3, (4)3, (5)3
+fionr: (1)93, (3)66
+fircefox_ocachem: (4)71
+fireeye/capa: (4)14
+fireeye: (1)76, (2)28, (2)163, (4)14
+firefox.exe: (3)30
+firefox: (3)30, (4)57, (4)61, (4)74, (5)54, (5)126
+firefox_cache: (4)61
+firefox_cookies: (4)61, (4)71
+firefox_downloads: (4)61, (4)71
+firefox_history: (4)61, (4)71
+firewall: (2)40
+firewalls: (2)124
+firewire: (1)0, (2)0, (3)0, (4)0, (5)0
+firle: (5)16
+firrst: (4)45
+first,how: (3)17
+first/last: (2)8
+first: (1)6, (2)8
+fisle: (5)47
+five-alarm: (1)31
+fivle: (4)56
+fivles: (2)28
+fixede: (4)81
+fiyle: (5)66
+flash_installer.msi: (3)77
+flin_ishecd: (1)114
+flink(forward: (3)28
+flsand: (4)45
+flsbor: (4)29
+flscan: (4)45
+flsis: (4)45
+flsor: (4)29, (4)46
+fmind: (1)157
+fnor: (5)25
+fo: (2)129
+foarcing: (1)33
+focoled: (1)100
+focr: (4)7
+fodrmatdacd: (2)93
+foer: (3)12
+fogundmail_com: (2)70
+foirmnat: (4)45
+folder: (3)164
+folder>: (3)53
+folidner: (5)36
+follow-up/: (1)26
+follow: (5)73
+following: (5)70
+foo.txt: (5)86
+footprinting: (1)48
+for.: (2)1, (3)1, (4)1, (5)1
+for/: (4)74
+for:what: (1)7
+for__i_: (1)0, (2)0, (3)0, (4)0, (5)0
+forany: (1)155
+fordrivers: (3)153
+foreach-object: (2)154
+foreensicb: (5)70
+foreignaddrand: (3)87, (3)88
+foreignportattempt: (3)88
+foreignportinformation: (3)88
+forenlsiicsv: (3)16
+forenscics: (2)41
+forensic\csvfolder: (3)176
+forensic\ntfs: (3)176
+forensic\ntfsfolder: (3)176
+forensic\timelinefolder: (3)176
+forensics/triage: (4)74
+forensics: (1)56
+forensicswiki: (5)47
+forensics—both: (1)100
+forensics—string: (5)107
+forenvsics: (3)174
+forgettransaction: (5)67
+format(mof)file: (1)78
+format-wide: (1)94
+format: (5)106
+format=csv: (5)64, (5)65
+formatted: (4)44
+formdat: (4)89
+forr: (3)62
+forticlient: (4)12
+forv: (1)6
+found: (3)23, (3)52, (5)91
+four-byte: (3)113
+fowr: (1)112, (1)152
+fox-it: (2)105
+foxitpdfreader: (4)50
+foyr: (5)88
+fqdns: (1)38
+fractional-second: (5)46
+fraom: (5)89
+fredr: (2)52
+free-space: (5)88
+frequently: (3)53
+fro: (4)89
+frobm: (3)162
+froem: (3)61
+from: (1)112, (3)50, (4)9, (5)10, (5)46, (5)99
+fromb: (3)125
+frombasestring: (2)167
+fromd: (2)183, (3)69
+frompslist: (1)113
+fromthe: (2)83, (2)85
+front-end: (1)109, (4)97
+frontend: (1)111, (1)112, (4)56, (4)64
+frontends: (4)64
+frozm: (1)6
+frwom: (5)6
+fs_findevil-memprocfswiki: (3)123
+fs_process_files: (3)173
+fsearch: (2)28, (2)32
+fseventsd: (4)71
+fsile: (5)25
+fsutil: (5)70, (5)110, (5)111, (5)126
+fthzemsaelves.: (1)39
+ftk: (5)47, (5)54, (5)64, (5)97, (5)126
+ftp.exe: (5)54
+full-featured: (1)114
+full-path: (3)92
+full-volume: (5)10, (5)11
+full: (4)42, (4)88
+funday: (5)55
+fusion®: (1)0, (2)0, (3)0, (4)0, (5)0
+futurel: (3)21
+fxsst.dll: (1)75, (1)76
+fxsst: (1)76
+fzayuebzyqemvasrrrcmmk: (5)121
+g:\cases: (2)9
+g:\output: (5)80
+g:\output>dir: (5)81
+g:\output\i-perfmon.csv: (5)65
+g:\precooked\<subfolder>: (1)6
+g:\timeline: (4)43
+game-changing: (5)104
+gaopdxserv.sys: (3)151
+gareen: (1)112
+gavittand: (1)142
+gbet: (1)76
+gcet: (1)126
+gcfa: (1)-1, (2)-1, (3)-1, (4)-1, (4)56, (5)-1
+gchq: (2)169
+gdi.dll: (3)147
+gdood: (5)90
+gdrive_synclog: (4)71
+general/parsescheduledtasksxml: (2)94
+generally: (5)99
+genericconsumer: (1)79
+genericfilter: (1)79
+genmerate: (3)53
+gentrym: (5)95
+geolocation: (1)39
+geroup: (2)60
+get-alias: (1)94
+get-autorunsc.ps: (1)105
+get-certstore.ps: (1)105
+get-childitem: (1)94
+get-childitemhklm:software: (1)94
+get-eventlogcmdlet: (2)180
+get-flsbodyfile.ps: (1)105
+get-handle.ps: (1)105
+get-injectedthread: (3)183, (3)184
+get-injectedthreaditerates: (3)183
+get-injectedthreads.ps: (3)183, (3)184
+get-item: (2)173
+get-job: (1)97
+get-lsasecret.ps: (1)146
+get-lsasecretscript: (1)146
+get-member: (1)94
+get-procdump.ps: (1)105
+get-process: (1)94
+get-rekalpslist.ps: (1)105, (5)126
+get-service: (1)94
+get-svcfail.ps: (1)84, (5)126
+get-svcfail.psto: (1)73
+get-winevent: (2)178, (2)180
+get-wineventcmdlet: (2)180
+get-wineventis: (2)180
+get-wmiobject-class: (2)154
+get-wmiobject-namespace: (1)80
+get-wmiobject: (1)78, (1)79, (1)80, (2)178
+get-wmiobjectthat: (3)49
+get: (2)153
+getclipboarddata: (3)148
+getclipboarddatafunction: (3)148
+getsids: (3)68, (5)126
+getwritten: (5)28
+ghstrat: (2)134
+giac: (1)-1, (2)-1, (3)-1, (4)-1, (5)-1
+gilonbal: (4)92
+gional: (5)66
+giovod: (1)22
+github.[]as: (5)79
+github.com/neohapsis/creddump: (1)142
+githubernwquarantine: (4)12
+gkape: (1)109
+glaiin: (3)162
+glassrat(pdf: (1)73
+glassrat: (1)72
+glassratbackdoor: (1)72
+global_history.dat: (4)61
+glocmal: (1)93
+glyergave: (1)79
+gmail_com: (1)38, (2)69, (2)127, (2)146, (4)46, (4)87, (4)89, (5)88
+gmailo_thcerom: (5)5
+gme: (2)171
+gm‒vahd/ivlh_dx: (1)109
+gm•afaitl_/c/o: (4)33
+gne: (1)99
+go-to: (1)84, (3)14
+goeldend: (1)151
+gofetch: (1)157, (1)158
+golden: (1)154
+goldenticket: (1)152
+good/bad: (2)21
+goodd: (2)131
+google: (1)65, (1)66, (1)111, (3)70, (3)151, (4)57, (4)58, (4)62, (4)63, (4)97
+google_analytics_utma: (4)79
+google_analytics_utmb: (4)79
+google_analytics_utmt: (4)79
+google_analytics_utmz: (4)79
+google_drive: (4)58, (4)62, (4)63, (4)71
+googlelog: (4)71
+government-sponsored: (1)16
+gpidm: (3)111
+gpos: (1)157
+gprocemss: (2)139
+gqumicka: (4)9
+gradvitatead: (1)71
+graylog: (2)181
+grayloginstance: (2)181
+grepor: (5)107
+groundbreaking: (5)21
+group—is: (2)60
+gsecdump: (1)127, (1)130, (1)145
+guard: (1)153
+guard;protected: (1)155
+gvuarde: (1)153
+gzuaraynteesq: (3)174
+gzuidye: (1)21
+hachoir: (4)57
+hackistanand: (1)39
+hackistanto: (1)39
+hacktivist: (3)54
+hacktivists: (1)12
+hacktool:win/mimikatz: (2)145
+haere's: (5)105
+halvie: (2)52
+handle: (3)75
+handles:provides: (3)172
+hands-on: (2)50
+happenedc: (1)42
+haqs: (2)15
+har: (5)47
+hard-to-find: (5)94
+hard: (3)138
+hardcode: (1)75
+harder-to-find: (3)59
+hardware-backed: (3)138
+hardware-based: (3)138
+hardware-like: (3)150
+harshr: (1)152
+harshy: (1)112
+haruyama: (3)185
+harvesting: (2)113, (2)119
+has: (1)71, (2)128, (3)14, (3)18, (3)168
+hascapability: (5)13
+hash(path=exe)ashash: (1)113
+hash.md: (1)116
+hashcat: (1)141
+hasherezade: (3)103
+hashes: (1)86, (1)155
+hashges: (1)85
+hash—unless: (1)134
+hassession: (1)157
+have: (1)11, (3)71, (4)42, (5)93, (5)102
+hbandling: (1)21
+hbash: (1)152
+hbex: (5)34
+hcoooks: (3)139
+hdave: (2)57
+hdd: (5)103
+hdost: (5)77
+he: (1)99
+header—in: (3)113
+heapsfolder: (3)160
+help-desk: (1)20
+help: (1)78, (1)79
+helpdesk: (1)106, (2)93
+heook: (3)148
+herewe: (3)117
+herrald: (4)97
+herraldreleased: (4)97
+hettps://for.com/hzc: (5)43
+heuristic/behavioral: (3)26
+hexacorn: (3)116
+hexdumps: (2)169
+hfs+: (4)33
+hh:mm:ss.fffffff: (4)44
+hh:mm:ss: (4)87, (4)89
+hiasv: (2)104
+hibch: (4)45
+hiberfil.raw: (3)14
+hiberfil.sys: (3)11, (3)13, (5)127
+hibrbin.exe: (3)13
+hibrbin: (3)14, (5)127
+hibrbintool: (3)13
+hide: (5)94
+hidee: (5)90
+hidingc: (3)143
+hidue: (3)125
+higdhest: (1)45
+high-level: (5)69
+high-privileged: (1)129
+high-profile: (1)14, (1)111, (3)64
+high-tech: (1)14, (1)16
+high-value: (1)126, (1)134, (1)139, (1)144, (1)153
+high-valued: (2)98
+higher-lecvel: (5)68
+higher-level: (1)45, (1)137, (5)66, (5)72
+hijacking/replacement: (1)62
+hijacking: (1)77, (5)124
+hisaonashiwachose: (3)46
+hisytory: (1)152
+hit"—something: (3)26
+hive-mind: (4)14
+hivelist: (3)22, (3)23, (5)127
+hives: (3)22, (3)69, (5)93
+hkcu: (3)178
+hkcu\software\classes: (3)178
+hkcu\software\classes\jxbflnlzzotwmagpb\shell\open: (3)169
+hkcu\software\classes\jxbflnlzzotwmagpb\shell\open\: (3)178
+hkey_local_machine\system\currentcontrolset\control\backuprestore\filesnottosnapshot: (5)9
+hklm/software: (1)94
+hklm:software: (1)94
+hklm\software\microsoft\windows: (5)10
+hklm\system\currentcontrolset\control\securityproviders\wdigest: (1)134
+hklm\system\currentcontrolset\services: (1)72
+hklm\system\currentcontrolset\services\eventlog\application: (2)38
+hklm\system\currentcontrolset\services\eventlog\security: (2)38
+hklm\system\currentcontrolset\services\eventlog\system: (2)38
+hklm\system\currentcontrolset\services\ntds\parameters: (1)156
+hnave: (5)65
+hofferledid: (1)96
+hollowfind: (3)103, (3)128, (3)135
+hollowfindcompares: (3)103
+hollowfindis: (3)103
+hollowing: (3)128, (3)130
+hollows_hunter: (3)183, (3)184
+holmesd: (4)100, (5)117
+home-use: (2)143
+hooks: (3)148, (3)150
+host-: (1)77
+host/network: (1)24
+hostlistfile: (1)103
+hostname: (2)47, (2)50, (2)54, (2)62, (2)63, (2)64, (2)67, (2)70, (2)122, (2)129, (2)157, (2)160, (2)162, (4)88
+hostname>-<pid>-stdout: (3)79
+hostnames: (2)48
+hosturl: (5)54
+hosturlinformation: (5)54
+hostversion=.: (2)162
+hotfixes: (2)120
+how: (1)116
+howw: (4)92
+hozw: (5)105
+hpfs: (5)21
+hsere,r: (1)42
+htetps://fdorw.com/ianque: (5)10
+html: (2)9, (2)180, (5)53
+http/https: (3)44
+http/s: (3)88
+http: (1)40, (1)41, (1)96, (2)167, (3)59, (3)62
+http://for.com/prcd: (1)124
+httpa://for.com/ckhltc: (1)140
+httpq://fore.cmom/l-zvh: (1)152
+httpqueryinfoand: (3)148
+https: (3)88, (5)106
+https://for.codm/cudsydacd: (5)12
+https://for.com/xdtpddacd: (1)158
+https://fozry.comq/twbes: (1)112
+httpsendrequest: (3)148
+httpz://foyr.qcom/fjez: (1)126
+httqp://fore.mcom/dvyftasrrrcmmk: (1)21
+hu: (1)99
+hul: (1)100
+human-operated: (1)15
+human-readable: (1)48, (2)9, (3)168, (4)43, (4)56, (4)80
+hunt: (1)33, (1)114, (1)116
+huntcingd: (5)114
+hunting-based: (1)31
+huntinggpo: (1)91
+huntringr: (3)156
+hvci: (3)156
+hvow: (3)131
+hvttps:e//for.com/lvsti: (5)56
+hwistoryi: (4)63
+hyelp: (4)44
+hyomework: (1)7
+hyperlink: (1)40
+hyperstack: (3)79
+hypervisor-protected: (3)156
+hypervisor: (1)134, (3)12, (3)138, (3)139, (3)157
+i-: (3)51
+i_: (1)8, (2)1, (3)1, (4)1, (5)1
+i_nto: (1)40
+iaclro_ss: (5)108
+iadvminiestrators: (2)41
+iallv: (5)69
+ialnl: (1)126, (5)16
+ialre_: (1)141
+ianvd: (1)65, (3)9
+iarve: (3)102
+iat: (1)57, (3)139, (3)147, (5)127, (5)129
+iattachmentexecute: (5)55
+iattachmentexecutefor: (5)54
+iatv: (2)164
+iblvog.[e: (2)180
+ibs: (5)70
+icat: (5)53, (5)64, (5)97, (5)128
+icatbase: (5)53
+icatcan: (5)55
+icatis: (5)53
+icattool: (5)53
+icatwill: (5)53
+icf: (5)38
+ichat: (1)0, (2)0, (3)0, (4)0, (5)0
+icinpher.sexe.b: (5)92
+icloud: (1)0, (2)0, (3)0, (4)0, (5)0
+icnodsesb: (2)69
+icnopy: (5)13
+icnorsrebspeonrdrinyg: (3)133
+icovrporeation: (1)63
+icrniticals: (2)139
+id=}: (2)180
+idavta: (2)161
+iddentified: (2)133
+ideisgital: (1)56
+idenetify: (3)128
+identical: (5)61
+identidfied: (3)85
+identification/scoping: (1)32, (1)37
+identified: (3)18, (3)56
+identifiedin: (2)42
+identifier: (3)71
+identifiers:the: (3)31
+identify: (3)17, (3)31
+identifyand: (1)154
+identifyicng: (1)37
+idmmwinienntlsy: (1)16
+ids: (2)63
+idsc: (2)70
+idt: (3)72, (3)138, (3)139, (3)140, (3)147, (3)149, (5)129
+idvocuementsfolder: (2)171
+idx: (4)61
+ie-: (4)61
+ie/: (4)61
+ie/edge: (4)57
+ief: (5)129
+iex: (2)166, (2)167, (2)181
+iexplore.exe: (1)60
+if: (1)71, (5)85
+ifivnd: (1)48
+ifor: (3)174
+igf: (4)6
+ignorindg: (2)179
+iidnentsifibede: (3)80
+iidvle: (5)67
+iif: (3)183
+iimnage: (3)85
+iimvporte: (3)52
+iinnclusdedb: (1)106
+iinnformsatbion: (3)111
+iis: (1)145, (2)134, (3)44, (3)51, (4)57, (4)82, (5)90
+il_com: (1)74, (2)139, (4)9, (5)66
+ilblustrate: (5)105
+ilife: (1)0, (2)0, (3)0, (4)0, (5)0
+illegitimlatie: (1)61
+ilnsitavncese: (3)107
+ilolg_ticmeloinme: (4)29
+ilonggesd: (1)74
+imabge: (5)108
+imac: (1)0, (2)0, (3)0, (4)0, (5)0
+image(-b: (3)52
+image(-i: (3)52
+image.dd: (4)66
+image.e: (4)66
+image.slack: (5)106
+image.unallocated: (5)105
+image/executable: (3)56
+image: (3)23
+imagecopy-o: (3)14
+imagecopy: (3)13, (3)14, (5)129
+imagecopyplugin: (3)13
+imagefilename: (3)34
+imagepath=: (4)52
+imager: (5)97
+images: (3)147
+imagey: (1)76
+imamge: (3)53
+imaoge: (5)108
+imcagoe: (3)120
+imcportant: (5)61
+imessage: (1)0, (2)0, (3)0, (4)0, (4)71, (5)0
+immage: (3)52
+immediate: (1)112
+immedliaitevly: (1)78
+imn: (1)76
+impacket'swmiexec: (3)51
+impacket/secretsdump.py: (1)156
+impacket: (3)51
+impacketpsexec.py: (2)98
+impacketwmiexec.py: (3)51
+impaclkietvsecreetsdump.py: (1)156
+imphash: (2)183, (3)52, (3)153
+imphashmatching: (3)153
+imphashoption: (3)153
+imphashoptions: (3)153
+implemented: (5)24
+implemlenitavtione: (1)144
+imploirtavnt: (3)171
+impolritanvt: (5)101
+imporantoptions: (1)109
+important.d: (3)164
+importantprocess: (3)74
+improve: (1)135
+improvemedntsin: (1)11
+imvagees: (3)20
+in-cilanss: (1)7
+in-depth: (1)47, (1)48, (1)54, (2)4, (3)3, (3)181, (4)3, (5)3
+in-order: (5)50
+in-scope: (5)5
+in-use: (5)27, (5)103
+in: (1)42, (2)41, (2)63, (2)70, (3)130, (3)143, (4)73, (5)55, (5)91, (5)94
+inacindtein-tf: (1)56
+incdredibwly: (1)76
+incideent: (1)21
+incident: (1)37, (1)41, (5)114
+incidentresponse: (1)122
+inclludiinvg: (2)40
+inclu: (4)89
+include-corrupt: (3)87
+include: (5)10, (5)38
+included: (5)55
+includes: (1)97, (2)123
+includestranscription: (2)171
+including/u: (1)129
+including: (5)47
+inclueding: (5)47
+incuident: (1)33
+inczludeyd: (3)156
+inddiacator: (2)131
+index.dat: (4)61, (5)129
+index: (5)91
+index_allocation: (5)59
+indicating: (5)73
+indication: (5)92
+indicative: (2)51
+indicator: (5)92
+indicators—computer: (1)41
+indicdator: (1)39
+indiceatorsm—for: (1)41
+indiclaitev: (2)19
+indienx: (5)108
+indricyators: (1)42
+industry-standard: (1)93
+indx: (5)59, (5)64
+indxcsv.exe: (5)64
+indxcsv: (5)64, (5)65, (5)129
+indxparse.py: (5)65, (5)129
+inecludringr: (3)52
+inestalladtion: (4)63
+inf: (4)89
+infbormationzyqemvasrrrcmmk: (4)44
+informatdion: (2)97, (4)42
+information: (3)150, (5)55
+informationd: (5)10
+informationdirectory: (5)100
+informationis: (2)93
+informdation: (5)70
+infostealer: (3)169
+infostealertargeting: (3)77
+infrastructure.while: (2)127
+infrastructureresults: (1)22
+ingfragments: (5)38
+ingviewers: (2)29
+ini: (4)54, (5)80
+inicrvedibely: (2)131
+ininit: (3)107, (3)126
+ininitializationordermodulelist: (3)126, (3)127
+ininitializedorderlist: (3)126
+ininitlist: (3)107, (3)128
+initializefilerecordsegment: (5)71, (5)72
+iniwtializeid: (5)50
+injurye: (1)0, (2)0, (3)0, (4)0, (5)0
+inline/trampoline: (3)147, (3)148
+inload: (3)107, (3)126
+inloadordermodulelist: (3)126, (3)127
+inmem: (3)126
+inmemcolumns: (3)107
+inmemoryordermodulelist: (3)126, (3)127
+innerworkings: (5)34, (5)82
+inodenumber: (4)42, (5)37, (5)53
+inodes(mft: (5)97
+inojunmction: (1)0, (2)0, (3)0, (4)0, (5)0
+inprivate: (3)123
+inprocess: (3)120
+inr: (3)174, (5)63
+inrstallinrg: (1)40
+insbcbus.exe-ad.pf: (5)90
+insbcreedenrtiralsy: (1)141
+insbduemp: (4)13
+insbelristrs: (3)59
+insber: (4)33
+insbhoew: (1)145
+insdtancae: (5)91
+insertflag: (2)15
+insertflagdoes: (2)15
+insertflaggives: (2)14
+insertflagmightindicate: (2)14
+insidethe: (2)8
+inst: (5)24
+installed.[: (1)76
+intbegrity: (1)76
+intecresting: (2)181
+intedlligeance: (1)33
+intedrpretation: (5)71
+intelligence-based: (1)42
+intelligence-driven: (1)22, (1)23, (1)28, (1)37, (1)38, (1)39, (1)40
+intelligence:attacking: (1)38
+intelopes: (1)16
+inter-process: (2)81
+interchanged—but: (1)39
+interesdting: (3)75
+interestingdetection: (1)77
+interestingly,both: (1)74
+internal: (1)40
+inthe: (1)70, (2)96, (5)28
+inthis: (1)71
+intrusion: (1)37
+intrusioyn: (1)41
+invalid/non-existent: (2)70
+invdestigwations,i: (5)103
+inventoryapplication: (5)130
+inventoryapplicationfile: (2)19
+inventoryapplicationfilekey: (2)19, (2)24
+inventoryapplicationis: (2)19
+inventoryapplicationkey: (2)19, (2)24
+inventorydriverbinary: (5)130
+invocatiloni: (5)91
+invoke-cimmethod: (2)167
+invoke-command: (1)96, (1)97, (1)129, (2)129, (2)167, (3)49, (5)130
+invoke-expression: (2)166, (2)167
+invoke-mimikatz: (1)157
+invoke-ninjacopythat: (2)140
+invoke-obfuscation: (2)168
+invoke-phantm: (2)104, (2)105, (5)130
+invoke-psexecto: (1)157
+invoke-webrequest: (2)166
+invoke-wmimethod: (2)127, (2)167
+involvel: (1)111
+inyclude: (5)32
+inystitute: (1)0, (2)0, (3)0, (4)0, (5)0
+iocdsdacd: (4)97
+ioce: (5)130
+iofl: (2)122
+iofv: (2)167
+ion: (1)99, (3)39
+iond: (2)129
+ionescu: (2)15, (5)10
+ip/host: (1)87
+ip: (2)67
+ipad: (1)0, (2)0, (3)0, (4)0, (4)63, (5)0
+ipavss-thee-hash: (2)72
+ipc$: (2)81, (2)117, (5)130
+ipconfig.exe: (5)59, (5)62
+iphlpapi.dll: (3)147
+iphone: (1)0, (2)0, (3)0, (4)0, (4)63, (5)0
+iphoto: (1)0, (2)0, (3)0, (4)0, (5)0
+ipod: (1)0, (2)0, (3)0, (4)0, (4)62, (4)63, (5)0
+ipod_device: (4)63
+ipp: (4)62, (4)63
+iprip: (1)72
+ipv: (2)169, (3)168
+ir.e.,r: (5)70
+ir/hunting: (1)56
+irencommsendebd: (5)88
+irevgistrey: (1)94
+irf: (5)47
+iron-clad: (5)47
+irp: (3)138, (5)127, (5)130
+irspreadsheet.xlsx: (1)87
+irt: (1)76
+irvam: (3)11
+is.[]criminal: (2)168
+isavme: (2)6
+isd: (1)100
+isfew: (1)22
+iso: (4)33
+ispvecifiec: (2)181
+issued.[]we: (2)70
+istat: (5)34, (5)35, (5)36, (5)47, (5)72, (5)130
+istathad: (5)53
+istatin: (5)53
+istatis: (5)55
+istatman: (5)35
+istaton: (5)36
+istatoutput: (5)36, (5)40
+istattool: (5)34
+istatwould: (5)40
+istembs: (3)52
+isto: (1)134
+isual: (3)150
+iswitch: (2)23
+it: (5)22
+itcan: (2)47, (2)97
+items: (3)53, (5)77
+itemslisted: (1)70
+ithc: (1)127
+ithnis: (5)63
+itn: (5)103
+itovols: (5)46
+itr: (3)109
+its: (3)46
+itunes: (1)0, (2)0, (3)0, (4)0, (5)0
+ivmvwaere: (1)0, (2)0, (3)0, (4)0, (5)0
+ivs: (4)5, (4)6
+iwork: (1)0, (2)0, (3)0, (4)0, (5)0
+iyonu: (2)15
+iyt: (5)105
+iyts: (5)90
+jan,: (4)34
+java_idx: (4)61, (4)71
+jefferyd: (1)94
+joakim: (5)64, (5)78, (5)79, (5)106
+jobparse.pl: (2)94
+jobparser.py: (2)94, (5)130
+jou: (5)111
+joudrnals: (5)71
+journals: (5)77
+journals—in: (5)68
+journdal: (5)76
+jowb: (5)108
+jrourynal: (5)92
+jscript: (1)83
+jsognmail_com: (3)156
+json"d:\jsonoutput: (2)10
+json: (1)115, (1)116, (2)9, (2)106, (3)34, (3)52, (3)53, (3)153, (4)15, (4)43, (4)44, (4)78, (4)81
+json_line: (4)81
+jsonbaselineargument: (3)53
+jsonbaselinefeature: (3)53
+jsonc:\temp\json: (2)10
+jsonf<jsonf>: (4)44
+jsonpretty: (2)10
+jumplists: (4)57, (5)95
+jupyter: (3)77, (3)169
+jupyterinfostealeris: (3)77, (3)178
+jupytermalware: (3)172
+just-in-time: (3)110, (3)134
+juyst: (5)105
+kangsa-mservearsil_com: (1)106
+kansa.ps: (1)105, (1)106, (5)130
+kansa.psis: (1)103
+kansa.pswillfirst: (1)103
+kap: (1)109
+kape.exe: (1)109
+kapefiles/targets: (1)108
+kaseya: (2)134
+kaspersky: (4)12, (4)13
+kb: (1)125
+kdbg: (3)17, (3)19, (3)22, (3)23, (5)130
+kdbgheadersignatures: (3)22
+kdbgheaderstructures: (3)23
+kdbgscan: (3)22, (3)23
+kdbgscanallows: (3)23
+kdbgscancan: (3)23
+kdbgscanis: (3)22
+kdbgscanone: (3)22
+kdcopydatablockto: (3)22
+ke: (5)24
+kearneli: (3)59
+kedy: (5)108
+kedywordwinwhsereb: (1)116
+keeep: (5)63
+kenow: (5)27
+keptin: (1)141
+kerberoast: (1)148, (1)154
+kerberoasting).[]since: (1)153
+kerberoasting: (1)148, (1)151, (1)153, (1)155
+kerberoastingis: (1)153
+kerberos: (1)96, (1)98, (1)125, (1)126, (1)127, (1)148, (1)151, (1)152, (1)153, (1)155, (2)69, (2)70, (2)75, (2)161
+kerberos::ptt: (1)149
+kerberosin: (1)154
+kerncap.vbs: (1)82, (2)160
+kernel-based: (3)103
+kernel-level: (3)139
+kernel-mode: (3)11, (3)12
+kernel.dll: (3)147
+kernel.the: (3)11
+kernel/peb: (3)129
+kernelbaseinclude: (3)23
+key,and: (1)145
+key.log: (2)164
+key/value: (5)5, (5)6, (5)93
+key: (1)33, (3)48
+keychain: (1)0, (2)0, (2)83, (3)0, (4)0, (4)62, (4)63, (5)0
+keys.autorunsreports: (1)85
+keys/values: (5)6
+keywithin: (1)145
+kgeywomrd: (5)108
+khyrenzwindows: (4)37
+kibana: (1)81, (4)97
+kickstart: (3)149
+kidll: (1)154
+killswitch: (1)106
+klepserwrote: (2)143
+klist.exe: (5)59, (5)62
+klist: (1)149
+kml: (4)81
+knaown: (2)179
+knowd: (4)100, (5)117
+knowledge: (5)72
+known-bad: (3)94
+known/unknown: (3)52
+known: (1)29, (1)49, (3)30, (3)156
+knowndlls: (1)75, (3)59
+knowndllslist: (1)75
+knowndllsregistry: (1)75
+kornblum: (1)53
+kpcr: (3)17, (3)23, (5)131
+krbtgt: (1)152, (1)153, (1)155
+krbtgtaccount: (1)152, (1)154
+kristensen: (1)7
+kristinn'sproject: (4)56
+kristinnfelt: (4)56
+kristinngudjonsson: (4)49, (4)97
+kristinnguðjónssonas: (4)56
+kristinnis: (4)56
+kvm: (2)50
+kyeyword: (1)116
+l-die: (4)43
+l__ievventefilter: (1)80
+l_com: (1)116
+l_ctypeod: (4)24
+l_oadcingom: (2)183
+labs/homework: (1)5
+labs: (1)6
+lagny'sresearch: (2)17
+lagny(pdf: (2)18
+lagny: (2)17
+lagnyfound: (2)17
+laidon: (5)28
+laike: (2)97
+land”—a: (2)123
+laogigli_ngcom: (1)93
+laptops—maintain: (3)11
+larg: (5)24
+largde: (3)173
+large: (4)72
+lasbs: (1)7
+last: (1)71
+lastmodified: (2)28
+later: (5)27
+latereal: (1)25
+lawyeri: (5)25
+layerwriterplugin: (3)14
+layr: (3)150
+lbocate: (5)65
+lcoillvect: (1)108
+lcoiluvmn)e: (2)77
+lcongeor: (5)92
+lcriedventiaels: (2)81
+ldap: (1)157
+ldogon: (2)54
+ldrmodules("-v: (3)126
+ldrmodules: (3)53, (3)103, (3)107, (3)110, (3)127, (3)128, (3)129, (5)131
+ldrmodulesalso: (3)130
+ldrmodulesand: (3)135
+ldrmodulesextracts: (3)128
+ldrmodulesfor: (3)128
+ldrmodulesin: (3)126
+ldrmodulesis: (3)103
+ldrmoduleson: (3)128
+ldrmodulesplugin: (3)127, (3)129
+ldrmodulespulls: (3)107
+ldrmodulesshows: (3)135
+ldrmodulessimply: (3)128
+ldrmodulesto: (3)107
+ldrmodulesworks: (3)127
+leade: (3)34
+leadst: (5)91
+learned/threat: (1)20, (1)22
+learning: (1)40
+least: (3)53
+leatter: (5)124
+ledgeinswordwbheelqueery: (4)24
+leegacy: (4)81
+legitimate: (5)47
+legitimatewindows: (3)106
+legitimeate: (1)152
+legitimlatie: (3)66
+length: (5)51
+lenitevrprisees: (1)123
+leocatiodns: (3)103
+lesberry: (4)63
+less.[]some: (1)144
+less: (4)88
+lesser-known: (5)64
+letter: (2)27
+levael: (5)24
+levienv: (2)163
+lf_textinformation: (5)78
+lfailsve: (5)94
+lfo: (5)131
+lfuillv: (5)110
+lgliobval: (2)60
+liabilitly: (1)65
+liberally: (1)6
+libvshadow: (5)11, (5)12, (5)13, (5)14
+libvshadowproject: (5)13
+libvshadowtools: (5)14
+libvshadowtoolset: (5)13, (5)14
+license-accept-elastic-license-.: (3)131
+lifecycle: (1)36, (1)37
+ligh: (3)20
+lighof: (3)111
+liimvit: (2)17
+likce: (3)50
+like: (3)150
+likle: (2)41
+likze: (3)125
+limit: (2)133
+limitedprivileges: (2)56
+limiting: (4)70
+limitved: (1)76
+linbks: (5)37
+lincux: (5)102
+line: (2)106, (3)66
+line:the: (3)30
+linems: (3)156
+linkdate: (2)19
+linked-list: (3)87
+linucx: (4)56
+linux-based: (1)7
+linux/android/mac: (4)62
+linux/unix: (4)62, (5)104
+lir_p: (3)139
+list(s: (3)102
+list: (2)75, (4)70
+lists: (3)125
+listshows: (2)28
+live-triage: (5)11
+live: (1)100, (5)131
+live:-: (5)119
+live:: (5)123, (5)126, (5)127, (5)132, (5)133, (5)138, (5)141
+livessp: (1)127
+livesspcan: (1)127
+living-off-the-land: (1)58, (4)24, (5)5
+livxec: (5)32
+llbs: (3)103
+llegiitvimatee: (3)110
+lloigivn: (3)48
+lm/nt: (1)156
+lneievd: (5)27
+lnk: (3)139, (4)23, (4)50, (4)57, (4)71, (4)74, (4)79, (5)63, (5)77, (5)131, (5)139
+lo: (3)64
+load-balance: (1)106
+loadbaselineargument: (3)53
+loadlibrary: (3)100, (3)109, (3)118
+loadlibrarya: (3)106, (3)107
+loadtime: (3)61
+loadtimecolumn: (3)61
+loaok: (3)31
+lobg: (2)77
+lobgone: (2)72
+locacl: (2)48
+local: (2)72
+localaccount: (1)127
+localaccounttokenfilterpolicyaccessing: (2)72
+localaccounttokenfilterpolicywith: (2)72
+localaddrand: (3)87
+localhost: (2)83
+locallyor: (2)123
+localport: (3)87
+localservice: (2)56, (3)31, (3)37, (3)70
+localserviceandnoimpersonation: (3)37
+localservicenetworkrestricted: (3)37
+localservicenonetwork: (3)37
+localsessionmanager: (2)67
+localsystem: (2)42, (3)70
+locate: (5)47
+location.it: (1)156
+locations: (2)38, (5)79
+lock/unlock: (2)62
+locked,disabled: (2)70
+lodcatioan: (5)70
+lodt: (1)116
+lofadzed: (3)125
+log,tracks: (2)162
+log-on: (4)60
+log.[]it: (2)186
+log: (2)41, (2)115, (2)160, (4)58
+log:records: (2)40
+logas: (1)74
+logconsumer: (1)82
+logfile.csv: (5)78
+logfile_filenames.csv: (5)78
+logfile_indx_i.csv: (5)78
+logfilename: (2)178
+logfileparser.exe: (5)78, (5)79
+logfileparser: (5)78, (5)131
+logfileparserfrom: (5)79
+logfileparserincludes: (5)79
+logfileparsertool: (5)79
+logfilewiper: (5)90
+logged-in: (3)72
+logged-on: (2)162, (2)175
+login/logoff: (2)69
+logname: (2)180
+logoffs: (2)46
+logon/logoff: (2)42, (2)46, (2)47
+logons,butcertainnon-interactive: (1)136
+logontype: (2)109
+logonui.exe: (1)50, (4)10
+logon—easy: (1)71
+logon—non-interactive: (2)50
+logon—often: (2)50
+logparser.exe: (1)99
+logparser: (1)99
+logs*: (1)123
+logs.[]revoke-obfuscation: (2)168
+logs: (2)56, (5)105
+logstash: (1)81, (2)179, (4)97
+logtimeline.py/plasohas: (4)62
+logtimeline.py: (4)29, (4)49, (4)56, (4)63, (4)64, (4)66, (4)69, (4)71, (4)72, (4)75, (4)82, (4)83, (5)17, (5)131
+logtimeline.pytool: (5)17
+logtimeline/plasoan: (4)59
+logtimeline/plasohas: (4)59
+logtimelineis: (4)80
+logtimelinewill: (5)17
+log—process: (2)147
+lojaxand: (3)149
+lol: (3)156
+lolbas: (1)61, (5)56, (5)132
+lolbin: (1)61, (5)88, (5)132
+loldrivers: (3)156
+loldriverscan: (3)156
+loldriversproject: (3)156
+lomaded: (1)77
+lomader: (3)120
+lomg: (2)89
+long: (1)76, (2)128
+longer: (2)89
+loocatmion: (1)77
+lookat: (2)102
+lookding: (5)38
+lookinlg: (2)164
+lookulpsi: (4)6
+loopgmail_com: (5)16
+lorok: (5)6
+lost: (2)7
+lotus/apt: (1)77
+low-level: (5)67
+low-trust: (1)147
+lower-level: (5)34, (5)63, (5)72
+lowercaselongpath: (2)19
+lpriesvent: (3)176
+lpriovvidede: (2)143
+lrsarsysp: (1)127
+ls_quarantine: (4)63, (4)71
+lsa: (1)85, (1)126, (1)127, (1)129, (1)136, (1)141, (1)142, (1)145, (1)146, (1)147, (1)148, (1)156, (5)132
+lsaiso: (1)134
+lsass.exe: (1)60, (1)142, (3)68, (3)126, (3)128, (5)59, (5)62, (5)132
+lsass: (1)126, (1)127, (1)134, (1)136, (1)146, (1)151, (1)152, (2)41, (2)104, (3)51, (3)100
+lsasson: (1)155
+lslsass.exe: (2)140, (2)142
+lsn: (5)37, (5)78
+lssass.exe: (2)28
+lt-tools/yara_match: (4)97
+ltcsv: (4)80, (4)81, (4)82, (4)83, (4)87
+lthie: (1)125
+ltimievlinee.csv: (4)46
+lto_: (1)54, (2)4, (3)3, (4)3, (5)3
+lttln: (4)81
+luid: (2)100
+lunchesby: (1)94
+lvocateion: (1)77
+lw_roncg: (1)77
+lyoaded: (1)76
+m,a,c: (4)41
+m-modification: (4)33
+m-trends: (1)11, (1)69
+m.c: (4)41
+m.cb: (4)41
+m: (1)18, (2)93
+m:/config/config_process_show_terminated.txt: (3)161
+m:/forensic: (3)90
+m:\: (3)91
+m:\<process>\heaps: (3)160
+m:\<process>\minidump\minidump.dmp: (3)160
+m:\<process>\modules\<exe: (3)165
+m:\<process>\modules\<module: (3)160
+m:\<process>\vmemd: (3)160
+m:\forensic: (3)131
+m:\forensic\csv\files.csv: (3)175
+m:\forensic\csv\findevil.csv: (3)131
+m:\forensic\csv\net.csv: (3)94
+m:\forensic\csv\process.csv: (3)92
+m:\forensic\csv\tasks.csv: (3)180
+m:\forensic\csvfolder: (3)180
+m:\forensic\files: (3)160, (3)176
+m:\forensic\files\root: (3)175
+m:\forensic\findevil.txt: (3)122
+m:\forensic\findevil\findevil.txt: (3)124
+m:\forensic\forensic_enable.txt: (3)122
+m:\forensic\ntfs: (3)160
+m:\forensic\ntfs\_\users: (3)176
+m:\forensic\yara.csv: (3)131
+m:\forensic\yara: (3)131
+m:\is: (3)91
+m:\name: (3)92, (3)161
+m:\name\sesvc.exe: (3)93
+m:\name\svchost.exe-\: (3)160
+m:\name\system-\modules\<driver: (3)160
+m:\pid: (3)92, (3)161
+m:\pid\\: (3)160
+m:\registry: (3)160
+m:\registry\by-hivefolder: (3)178
+m:\registry\hive_filesfolder: (3)178
+m:\registryfolder: (3)178
+m:\sys\net: (3)94
+m:\sys\net\netstat.txt: (3)94
+m:\sys\proc\proc.txt: (3)92
+m:\sys\services: (3)160
+m:\sys\servicesand: (3)180
+m:\sys\tasks: (3)160
+m:\sys\tasksvirtualize: (3)180
+m=: (5)111
+m=~: (1)116
+m_inuctes: (3)53
+maac,: (4)56
+maalicious: (1)76
+maany: (3)162
+mac_appfirewall_log: (4)63, (4)71
+mac_document_versions: (4)63, (4)71
+mac_keychain: (4)63, (4)71
+mac_knowledgec: (4)71
+mac_notes,mackeeper_cache: (4)71
+mac_securityd: (4)63, (4)71
+macbook: (1)0, (2)0, (3)0, (4)0, (5)0
+mackeeper: (4)62, (4)63
+mackeeper_cache: (4)63
+macos: (1)45, (1)117, (2)161
+macosx: (4)62, (4)71
+mactime-generated: (4)91
+mactime: (4)43, (4)46, (4)62, (4)63, (4)82, (4)83, (5)132
+mactime[options: (4)46
+mactimea: (4)46
+mactimebody: (4)82
+mactimeis: (4)46
+mactimetool: (4)46
+mactimewith: (4)46
+macuser: (4)62
+macwifi: (4)62, (4)63, (4)71
+made.[]this: (3)125
+madeour: (3)17
+madmain?il_com: (1)134
+magnetforensics.com/free-tool-magnet-ram-capture: (3)11
+magnetforensicsram: (3)11
+maiintnains: (1)28
+mail_com: (1)85, (3)11
+maintain: (5)63
+maintained: (5)49
+maintainedl: (5)80
+make_token: (2)87
+maldicious: (1)100
+maldump: (2)144, (4)5, (4)12, (4)13
+maldumpa: (4)12
+maldumpcan: (4)13
+maldumpfor: (4)5
+maldumpis: (4)12, (4)13
+maldumpwhich: (2)143
+malfind'svery: (3)118
+malfind: (3)103, (3)111, (3)113, (3)115, (3)116, (3)117, (3)123, (3)130, (3)134, (3)135, (4)15, (5)132
+malfindand: (3)134
+malfindcommand: (3)113
+malfindexample: (3)115
+malfindhas: (3)111
+malfindidentifies: (3)135
+malfindin: (3)117
+malfindis: (3)103, (3)113
+malfindleaves: (3)111
+malfindoutput: (3)111, (3)113, (3)116
+malfindoutputs: (3)119
+malfindplugin: (3)110, (3)118
+malfindpluglini: (3)122
+malfindreports: (3)128
+malfindscans: (3)111
+malfindto: (3)112
+malfindusing: (3)103
+malicious: (2)97
+malicious—or: (1)63
+malpedia–amadey: (3)46
+malwarde: (1)71
+malware-based: (2)134
+malware-ology: (1)19, (1)34, (1)51, (1)52, (1)67, (1)89, (1)120
+malware/: (1)122, (2)113, (2)119, (2)135
+malware/ransomware: (4)52
+malwarebytes: (4)12
+malware—find: (1)58, (4)24
+malware—more: (1)53
+malwianre: (1)53
+maly: (1)48
+mamlicious: (1)40
+mamoru: (5)10
+manadl: (1)56
+manage: (1)97
+management:audit: (2)42
+management:task: (2)93
+management\: (2)7
+manager\memory: (2)7, (3)12
+manager\window: (2)56
+mandatoryaccess: (1)125
+mandiant: (1)11, (1)49, (1)72, (1)73, (1)75
+manlagievd: (1)147
+many: (1)76, (2)123
+maode)il_com: (4)30, (4)94
+mappedpath: (3)107, (3)126
+mappedpathbut: (3)126
+mappedpathcolumn: (3)107
+mappedpathfor: (3)128
+mappedpathinformation: (3)128
+mappedpathis: (3)128
+mappedpathon: (3)128
+mapsthat: (3)110
+mark-of-the-web: (5)55
+massive: (1)11
+masterfile: (5)25, (5)32, (5)33
+mastery:once: (1)6
+mastery:when: (1)6
+match-count.txt: (3)131
+match: (3)153
+matfthzew: (1)112
+mationv: (3)150
+matter?: (1)116
+may: (2)167, (3)87
+mayy: (5)47
+mbalwearer: (2)143
+mbc: (4)16
+mbean: (5)103
+mbr/gpt: (3)138
+mbr: (2)132, (5)132
+mcafee_protection: (4)57, (4)71
+mcft: (5)90
+mcoemcpy.exe: (1)77
+mcore: (2)133
+mcutil.dll: (1)77
+md: (1)95, (2)183, (3)64
+mday: (5)77
+mdetaectil_com: (3)109
+mdoswt: (5)32
+meake: (3)9
+meands: (1)53
+means—simple: (3)119
+measyure: (2)15
+medthodas: (4)100, (5)117
+meemormy: (3)174
+meemprocfsinclude: (3)156
+meetl: (1)115
+meight: (2)161
+melmiorvy: (3)130
+memberof: (1)157
+members: (2)75
+membersof: (1)139
+memdump: (3)162, (5)132
+memdumpplugin: (3)165
+memgorym: (3)162
+memmap(all: (3)165
+memmap: (3)93, (3)165, (3)181
+memolryi: (3)20
+memory'sever-changing: (3)16
+memory-based: (2)104, (3)94
+memory-centric: (3)95
+memory-management: (1)111
+memory-mapped: (3)5
+memory-only: (2)167, (3)6, (3)109
+memory-resident: (3)87, (3)159, (3)162
+memory.dmp: (3)11, (5)133
+memory.img: (3)131, (3)163, (3)164, (3)171
+memory.vmem(seen: (3)165
+memory: (3)18, (3)119, (3)160, (3)174, (3)183
+memoryand: (1)155
+memoryg: (3)53
+memorysample: (3)35
+memory—namely: (3)111
+memory—there: (3)6
+memprocfs.exe: (3)91, (3)131, (3)171
+memprocfs.live: (3)180
+memprocfsand: (3)174
+memprocfsare: (3)175
+memprocfsat: (3)131
+memprocfsautomatically: (3)133
+memprocfsbrings: (3)93, (3)180
+memprocfschecks: (3)129
+memprocfsdoes: (3)134, (3)178
+memprocfsfacilitates: (3)173
+memprocfsfiles\handlesfolder: (3)172
+memprocfsfindevilcan: (3)130
+memprocfsfindeviloutput: (3)124, (3)133
+memprocfsfindevilplugin: (3)129
+memprocfsfindevilplugins: (3)134
+memprocfsfindevilreports: (3)130
+memprocfsfindevilwere: (3)110
+memprocfsfolders: (3)92
+memprocfsforensic\files: (3)176
+memprocfsgithub: (3)91
+memprocfsgreatly: (3)161
+memprocfshas: (3)133
+memprocfsis: (3)90, (3)91, (3)103, (3)122, (3)131
+memprocfsm:\forensic\ntfsfolder: (3)178
+memprocfsmakes: (3)176, (3)178
+memprocfsoutput: (3)92
+memprocfsperforms: (3)91
+memprocfsproject: (3)107
+memprocfsprovides: (3)175
+memprocfsremoting: (3)184
+memprocfsreports: (3)129
+memprocfsrepresents: (3)172
+memprocfssearches: (3)176
+memprocfssupport: (3)91
+memprocfsvirtualizes: (3)178
+memprocfswiki: (3)130, (3)173
+memprocfswill: (3)156
+menu\programs\startup: (1)70, (1)71
+menu\programs\startup\bginfo.bat: (2)30
+meodern: (3)171
+meta-data: (4)87, (4)88, (4)89
+meta-file: (1)108
+meta-files: (1)108
+meterpreter: (2)98, (2)134, (3)46, (3)106, (3)113, (3)185
+mfor: (5)56
+mfrom: (2)27
+mft#--attributeid: (5)64
+mft.body: (4)43
+mft.csv: (4)43
+mft_segment_reference: (5)39
+mfta: (5)38
+mftecmd)that: (4)43
+mftecmd,and: (4)29
+mftecmd.exe: (4)43, (5)80
+mftecmd: (4)43, (4)46, (4)82, (5)47, (5)80, (5)81, (5)105, (5)133
+mftecmd[options: (4)43
+mftecmdagainst: (5)80
+mftecmdcan: (5)49
+mftecmdgives: (5)80
+mftecmdhas: (5)48
+mftecmdinto: (4)82, (4)83
+mftecmdis: (4)45
+mftecmdover: (4)83
+mftecmdsupports: (4)45
+mftecmdto: (4)29, (4)43, (5)48
+mftecmduses: (4)45
+mftecmdwhen: (5)48
+mftecmdwill: (5)80
+mftparser: (3)162
+mftscan: (3)181
+mgmt: (2)42
+mhashaes: (1)141
+micdroasoft: (2)183
+microsoft-speak: (1)70
+microsoft-wdindowsd-powaershellcocre%operadtional.evtx: (2)162
+microsoft-windows-powershell/operational: (2)131
+microsoft-windows-powershell/operationallog: (2)161
+microsoft-windows-task: (2)89
+microsoft-windows-terminalservices-rdpclient/operational: (2)114
+microsoft-windows-terminalservices: (2)67
+microsoft-windows-windows: (2)143, (2)145
+microsoft-windows-winrm/operational: (2)162
+microsoft-windows-wmi: (2)128
+microsoft-windows: (2)116, (2)129, (2)163
+microsoft.net: (3)134
+microsoft_office_mru: (4)59
+microsoft_outlook_mru: (4)59
+mid-: (1)106, (5)21
+middle-left: (5)86
+mighdt: (2)15
+millironcompiled: (3)147
+mimaikatzi: (1)116
+mimikatz.exe: (2)17
+mimikatzare: (2)27
+mimikatzcode: (2)171
+mimikatzcredential: (2)171
+mimikatzhave: (1)132
+mimikatztool: (2)104
+mimikatzwas: (1)132, (2)171
+mind-bending: (2)169
+mindscrew: (2)168
+mini-cycle: (1)26
+mini-process: (3)41
+mini-timeline: (4)54, (4)81
+mini-timelines: (4)69, (4)80
+minidump.dmpfile: (3)165
+minidump: (3)165
+minidumpfolder: (3)160
+minutes: (5)108
+minwd: (5)63
+misconfigurations: (1)157, (2)98, (2)154
+misp: (1)49
+missing/incorrect: (3)63
+mitigating: (1)128
+mitm: (1)154
+mitreatt&ck: (2)152, (4)16
+mixed-case: (5)21
+mloadead: (3)120
+mm/dd/yyyy: (4)87
+mm/ddd/yyyyacd: (4)89
+mmc)—right-click: (2)47
+mmc.exe: (2)74, (5)59, (5)62
+mmk: (1)33, (3)103, (3)156, (3)162, (3)174, (5)51, (5)72, (5)90
+mmost: (5)70
+mnaskibnge: (3)109
+mnemosyne.sys: (3)153, (4)52
+mnts: (2)171
+modaern: (5)70
+moddumlpi(vvolaetility: (3)141
+moddump(windows.modulesin: (3)150
+moddump: (3)162, (3)164, (5)133
+moddumpwhich: (3)164
+modern: (3)14
+modificatioen: (5)73
+modification/access: (4)5
+modscan: (3)139, (3)150, (3)151, (3)157, (5)133
+modscanidentify: (3)139
+modscanplugin: (3)150, (3)151
+module/pipeline: (2)167
+modules(volatility: (3)141
+modules.conf: (1)101
+modules.confcan: (1)101
+modules.conffile: (1)99, (1)101
+modules/drivers: (3)17
+modules:recovers: (3)172
+modulesand: (3)139
+modulesfolder: (3)160
+moduleslpiluvgin: (3)151
+modulesplugin: (3)150
+moedscadnfuw: (3)53
+mof: (1)79
+mofcomp.exe: (1)78, (2)128
+momeent: (1)30
+moment-by-moment: (5)66
+monnappak: (3)128
+more.autorunsgoes: (1)85
+more: (3)31
+morphed: (5)21
+morvermeynt: (1)25
+most-used: (3)66
+mostorganizations: (1)11
+mostpopular: (2)114
+motw: (5)54, (5)56
+mount: (2)124
+mountpoints: (2)117, (4)40, (4)59
+mountwin: (5)15, (5)101
+mountwin='mount: (5)15
+moving: (3)50
+moyre: (5)27
+mp: (1)7
+mplog-*: (2)143
+mplog-yyyymmdd-hhmmss: (2)146
+mplog: (2)143, (2)144, (2)146
+mplogs: (2)146
+mqa: (5)70
+mqanageer: (3)125
+mreacycle: (4)24
+mremyory: (3)183
+mrigrht: (3)85
+mrulist: (4)59
+mrulist_shell_item_list: (4)59
+mrulist_string: (4)59, (4)79
+mrulistex_shell_item_list: (4)59, (4)79
+mrulistex_string: (4)59, (4)79
+mrulistex_string_and_shell_item: (4)59, (4)79
+mrulistex_string_and_shell_item_list: (4)59, (4)79
+mryany: (1)48
+ms-: (1)78, (2)134
+ms-drsr: (1)152
+msagent: (3)79
+msagent_##: (3)79
+mscash: (1)141, (1)142
+mscriptatexitl_com: (1)82
+msdn: (1)63
+mshta.exe: (3)50
+msie_webcache: (4)61, (4)79
+msie_zone: (4)59, (4)79
+msiecf: (4)61, (4)71
+msiexec.exe: (3)77, (3)134, (3)172, (3)175
+mslieixevc.exee: (3)77
+msmpeng.exe: (3)131
+msocache: (5)14, (5)15
+msse-####-server: (3)79
+msse: (3)79
+mstsc.exe: (2)114
+mstsc_rdp: (4)59, (4)79
+mstsc_rdp_mru: (4)59, (4)79
+mswinzonescachecountermutexa: (3)80
+mswsock.dll: (3)147
+muchi: (5)70
+muchmore: (1)134
+mucsh: (1)40
+mudge: (3)66
+mufasa: (4)28
+multi-core: (3)168, (5)104
+multi-frontend: (1)111
+multi-os: (1)91, (1)111
+multi-platform: (5)88
+multi-quarantine: (4)5
+multi-threaded: (5)104
+multiple-hop: (3)148
+multipleprocesses: (3)28
+must: (1)141, (2)124
+mustbe: (5)51
+mutable/temporal: (1)39
+mutex: (3)59, (5)133
+mutexes/semaphores: (3)59
+mutexes: (3)59, (3)80
+mvasrrrcmmk: (1)112, (1)126
+mvoree: (2)62
+mwore: (3)62
+mwount: (5)16
+my: (4)100, (5)117
+mycomputer=: (5)55
+myfip.hand: (3)143
+mz.exe: (2)146
+mzalwyare: (3)85
+m‘quaraantinie.lta_r: (4)13
+naddsressb: (3)17
+nadme: (1)76
+nal: (4)89
+namce: (5)90
+name":"zone.identifier:ads: (5)72
+name(s: (1)114
+name,displayname,pathname,startmode: (2)154
+name.: (5)42
+name.txt: (5)42
+name: (3)93, (4)42, (5)51
+name>-<hash>.pf: (2)6
+name>: (1)116
+name>\pefile.dll: (3)160
+name>\pefile.dllfile: (3)165
+name_regex: (3)163, (3)164
+nameand: (2)62
+named: (2)72, (2)115, (3)119, (5)90
+nameddataextend: (5)71, (5)73
+namedmaldumpwhich: (4)12
+names: (3)59, (5)89
+namesddacd: (1)60
+namespace("\\\\.\\root\\subscription: (1)79
+namespace: (1)80, (4)16, (5)42, (5)133
+namespaces: (1)80
+namie: (2)122
+nano: (1)0, (2)0, (3)0, (4)0, (5)0
+naoise: (5)94
+nasreddinebencherchaliextracted: (2)164
+nasreddinebencherchalistarted: (3)156
+natinnog: (1)56
+nation-states: (1)65
+nature: (5)71
+naysayers: (3)183
+nce: (2)129
+nctionai: (3)53
+nd: (3)39
+neamer: (1)112
+near-simultaneous: (1)157, (2)62
+near-term: (1)21
+near-total: (5)103
+nearly: (3)148
+nebd: (1)28
+necessary: (3)82
+necessaryto: (1)146
+nedw: (5)22
+need.a: (4)30, (4)94
+neitwlo_rk: (1)25
+neitwnorks: (2)72
+net.exe: (5)59, (5)62
+net.webclient).downloadstring("http://bad.com/bad.ps: (2)167
+netflow: (1)47, (5)66
+netflowlogs: (1)157
+netfsr: (5)55
+netlrmr: (2)69
+netscan: (3)86, (5)133
+netstat-v.txt: (3)94
+netstat.exe: (1)94
+netstat.txt: (3)94
+netstat: (1)117, (3)79, (3)86
+netsvcs-p: (3)48
+netsvcs: (3)37
+nettraveler: (1)75, (1)76
+nettraveleris: (3)123
+netuse: (2)153
+networdk: (1)25
+network-based: (1)32, (1)48, (2)54, (2)81
+network/memory: (3)109
+network: (2)57
+network_drives: (4)59, (4)79
+networkconnections: (3)84
+networklist: (4)60
+networklogon: (2)50
+networkservice: (2)56, (3)37, (3)70
+network—including: (1)134
+netwuorkse: (1)152
+never-before-seen: (2)100
+never: (1)40
+new-object: (2)166, (2)167
+new-psdrive: (2)81
+new-psdrivecmdlet: (1)94
+new-pssession: (3)49
+new: (2)93, (3)140, (5)79, (5)90
+newer: (2)57
+newi: (1)112
+newly: (5)73
+next: (3)18, (3)173
+nextgenhacker: (2)93
+nfilensame: (5)90
+nfoldserbs: (2)146
+nform: (3)150
+ng: (2)151
+nhib: (3)16
+nisftz: (1)21
+nishang: (1)146
+nishangframework: (1)146
+nissrv.exe: (3)131
+nl$km: (1)146
+nla: (2)50, (2)64
+nloti: (3)79
+nmame: (5)51
+nnot: (3)53
+no: (2)89, (3)39
+nobanner: (1)86, (5)65
+nochanges: (4)37
+nod: (4)12
+node:/: (2)155
+noimage_rwx/rx: (3)122, (3)129
+noimage_rwx: (3)122
+noimage_rx: (3)122
+noisy.[,]gofetchtakes: (1)157
+noisy: (2)80
+nokia: (5)86, (5)87
+non-active: (3)123
+non-admin: (1)139, (2)52
+non-built-in: (1)147
+non-commercial: (2)77
+non-configurable: (1)144
+non-disabled: (1)85
+non-domain: (2)42
+non-exclusive: (1)0, (2)0, (3)0, (4)0, (5)0
+non-exe/dll: (3)126
+non-horizontal: (4)92
+non-image: (3)129
+non-interactive: (1)98
+non-interactively: (2)120
+non-memory-mapped: (3)103
+non-mobile: (1)144
+non-paged: (3)86
+non-printable: (1)146
+non-salted: (1)151
+non-security: (2)41
+non-standard: (1)80, (2)21, (3)113, (3)153
+non-system: (3)92
+non-technical: (2)169
+non-terminated: (2)65
+non-trivial: (3)13
+non-windows: (5)11
+non-zero: (1)86, (4)6
+nondelegated: (1)98
+noninteractive(-noni: (2)166
+noprofile(-nop: (2)166
+normal-looking: (1)40
+not)e: (2)15
+not: (2)7, (2)17, (3)72, (3)85, (3)101, (3)107
+notb: (3)174
+note:be: (1)82
+notepad.exe: (3)54, (3)130
+notes:wmi: (1)82
+notpetya: (2)118, (2)155
+notpetyaalso: (2)155
+notpetyautilizing: (2)155
+notw: (2)15
+nowe: (3)174
+noww: (4)24
+nozone=: (5)55
+nqamed: (3)85
+nrorteys: (3)38, (3)41, (3)87
+nrotreys: (3)61, (3)68
+ns: (2)143
+nsbsheow: (4)6
+nsize: (5)50
+nsot: (3)174
+nsrl: (1)76, (5)133
+nt\current: (1)144
+nt\currentversion\systemrestore: (5)10
+nt\currentversion\winlogon\userinit: (1)70
+ntcreatethreadexor: (3)106
+ntdll.dll: (3)147
+ntds.dit: (1)127, (1)136, (1)141, (1)145, (1)148, (1)152, (1)156, (5)133
+ntdsutil(cid:: (1)156
+ntdsutil: (1)156
+ntdsxtract(cid:: (1)156
+ntdsxtract: (5)133
+nteventlogconsumer: (1)82, (2)160
+ntfs,: (5)72
+ntfs-only: (4)45
+ntfs.sys: (5)22
+ntfsdisablelastaccessupdatleikevy: (5)43
+ntfsindx-indx: (5)104
+ntfslogfile-rstr/rcrd: (5)104
+ntfsmft-file: (5)104
+ntfsusn-usn_record: (5)104
+nti: (2)151
+ntkrnlmp.exe: (3)140
+ntkrnlpa.exe: (3)140
+ntllmi,v: (1)134
+ntlm: (1)126, (1)127, (1)132, (1)151, (2)69, (2)70, (2)72, (2)118
+ntlmv: (1)152
+ntoskrnl.exe: (3)140, (3)141
+ntoskrnl\.exe: (3)140
+ntprotectvirtualmemory: (3)125
+ntshrui.dll: (1)75
+ntuser.dat: (1)70, (2)121, (3)178, (4)40, (4)59, (4)72, (5)93, (5)134
+ntuser.dat\software\microsoft\windows\currentversion\run: (1)70
+ntuser: (2)117
+ntuser\software\microsoft\terminal: (2)114
+ntuser\software\microsoft\windows\currentversion\explorer\mountpoints: (2)117
+ntuser\software\sysinternals\psexec\eluilavacceepted: (2)120
+ntvfs: (5)90
+numaber: (2)122
+number(s: (4)66
+number: (5)22, (5)37
+number—hence: (5)34
+numerouswindows: (2)123
+nundsanskal: (3)80
+nvidia: (4)6
+nviso–amcachecontains: (2)18
+nwe: (3)183
+nyew: (1)28
+o/m: (3)185
+obdelede: (1)41
+obf: (3)62
+obfuscated: (5)6
+objectaccess: (2)42
+objectcs: (3)161
+obrjecrts: (3)164
+obtain: (1)155, (5)50
+occurs: (2)43
+ocf: (2)131
+ocwcurrenicen: (3)164
+oddvar: (1)61
+odf: (3)168, (5)92
+odfflinae: (1)152
+odr: (2)134
+odthera: (1)128
+oef: (4)64
+oeff: (5)85
+oence: (3)79, (5)108
+oener/trwyo: (2)27
+oenly: (1)76
+oeptimizded: (3)53
+ofa: (2)133
+ofac: (1)0, (2)0, (3)0, (4)0, (5)0
+ofchecks: (5)48
+ofdifferent: (3)11
+ofdthe: (3)18
+ofevents: (2)77
+office: (5)96
+officemru: (4)59
+offset(v: (3)34, (3)38, (3)41
+offset: (5)51
+offset:bytes: (3)130
+offsite: (3)167
+offyset: (5)51
+ofimage: (3)120
+ofmf: (1)33
+ofn: (5)70
+ofsystem: (3)6
+oft-abused: (1)30
+oftechniques: (3)103
+oftedn: (2)124
+often: (4)73, (5)6, (5)71
+oftenmust: (1)40
+ofthe: (5)28
+ofthese: (2)124, (4)57
+ofthis: (3)64
+ofthose: (3)18
+oftienn: (1)28
+ofv: (5)54
+ohnrh#: (5)16
+ohnrh-a: (4)44
+ohnrh.adefgrzadea: (1)28
+ohnrh: (3)162
+ohnrh[a: (1)21, (1)112, (1)126, (1)152, (5)70
+ohnrh[a]vmfwzare: (3)12
+ohnrhac: (5)121
+ohnrhacrefatizon: (5)47
+ohnrhadrifvez: (5)124
+ohnrhaevtfxezcmad: (5)125
+ohnrhafzarecycle_ybin:u: (4)79
+ohnrhafzayuebzyq: (5)135
+ohnrhafzayuebzyq:,e: (5)128, (5)129
+ohnrhafzayuebzyq:-em: (5)122
+ohnrhafzayuebzyq:: (5)136, (5)140
+ohnrhain: (5)72
+ohnrharae: (5)50
+ohnrharekfazll: (5)137
+ohnrhasa: (3)174
+ohnrhasysftezm: (5)139
+ohnrhavssf_zcarvaer: (5)142
+ohnrhcoapies: (3)156
+ohnrhdeatectiofnsz: (1)42
+ohnrhdeavicfetzreaemig: (3)150
+ohnrheand: (1)40
+ohnrhexaamfplze: (4)81
+ohnrhexahaustfedz: (1)33
+ohnrhfeaature,f: (1)76
+ohnrhfeaature.f: (5)27
+ohnrhfoar: (3)103
+ohnrhinadicatofrsz: (1)41
+ohnrhnoat: (2)15
+ohnrhnoatice: (5)51
+ohnrhntuaserf.dzata\softwayre\muicreosofbt\windzowsy\curqrentevermsionv\runonacesrrrcmmk: (1)70
+ohnrhoan: (3)85
+ohnrhotaher: (5)105
+ohnrhreaveal: (1)39
+ohnrhseacondsf: (5)90
+ohnrhtharee: (3)125
+ohnrhusaing: (1)6
+oiftnen: (1)12
+oindmex.dat: (4)61
+olb_jectscom: (3)59
+olecf: (4)57, (4)62, (4)63, (4)71
+olecf_automatic_destinations: (4)63, (4)71, (4)79
+olecf_default: (4)63, (4)79
+olecf_document_summary: (4)57, (4)63
+olecf_summary: (4)57, (4)63
+olf: (3)11
+olled: (1)99
+olv_er: (5)92
+omakase: (3)67
+on-disk: (5)21, (5)22
+on: (1)100, (2)96, (3)12, (3)101, (5)105, (5)111
+once: (3)31
+oncesome: (2)113
+oncewe: (3)181
+one-liner: (2)72
+one-time: (1)112
+one-to-many: (1)96
+one: (2)97, (5)24, (5)61, (5)91
+onedrive.exe: (3)88
+onedrive.exeprocess: (3)117
+onedrive: (4)57
+onedrive_log: (4)57
+onee: (5)88
+oneliners–http://for.com/-ajb: (1)95
+onenoteofflinecache.onecache: (5)108
+oneof: (2)154
+onesyncsvc_ddec: (2)100
+one—from: (5)104
+onl: (2)38, (5)10, (5)24
+onle: (2)167
+only).[]attackers: (1)136
+only: (1)57, (2)15, (2)179
+onmft: (5)69
+ontarget: (1)129
+on—not: (1)70
+oo: (2)129
+opcerates: (5)24
+open-sourced: (2)169
+open/save: (5)93
+open/savemrulists: (4)59
+opening).[]note: (1)125
+openioc: (1)49, (3)185, (5)134
+openioc_scan: (3)185, (5)134
+openioc_scanvolatility: (3)185
+openiocformat: (1)49
+openiocschema: (1)49
+openiocto: (1)49
+openiocwas: (1)49
+openprocess: (3)105
+opensavemru: (1)58, (4)24
+opensearch: (4)80
+openxml(oxml: (4)57, (4)62
+openxml: (4)57, (4)62, (4)63
+opera_global: (4)61, (4)71
+opera_typed_history: (4)61, (4)71
+operatesondata: (3)16
+opltiionv: (3)22
+optiodns: (5)11
+option: (2)124
+options—and: (5)106
+oqther: (1)40
+or: (1)25, (1)49, (1)112, (3)69, (5)6
+order: (5)63
+ordganizatiodn: (1)40
+orgalniizavtione: (1)31
+organizations: (1)41, (1)154
+orgs: (1)16
+originatingsystem: (2)83
+origyinal: (5)47
+ormati: (4)89
+os/: (5)21
+os/filesystem: (4)29
+osddfcown: (5)106
+osdfcon: (5)105
+osncbe: (1)48
+osts: (5)107
+other: (2)97
+othersections: (3)181
+ou: (3)39
+oucr: (5)72
+oudt.plaasocd: (4)78
+ouetput: (3)168
+our: (5)51
+ourr: (3)183
+out-dof-band: (2)133
+out-gridview: (1)94
+out.plaso: (4)63, (4)66, (4)71, (4)75, (4)78, (4)80, (4)81, (4)82, (4)83
+out.plasodatabase: (4)63, (4)82, (4)83
+out.plasodatastore: (4)82, (4)83
+out.plasofile: (4)63
+out: (5)46, (5)68
+outlier: (3)31
+outlloiokv: (4)59
+outpudt: (3)119
+output-file.csv: (1)85
+output-folder: (3)163, (3)164
+output-time-zone: (4)80, (4)81, (4)82, (4)83
+output-time: (4)80
+output.txt: (2)30
+output: (3)164
+outputd: (3)53
+outputfile: (4)80
+outputpath.\oudtput\d-atargetlcist.\hdostlist: (1)103
+outputpath: (1)104
+outputtersuch: (1)94
+ouytput: (3)53
+oveer: (1)28
+over: (3)85
+overwritten: (5)79
+overwritten—or: (5)93
+ovf: (1)139
+ovleri: (1)38
+ovn: (2)47
+ovutpuet: (3)122
+owa: (1)18
+owner: (1)63
+owptions: (5)88
+oxml: (4)63, (4)79
+oyf: (1)45, (3)59
+oyne: (5)6
+oyr: (1)53
+p.exe: (4)8, (4)27
+pa.exe: (1)6, (4)40
+pa: (3)64
+paath: (4)73
+paayloiadl: (1)40
+packaetsi: (3)139
+packing/armoring: (1)62
+padrticaularly: (5)71
+page.[: (5)106
+page[: (2)169
+page_brute.py: (3)168, (3)185
+page_execute_readwrite: (3)110, (3)113, (3)115, (3)117, (5)134
+paged: (3)164
+pagefile.sys: (3)12, (3)61, (3)91, (3)168, (3)171, (5)14, (5)15, (5)134
+pagefile.sysis: (3)171
+pagefile: (3)91, (3)123, (3)171, (3)183, (4)74
+pagefile[|: (3)91
+pagefiles: (3)91, (5)107
+paower: (3)14
+par: (4)89
+pardsear: (2)106
+pardts: (2)167
+parednt: (5)91
+parent-child: (2)134, (3)9, (3)42, (3)49, (3)51
+parent-process: (3)41, (3)56
+parent/child: (3)46, (3)48, (3)92, (3)119
+parent: (1)112, (3)46
+parents: (3)50
+parogramdatca: (5)15
+paroviislio_ns: (1)0, (2)0, (3)0, (4)0, (5)0
+parse: (4)70
+parser: (4)58, (4)60, (4)63, (4)70
+parser_list: (4)69
+parsers/plugins: (4)59
+parsescheduledtasksxml.ps: (2)94
+parsing: (5)105
+partial-file: (5)95
+particularlyinteresting: (2)58
+parts: (3)18
+pass-the-hash: (1)125, (1)126, (1)127, (1)128, (1)134, (1)141, (1)151, (1)156, (2)60, (2)118, (2)140
+pass-the-hashattacks: (2)70
+passaword: (1)154
+passcword: (2)54
+passthe: (1)127
+passware: (3)13
+password: (1)153
+passwordhashes: (1)139
+patchedd: (5)102
+patchguard: (3)140, (3)149
+patchguardand: (3)138, (3)143
+patchguardbypasses: (3)140
+path: (4)42
+path_separator: (4)73
+pathsm: (4)24
+patterns: (1)49
+payloaddata-: (2)107
+payloaddata: (2)107
+pcap: (4)40, (4)62
+pcidd: (3)93
+pcileech: (3)90
+pcileechand: (3)184
+pdagefile.sys: (3)91
+pdf: (1)128
+pdort: (3)85
+pdotenatially: (5)79
+pdrocedssa: (3)143
+pdroviade: (2)124
+pe,sc,sc: (4)15
+pe-sieve: (3)103
+pe.dll: (3)165
+pe_inject: (3)122, (3)129, (3)130
+pe_nolink: (3)129, (3)130
+pe_nolinkperforms: (3)129
+pe_patched: (3)124, (3)129, (3)134
+pe_patchedaims: (3)129
+peb): (3)130
+peb_masq: (3)129
+peb_masqtargets: (3)129
+pecmd.exe: (2)9, (2)10, (2)11
+pecmd: (2)9, (2)10
+pecmdcan: (2)11
+pecmdoutput: (2)9
+peer-to-peer: (3)84
+pefile.dll: (3)93, (3)160, (3)161, (3)165
+pehysidcal: (4)66
+peowershell: (2)175
+per-account: (2)41
+per-client: (1)115
+per-extension: (5)99
+per-user: (2)100
+perevendting: (1)25
+perflogs: (5)14, (5)15
+perfmon: (5)77
+performa: (3)119
+perovidde: (3)62
+perovide: (4)5
+persaisteinlce_com: (1)56
+persistencehijacks: (1)75
+persistendce: (1)77
+pestudio: (3)133
+petya: (2)155
+pf=: (3)123
+pg: (5)94
+phase: (1)21
+phases.: (1)42
+phishing: (1)70
+phonecallhistoryapis.exe: (3)124
+photlorievccane: (5)98
+photorec.: (5)99
+photorec: (5)99, (5)105, (5)135
+photorecand: (5)98
+photorecdirectly: (5)98
+photorecis: (5)98
+photorecto: (5)98
+php: (3)44
+piasnsword: (1)152
+pidargument: (3)174
+pidl: (3)185
+pids: (3)61, (3)88, (3)134, (3)144
+pii: (1)41
+piinnsfob.peyr: (4)77
+pilkington: (1)8, (1)97, (1)139, (2)1, (3)1, (4)1, (5)1
+pinfo.py: (4)78, (5)135
+pinfo: (4)56, (5)135
+pinfois: (4)56
+ping.exe: (5)59, (5)62
+pl-sql: (4)62
+placing: (1)76
+placingg: (1)40
+plansc: (1)21
+plaso'sdeveloper: (4)71
+plaso(plasolangar: (4)56
+plaso--amd.zip: (5)91
+plaso-psortversion: (4)81
+plaso.csv: (4)81
+plaso.dump: (5)17
+plaso/logtimeline.py: (4)61
+plaso/logtimeline: (4)57, (4)75
+plaso: (4)49, (4)56, (4)59, (4)61, (4)62, (4)63, (4)64, (4)78, (4)97, (5)135
+plasoand: (4)56, (4)97
+plasobackend: (4)56
+plasodatabase: (4)63, (4)78, (4)80
+plasodocumentation: (4)65, (4)73
+plasoengine: (4)82
+plasois: (4)64, (4)65
+plasopreprocessing: (4)72
+plasoproject: (4)73
+plasoships: (4)97
+plasoshould: (4)72
+plasostorage: (4)56, (4)78, (4)80
+plasosuper: (4)91, (4)92
+plasoteam: (4)73
+plasoto: (4)72
+plasowas: (4)29
+plasowhich: (4)29
+plasowindows: (4)57
+player®l: (1)0, (2)0, (3)0, (4)0, (5)0
+ple: (2)62
+plist: (4)62, (4)63, (4)71
+plist_airport: (4)63
+plist_appleaccount: (4)63
+plist_bluetooth: (4)63
+plist_default: (4)63
+plist_install_history: (4)63
+plist_macuser: (4)63
+plist_softwareupdate: (4)63
+plist_spotlight: (4)63
+plist_spotlight_volume: (4)63
+plist_timemachine: (4)63
+pls_recall: (4)62, (4)71
+plugas: (1)22
+plugin-specific: (3)24
+plugins/parsers: (4)78
+pluginswindows.pslist.pslist_verand: (3)21
+plugrinsr: (3)162
+plugx: (1)75, (1)76, (2)134
+pmbok®: (1)0, (2)0, (3)0, (4)0, (5)0
+pmem: (3)12
+pmi: (1)0, (2)0, (3)0, (4)0, (5)0
+pmowersvhell: (3)125
+pmp®: (1)0, (2)0, (3)0, (4)0, (5)0
+pnlist: (4)63
+pnrovisded: (2)122
+poewershell: (2)40
+point-in-time: (1)111, (5)66
+pointds: (5)70
+pointsto: (3)178
+policy)—start: (2)118
+polwievrsheell: (2)98
+popularity_contest: (4)62, (4)71
+porovidme: (3)164
+ports:althoughwe: (3)84
+portscans: (1)40
+posdsible: (2)104
+poseitives: (5)94
+positives.[]we: (3)134
+possiblde: (5)55
+posslibile.v: (5)93
+post-breach: (1)123
+post-compromise: (1)42, (1)43
+post-ex: (3)67
+post-exploit: (1)43, (2)152
+post-exploitation: (1)123, (2)134, (2)152, (2)164
+post-process: (4)80
+post-processing: (1)84, (1)93, (1)108, (3)11, (3)74, (4)56, (4)80
+post-timestomping: (5)63
+post-win: (3)149
+post-windows: (1)136
+post-winxp: (1)141
+postex_####: (3)79
+postex_ssh: (3)79
+postex_ssh_####: (3)79
+potential: (5)104
+potentialllyi: (1)157
+power,”“plug: (1)22
+power: (3)14, (5)68
+powercfg.exe: (3)14, (5)135
+powerdsheldl.aexe: (2)129
+powerfuld: (4)7
+powerpoint: (5)54
+powershdell: (3)50
+powershell-based: (2)154, (3)66, (3)101
+powershell-specific: (2)161
+powershell-version: (2)167
+powershell.evtx: (2)161
+powershell.evtxlog: (2)161, (2)162
+powershell.exe: (1)82, (2)129, (2)131, (2)147, (2)149, (2)161, (2)166, (3)49, (3)66, (3)77, (3)79, (3)169, (4)16
+powershell/operational: (2)129, (2)163, (2)164, (2)167, (2)168, (2)177
+powershell/turn: (2)171
+powershell_transcript: (4)57, (4)79
+powershellempire/powertools: (2)154
+powershellremoting: (1)129, (2)129
+powershell–: (2)162
+powershell–version: (2)161
+powersploit/recon: (2)74
+powersploit: (3)109
+powersploitand: (2)74, (3)109
+powersploit—a: (2)164
+powersploit“get-keystrokes: (2)164
+powerview: (2)74
+powerviewand: (2)74, (2)75
+ppid: (3)28, (3)34, (3)38, (3)41
+pr: (3)39
+practice: (4)73
+praotection: (1)135
+prcovide: (3)162
+prdocessd: (3)46
+pre-and: (5)63
+pre-authenticate: (2)124
+pre-authentication: (2)69, (2)70
+pre-built: (1)80, (3)156, (3)167, (3)168
+pre-compiled: (4)11
+pre-computation: (1)127, (1)141
+pre-configured: (2)183
+pre-date: (4)40
+pre-dating: (4)35
+pre-defined: (3)183, (5)32
+pre-filter: (2)164, (2)178, (2)180
+pre-filtered: (2)106
+pre-filtering: (2)183, (2)184
+pre-generated: (1)6, (3)153
+pre-loading: (2)6
+pre-populated: (5)16
+prebuilt: (1)94
+precsent: (3)75
+preemptively: (1)154
+prefetcher: (2)8
+prefetching: (2)6, (2)7
+prefetchparameters: (2)7
+preovideds: (5)36
+preparation—not: (1)20
+preseent: (3)174
+presenceon: (2)18
+present: (2)162, (5)51
+preserved: (5)82
+preservedd: (5)42
+press/pr: (1)160, (2)189, (3)188, (4)100, (5)117
+prevenlt: (2)107
+previously-unknown: (1)16
+prgior: (5)46
+priaor: (1)42
+principlails/vusereidtag: (2)93
+printerbugexploit: (1)152
+printkey: (5)136
+prioritizethe: (1)123
+privacy: (5)93
+private_rwx/rx: (3)122, (3)129
+private_rwx: (3)122
+private_rx: (3)122
+privatememory(type: (3)111
+privileges.in: (2)85
+priwmary: (5)73
+prmesent: (3)103
+pro-tip: (3)52, (3)180
+proactively: (1)44, (1)157, (3)156
+proc-v.txt: (3)92
+proc_nolink: (3)122, (3)129
+proc_parent: (3)122, (3)129
+proc_user: (3)122, (3)129
+procdesses: (3)31
+procdump: (3)162, (3)163, (5)136
+procdumpplugin: (3)165
+procelssi: (3)131
+procelssiesv: (3)34
+proces: (2)151
+proceslsive: (3)7
+process,files: (3)157
+process-related: (3)160
+process.memory: (3)181
+process/dllinjection: (2)96
+process: (2)127, (3)44, (3)66, (3)85, (3)107, (3)128
+processbl: (5)136
+processblcompares: (3)53
+processdes: (3)59
+processes.[]the: (1)126
+processes.[]windows: (1)134
+processes: (3)62
+processexecutables: (3)183
+processid: (3)126
+processstartvalue: (2)145
+processwas: (3)67
+procstack: (3)52
+prodcesases: (3)182
+product(s: (4)12
+products: (3)173
+profile%\appdata\local\microsoft\windows\wer: (2)142
+profile.ps: (2)171
+profile=: (3)21, (3)22
+profile=<profile>: (3)163, (3)164
+profile=winspx: (3)14
+profilelist: (1)117
+program: (2)17
+programcache: (4)59
+programdata: (2)32, (5)14
+programdatafoldelr: (1)77
+programdatafolder: (1)77
+programid: (2)19
+projlecit: (2)175
+prolaco: (3)143
+proof-of-concept: (3)119
+propedrly: (1)76
+propercontainment: (1)22
+protectdomain: (1)155
+protected: (1)134
+protectingprivileged: (1)128
+protection: (1)126
+protfecztinga: (1)152
+protlociovls: (2)69
+provide: (2)71, (3)82
+provided: (5)68, (5)102
+providesadditional: (1)103
+providesmore: (2)91
+providing: (2)134
+providlinig: (2)62
+proxy: (1)18
+pro®: (1)0, (2)0, (3)0, (4)0, (5)0
+ps: (1)97, (2)131
+psactiveprocesshead: (3)23
+psactiveprocessheadpointer: (3)17
+psdecode: (2)169
+psdecodeproject: (2)169
+psexec*: (3)48
+psexec-style: (1)127
+psexec.exe: (2)120, (2)121, (5)136
+psexecactivity: (2)120, (2)121
+psexecalternate: (1)129
+psexecartifacts: (2)98
+psexecbut: (2)124
+psexecc: (2)98
+psexeccan: (2)84, (2)120, (2)121
+psexeccommand: (1)129
+psexeceula: (2)120
+psexecexecution: (2)98
+psexecexecutions: (2)98
+psexecfails: (2)124
+psexechas: (2)98
+psexechere: (2)98
+psexecinclude: (2)122
+psexecinstead: (2)146
+psexecis: (2)120, (3)48
+psexecmodule: (1)127
+psexecmounts: (2)121
+psexecnecessarily: (2)121
+psexecoften: (3)79
+psexecpayloads: (3)48
+psexecrequires: (2)121
+psexecsession: (2)98
+psexecthat: (2)97
+psexecto: (2)120, (2)121
+psexectool: (1)132, (2)98, (3)48, (4)40
+psexecuses: (2)121
+psexecwas: (2)120
+psexecwill: (2)121
+psexecwith: (2)155
+psexec–c: (2)121
+psexesvc.exe: (2)27, (2)121, (3)48
+psexesvc: (2)98, (2)121, (2)122
+psexesvcactivity: (2)122
+psexesvcservice: (2)121
+pslist(code: (3)165
+pslist.exeon: (3)143
+pslist: (3)22, (3)34, (3)39, (3)41, (3)56, (3)144, (3)145, (3)165, (3)181, (5)136
+pslistanalog: (3)38
+pslistand: (3)23
+pslistcould: (3)144
+pslistdoes: (3)39, (3)145
+pslistis: (3)145
+pslistoutput: (3)38, (3)39
+pslistplugin: (3)143, (3)145
+psloadedmodulelist: (3)23
+psloglist: (2)178, (5)136
+psloglisttool: (2)178
+psort.py: (4)80, (4)81, (4)82, (4)83, (5)17, (5)136
+psort: (4)56, (5)136
+psortand: (4)86
+psortas: (4)80
+psortis: (4)80, (4)87
+psortpost-processing: (5)17
+psortrecords: (5)17
+psortuses: (4)80
+psortwith: (4)81
+pspcdid: (3)145
+pspcid: (3)144, (5)136
+pspcidare: (3)144
+pspciddata: (3)144
+pspcidtable: (3)144
+psreadline: (2)175
+psreadlineis: (2)175
+psreadlinestarted: (2)175
+psscan: (3)22, (3)38, (3)143, (3)144, (3)145, (5)136
+psscancolumn: (3)144
+psscanfinds: (3)145
+psscanfound: (3)145
+psscangives: (3)56
+psscanoutput: (3)39, (3)145
+psscanpicks: (3)145
+psscanplugin: (3)39
+psscanplugins: (3)23
+psscanwill: (3)38
+pstree: (3)41, (3)56, (5)136
+pstreedisplays: (3)56
+pstreeoutput: (3)46
+pstreeplugin: (3)42
+pstreerelies: (3)41
+psts: (5)107
+psv: (2)131, (2)161, (2)162, (2)163
+psvscript: (2)168
+psxview: (3)139, (3)144, (3)145, (3)157, (5)136
+psxviewplugin: (3)144, (3)145
+psxviewtable: (3)144
+pte-based: (3)125
+ptemalfind: (3)103, (3)104
+ptemalfindby: (3)129
+ptemalfindin: (3)135
+ptemalfindto: (3)103
+ptes: (3)129
+pth(pass: (2)87
+pth: (1)132, (2)87
+pthcreate: (2)87
+pthoption: (1)132
+purpose: (2)71
+purposecs: (3)173
+pushbin: (1)103, (1)104
+pushbinargument: (1)105
+pushbinoption: (1)106
+pushed/downloaded: (1)108
+pvrovidee: (3)134
+pwarser: (5)47
+pwdump.py: (1)142
+pwdumpor: (2)27
+pwdumpx: (1)127, (1)141
+pwnage: (2)132
+pyhases: (1)41
+pyioce: (3)185
+pyrocesses: (1)77
+python-based: (3)90, (3)91, (3)185, (4)56, (5)65
+python: (3)20
+qcow//: (4)66
+qcreatioen: (5)47
+qfe: (2)153
+qprivs: (1)73
+qsince: (5)51
+qtriggerinfo: (1)73
+quarantine.csv: (4)13
+quardantinde: (4)12
+query-based: (1)111
+queryex: (1)73
+queryjournal: (5)70, (5)111
+querylanguage=: (1)79
+query—be: (3)147
+quser.exe: (5)59, (5)62
+r:rc: (5)128
+r:ry-: (5)138
+r:ry: (5)120
+raevent.vbs: (1)82, (2)160
+ram.this: (3)168
+ramg: (3)164
+ranege: (4)46
+ransomwaere: (5)103
+ransomware: (1)12, (1)37, (1)78, (1)82, (2)101, (2)134, (2)155, (3)80, (4)6, (5)56, (5)88, (5)100
+rapid-response: (1)91
+rapid: (1)111, (1)112
+rar.exe: (2)27, (3)9
+rare: (2)97
+rarsfx.exe: (2)30
+rasauto: (1)72
+rassorciateyd: (4)87
+rassorciatyed: (4)89
+rathbun: (1)109, (3)151
+rather: (4)73
+raw: (2)183, (5)14
+rawpy: (4)81
+raynd: (4)77
+rbetuerninrgr: (5)66
+rboroty|: (2)96
+rbpis: (3)116
+rc: (1)126, (1)153, (1)155
+rcacn: (5)47
+rcauthentication: (1)155
+rcluysters: (5)50
+rd-cdrive.e: (5)14, (5)16, (5)53
+rd-triage.plaso: (4)78
+rd-ycdriuve.ee: (5)16
+rd: (1)15
+rdemoting: (2)131
+rdequwired: (3)66
+rdp-specific: (2)116
+rdp-tcp#: (2)64
+rdp.[]high-value: (1)139
+rdpclient/operational: (2)67
+rdpclient: (2)67, (2)177
+rdpclip.exe: (2)116, (5)137
+rdpcorets: (2)177
+rdpcoretsand: (2)62
+rdpcoretslog: (2)63
+rdphint: (5)137
+re-analyze: (3)53
+re-architecting: (1)30
+re-connected: (2)64
+re-enabled: (1)134
+re-index: (5)69
+re-introduced: (1)151
+re-organizing: (5)99
+re-publish: (1)0, (2)0, (3)0, (4)0, (5)0
+re-run: (4)64, (5)67
+re-used: (1)65
+re-write: (3)20
+re_concnecot: (2)50
+read-only: (3)161, (4)91, (5)15, (5)39, (5)69
+read: (5)50
+readlineimplementation: (2)175
+readlly: (1)116
+readonly: (3)120, (5)36, (5)40
+readwrite: (3)118, (3)120
+real-world: (1)44, (1)106, (2)184, (3)9, (3)20, (3)123
+realloc: (5)97
+realtime: (3)131
+reaquirei: (3)53
+reasonsd: (1)25
+reblativee: (5)63
+recallthat: (3)127
+recdovering: (4)28
+recegntly: (5)76
+recentdocs(most: (5)93
+recentdocs: (4)59
+recentfilecache.bcf: (2)17, (5)137
+recentfilecache: (5)137
+recentlythat: (2)104
+recmoved: (2)57
+recomvered: (3)174
+reconfrom: (3)13
+reconnect/disconnect: (2)64
+reconproducts: (3)14
+reconscan: (2)28
+record: (5)38
+recordkeeping: (1)0, (2)0, (3)0, (4)0, (5)0
+recordsclient: (2)62
+records”—for: (5)25
+recover: (5)104
+recovered: (5)105
+recovery: (5)108
+recover—vss: (5)100
+recsided: (5)63
+recup_dir.: (5)99
+recycle_bin: (4)57, (4)71
+recycle_bin_info: (4)71
+red-teamers: (5)56
+redboot: (2)15
+redcondstraucted: (3)175
+redeuce: (3)21
+redg.exe: (2)124
+redgucesm: (2)122
+redirectors: (3)84
+redmote: (1)97
+redsucebs: (1)157
+reduce: (1)31
+reduction—only: (2)41
+redulceidv: (3)138
+ree-used: (1)109
+reeally: (3)85
+reelaterdr: (2)146
+reesponbse: (1)33
+reestore: (5)9
+referrerurlor: (5)54
+refldect: (2)122
+reg.exe: (2)16, (2)27, (5)59, (5)62, (5)137
+reg_sz: (2)123
+regex: (1)113, (2)28, (3)167, (3)168, (4)73, (5)107
+regexes: (3)167
+regf: (4)58
+regisdtry: (5)94
+registrationinfo: (2)93
+registry-based: (3)178, (3)180
+registry: (2)57, (3)22, (3)69, (5)6
+registryhivein: (1)141
+regripper: (5)137
+regripperhave: (1)71
+regripperplugin“rdphint: (2)114
+reguclar: (1)154
+regularcomputer: (1)155
+rekal: (3)171
+rekall: (1)111, (3)20, (3)103
+relative: (3)71
+relatively: (2)97
+rely: (4)73
+remaediation: (1)21
+remediateion: (1)28
+remediation-focused: (1)30
+remnux®: (1)0, (2)0, (3)0, (4)0, (5)0
+remote-capable: (2)120
+remoteaccess: (2)72
+remoteconnectionmanager: (2)67, (2)177
+remotedesktop: (2)50
+remotedesktopservices-rdpcorets/operational: (2)116
+remotehost: (2)107
+remotescheduled: (1)129
+remoting/wmic: (1)122, (2)113, (2)119, (2)135
+remove-module: (2)175
+remove: (1)78, (1)79
+removes/rebuilds: (1)28
+renamed,the: (2)15
+renamenewname: (5)71, (5)72
+renameoldname: (5)71, (5)72
+reocordemd: (2)122
+reparse: (5)23, (5)28, (5)39, (5)137
+replication: (1)155
+report.wer: (2)139, (2)142
+report.werand: (2)142
+reporting).[]attacks: (3)149
+repository:http://for.com/ikdy: (1)45
+reqguesmt: (3)139
+requicred: (4)44
+requiredby: (1)103
+research.[]keep: (4)16
+researchl: (2)104
+reseearch: (5)93
+resident: (5)51
+residing: (1)33
+resipoln_se: (1)28
+resourced: (1)63
+response: (1)31, (1)41, (1)100
+responsed: (1)37
+restartds: (2)43
+result.txt: (3)131
+result: (5)89
+results: (1)21, (1)112
+results_confidential.pdf: (5)89
+returnzyqemvasrrrcmmk: (1)28
+reused.[]when: (5)37
+review:windows: (2)6
+revoke-obfuscation: (2)168
+rfilresy: (4)6
+ri.exe: (4)27
+ribtten: (5)28
+rid: (3)71
+righat: (1)6
+right-click: (2)77, (2)163, (3)181
+right-clicking: (2)77, (2)178
+riigvorouesly: (3)26
+rk,b: (5)47
+rmassisteventfilter: (1)82, (2)160
+rmdp: (2)50
+rmecommaendeid: (5)92
+rmecovered: (5)93
+rndsearch: (2)28
+ro,show_sys_files,streams_interface=windows: (5)14, (5)15, (5)16
+roadmap: (1)54, (2)4, (3)3, (4)3, (5)3
+roaming\microsoft\nsacwesqczltkfvohq: (3)169
+robbinhood(the: (3)149
+robbinhood: (3)149
+roc: (1)127, (3)51
+rocha: (5)70
+rocws: (1)116
+roersepnonssice: (1)56
+rogued: (3)182
+rolled: (1)126
+root/default: (1)80
+root/subscription: (1)80
+root: (2)72
+root\default: (1)80
+root\subscription: (1)79, (1)80
+root_dir>: (4)13
+rootaccount: (2)72
+rootis: (2)72
+rootkit:w/tdss.gen!a: (3)151
+rootkithooking: (3)157
+rootl#iv: (1)146
+rovy: (3)150
+rowds: (1)116
+rpcss: (3)37
+rplog: (4)71
+rqurarayntined: (4)13
+rrcmmk: (5)140
+rrlasty: (4)24
+rrrcmmk: (5)105
+rry: (5)121
+rsemboeter: (1)93
+rspecnding: (1)33
+rspthe: (3)116
+rstepy: (4)45
+rsydow-a: (2)58, (2)60
+rsydow: (1)149, (2)47, (2)64
+rsydowaccount: (2)64
+rsydowis: (2)57
+rsysrintyernals: (5)47
+rthec: (1)40
+rtherseiadt: (1)56
+rtifact: (4)89
+rtlcreateuserthread: (3)106
+rto: (5)90
+rtracck: (5)90
+rul: (5)43
+rulae: (1)49
+rules.[]each: (3)131
+rules_file: (4)11
+run: (5)108
+runas/netonly: (2)50
+runas: (1)129, (2)41, (2)46, (2)83, (2)85, (2)87, (2)120, (2)126, (5)138
+runascommand: (2)46
+runasevents: (1)58, (2)87, (4)24
+runaslargely: (1)139
+runaswill: (1)134
+runddl.exe: (3)54
+rundll.exe: (1)61, (1)82, (2)155, (3)54, (3)64, (3)66, (3)67, (3)82, (4)54, (5)56
+rundll.exeby: (3)66
+rundll: (2)6, (2)167, (3)64
+runinteractively=false: (1)79
+runmru: (4)59
+runningin: (3)67
+runningprocesses: (3)56
+runonce: (1)85, (4)59
+runus: (5)50
+rush: (1)21
+russia-georgia: (3)141
+russian-based: (1)24
+russinovich: (2)183, (5)10
+ruwssia: (1)12
+rwx: (3)118, (3)121, (3)122, (3)124, (3)130
+rysdow: (2)64
+s-------: (3)68, (3)70
+s-----: (2)98
+s----: (3)68, (3)70
+s---: (3)68, (3)70
+s_ystemcs: (5)70
+sa_plaso-app-for-splunk: (4)97
+saccebss: (1)28
+sacl: (2)42
+sacltedo: (1)141
+safari_history: (4)71
+safari_historydb: (4)71
+safedllsearchmodeenabled: (1)75
+saimilarc: (4)28
+sajeev: (1)93
+sake: (5)89
+sakula: (1)75
+sam: (3)69
+sam_users: (4)59
+same: (1)76, (3)168, (5)90
+sandr: (3)103
+sanityc: (3)56
+sans.org: (1)-1, (2)-1, (3)-1, (4)-1, (5)-1
+sans_triage.tkape: (1)108
+sans_triagecompound-file: (1)109
+sapecifically: (5)92
+sarnsr: (1)0, (2)0, (3)0, (4)0, (5)0
+satorage: (4)64
+save: (4)44
+savebaselineargument: (3)53
+savedhashes,which: (1)141
+savenothing: (2)175
+sber•rfoyr/: (4)74
+sbkype: (3)85
+sbomething: (2)15
+sbubseqeuentlry: (3)168
+sb•hosetname: (4)87, (4)89
+sb•initiael: (1)38
+sc.exe: (2)125, (3)50, (5)138
+sc: (4)15
+scalability: (1)80, (3)20, (3)183, (4)46
+scanning-based: (3)87
+sccm: (4)71
+scdoping: (1)57
+schdlgu.txt: (1)74
+scheduledtasks: (1)74
+scheduler/operational: (2)89, (2)93, (2)94
+schemes.[: (2)169
+schicht'stools: (5)64
+schicht: (5)64, (5)78, (5)79, (5)106
+schichtdedicated: (5)79
+schtasks.exe: (1)74, (2)27, (2)94, (5)138
+schtasks: (1)123, (2)123
+schweinsbergfor: (4)49
+scnapshdots: (5)17
+scopesnapshots: (5)9, (5)10, (5)110, (5)111, (5)138
+scopethrough: (4)30, (4)94
+scoping/containment: (1)22
+scrcons.exe: (2)27, (3)49
+scrcons: (2)160
+scrconsis: (2)160
+screegn: (2)50
+screenshot: (5)17, (5)54, (5)69, (5)70, (5)80, (5)87, (5)89, (5)90, (5)91, (5)93, (5)94, (5)98, (5)108
+screenshots: (5)108
+script-block: (2)162
+scriptblock: (1)96
+sctool: (3)50
+scvhost.exe: (3)37, (3)42
+sdans: (1)0, (2)0, (3)0, (4)0, (5)0
+sdcriwpts: (1)106
+sddeletedocumentation: (5)87
+sddev.exde: (3)130
+sdelete.exe-bde.pf: (2)9
+sdelete.exe: (2)11, (5)5, (5)87
+sdelete: (5)86, (5)87, (5)88, (5)89, (5)138
+sdeletedocumentation: (5)86
+sdeletefor: (5)87
+sdeletein: (5)87, (5)88
+sdeleteis: (2)11, (5)86
+sdeletepage: (5)86
+sdeleterenames: (5)86
+sdeleteusage: (2)30
+sdettingsd: (5)15
+sdev.exe: (3)130
+sdida: (3)72
+sdigniwficanitlny: (1)157
+sdize: (5)111
+sdlides: (5)63
+sdn:issuing: (2)146
+sdtep: (3)18
+seaduke: (1)50, (4)10
+seaerch: (4)59
+searcahes: (5)108
+search: (5)108
+search_term: (3)167, (3)168
+searches.[: (5)107
+seassioinl: (2)50
+secanners: (3)80
+secdtions: (3)165
+secevent.evt: (2)38
+secgurimty: (1)74
+secmret.taxt: (5)90
+secprentice: (2)167
+secprenticepowershell: (2)167
+secret.txt: (5)90
+secretsdump.py: (1)156
+secsvcs: (3)37
+secteion: (5)34
+sectiloni: (4)5
+sectionlsi: (3)133
+secur.dll: (3)147
+securitly: (5)112
+security-enabled: (2)60, (2)74, (2)75
+security-related: (2)140
+security.evtx: (2)38
+security.evtxlog: (2)106
+security.evtxlogs: (2)106
+security/policy/secrets: (1)145
+security/policycan: (1)145
+security: (1)33, (2)186, (3)173
+security\cache: (1)141
+securityd: (4)62, (4)63
+securityevent: (2)116
+securitylog: (2)67, (2)96, (2)101, (2)116
+securityprofessionals: (1)78
+securlityi: (3)149
+sedebug: (2)58
+sedebugprivilege: (3)105
+see: (2)56, (5)51
+seeb: (2)15
+seection: (3)130
+seen: (1)11
+seeng: (1)28
+seervice: (1)147
+seimpersonate: (1)136
+seimpersonateare: (2)58
+sekurlsa::tickets: (1)149
+select-string: (1)94, (3)90
+selectpid,ppid,tokeniselevated,name,commandline,exe: (1)113
+seledctiave: (2)104
+self-referring: (5)25
+self-sign: (1)63
+selinux: (4)62, (4)71
+selinuxaudit: (4)62
+semctioan(isl)_com: (3)133
+sending: (2)179
+sendingcredentials: (2)50
+sensitive: (1)140
+sentinalonelabs: (5)56
+sequence: (5)46
+ser's: (5)10
+ser: (5)24
+sern: (3)16
+serve: (5)92
+servenr: (1)41
+server-client: (1)123
+service-related: (2)96, (2)123
+service: (1)72, (1)125, (5)12
+service;can: (2)56
+service_auto_start: (3)180
+servicebl: (5)138
+serviceblcompares: (3)53
+serviced: (2)97
+servicefilename: (2)100
+servicename: (2)123
+services.exe: (2)74, (3)9, (3)30, (3)35, (3)37, (3)42, (3)48, (3)82, (3)148
+services.exeprocess: (3)115
+services/remote: (2)50
+servicesare: (1)145
+servicesthat: (2)97
+services—rdpcorets: (2)62, (2)67
+sessionand: (3)144
+sessionid: (3)34, (3)38, (3)41
+sessions.[]thus: (1)139
+sesvc.exe: (3)93
+set-psreadlineoption: (2)175
+set-service: (3)49
+set-wmiinstanceor: (1)78
+set: (1)49
+setakeownership: (2)58
+setix:dhttp:/w/fori.ncom/sntkfyb: (1)49
+setr: (1)106
+sets: (4)72
+settings)/.+/ntuser.dat: (4)72
+setup_install.exe: (3)46
+setupapi.dll: (3)147
+setupapi: (4)65, (4)71, (4)79
+setwindowshookex: (3)101
+seuccedssfwul: (2)72
+seuch: (5)36
+sevderal: (5)88
+several: (5)47, (5)104
+seycurityu: (1)21
+sfc_os.dll: (3)147
+sftp: (1)108
+sgwitchmes: (1)25
+sha-: (1)108, (2)18, (2)23, (4)44
+sha: (2)17, (2)19, (2)21, (2)142, (2)146, (2)183
+sha=cacfabafeaccdabda: (2)146
+sha=ebeacfacecfacfbaaed: (2)146
+shaadow: (5)10
+shadow: (5)12
+shadowcopy: (5)110
+shahashes: (2)17
+shamoon: (2)118
+shares: (2)57
+sharphound: (1)157
+shdoulda: (1)6
+shdouldd: (3)56
+shell: (2)134
+shell_items: (4)79
+shellbagfolder: (4)59
+shellbags: (1)58, (4)24, (4)59, (5)138
+shellbagskeys: (2)117
+shellbagsthat: (1)58, (4)24
+shellcode: (1)40, (3)106, (3)110, (3)111, (3)118, (3)133, (4)7, (4)15
+shellshock: (2)134
+shieldbase: (1)18
+shift-delete: (5)77
+shimasu: (3)67
+shimcache/amcache: (5)46
+shimcachehave: (2)27
+shimcachemem: (3)162, (5)138
+shimcachememis: (3)162
+shimcacheparser.py: (2)28, (5)47, (5)138
+shlairevs: (2)117
+shoewn: (2)104
+should: (5)73
+shouldbe: (2)72
+show: (1)86, (4)44
+show_sys_files: (5)15
+showknownand: (3)153
+showknownoption: (3)52
+showl: (5)69
+shownd: (2)104
+shows: (3)119
+shutdown: (2)15
+shutdown;actions: (2)42
+shutdownor: (2)15
+shzouldy: (1)76
+si<fn: (5)48
+siclhe_dulcero: (2)89
+sid+rid: (3)71
+sidber:r: (5)13
+side-loading: (1)60, (1)64, (1)75, (1)76, (3)102, (5)124
+side: (1)37
+sidme-loaadinigl_com: (3)102
+sids: (3)31, (3)60, (3)68, (3)69, (3)70, (3)71, (3)72, (3)182
+siem-like: (2)183
+siem: (2)181, (3)8, (3)156
+siems: (2)183
+sift: (5)102
+sift®: (1)0, (2)0, (3)0, (4)0, (5)0
+sigcheck-results.csv: (4)6
+sigcheck.exe: (4)6, (5)139
+sigcheck: (4)5, (4)6, (4)8, (5)47, (5)139
+sigcheckalso: (4)6
+sigcheckcan: (4)8
+sigcheckdata: (4)8
+sigcheckexcels: (4)6
+sigcheckfor: (4)5
+sigcheckis: (4)6, (4)8
+sigcheckoutput: (4)8
+sigcheckto: (4)7
+sight—hundreds: (4)86
+siglnaituvre: (3)113
+sign-on: (1)98, (1)125, (1)127, (1)136
+signadture: (5)38
+signal-to-noise: (2)97, (2)100
+signature-base: (4)11
+signature-based: (4)5
+signatures.[]live: (3)103
+significantly: (3)14
+signifilcainvt: (4)52
+signs: (5)96
+sim/siem: (1)21
+similarone: (1)129
+similarto: (2)50
+similartool: (2)94
+simpdle: (2)117
+simyple: (5)105
+since: (2)124
+sincejan: (4)34
+single-linked: (3)86
+single-machine: (4)56, (4)64
+single-server: (1)111
+single-swap-locations: (3)61
+single-swap-locations=pagefile.sys: (3)171
+single: (4)28
+singlea-funsctionr: (3)162
+site: (5)105
+situational-awareness: (5)66
+siumilar: (3)103
+sivnglee: (1)111
+six-step: (1)20, (1)22, (3)182, (5)139
+siysvtemse: (2)127
+siz: (5)70
+size: (5)95
+sizee: (5)50
+skeletonkey: (1)155
+skillset: (1)58, (4)24
+skip: (3)173
+skydrive: (4)57
+skydrive_log: (4)57, (4)71
+skydrive_log_error: (4)57
+skydrive_log_old: (4)71
+skype.exe: (3)85
+skype: (3)85, (4)57, (4)58, (4)62, (4)63, (4)71
+skypea: (3)85
+slast-rhop: (1)41
+sleuthkit'smactimebodyfiles: (4)62
+sleuthkit: (4)63
+sleuthkittool: (4)29
+sli: (2)54
+slice.csv: (4)81
+slice_size: (4)81
+slteip: (3)167
+slysoftanydvd: (3)149
+smartphone: (1)63
+smartscreen: (5)55
+smb-based: (2)72
+smb/rpc: (2)81
+smbshell: (1)127
+smearch: (4)92
+smss.exe: (3)30, (3)31, (3)144
+smss.exeand: (3)144
+smss.exewill: (3)144
+snapshot(s: (5)103
+snapsshobts: (5)16
+sniper.[]it: (1)84
+snraprshoyt: (3)12
+sntores: (5)55
+snystem: (5)6
+so: (5)24
+sockelt: (3)86
+sockscan: (5)139
+sockscanplugin: (3)86
+sof-elk®: (1)0, (2)0, (3)0, (4)0, (5)0
+sofacyxtunnel: (4)11
+software: (2)132, (3)69
+software\microsoft\windows: (1)70, (1)144
+software\microsoft\windows\currentversion\policies\explorer\run: (1)70
+software\microsoft\windows\currentversion\run: (1)70
+software\microsoft\windows\currentversion\runonce: (1)70
+softwareevents: (2)40
+softwareup: (4)62
+solaris: (4)29
+solarmarker: (3)77, (3)134, (3)169, (3)172, (3)176
+solarmarker\jupyter: (3)169
+solarmarkeris: (3)77
+solarmarkermalware: (3)176, (3)178
+solarwinds: (1)74
+solror: (5)107
+solutions: (1)6
+some: (3)168, (3)173
+someething: (2)164
+something—our: (3)82
+somlei: (1)139
+soornerr: (1)53
+sort: (5)63
+sorted_strings.txt: (3)167
+soudrce: (2)116
+source/destination: (2)67
+sourced: (1)16, (1)36, (1)42, (1)43, (1)49, (1)93, (3)13, (3)51, (3)88, (3)131, (3)149, (3)176, (4)20, (4)41
+sourcetype: (4)87, (4)89
+source—it: (2)114
+sp: (2)41, (3)11, (5)54
+space.[: (5)91
+space: (5)106
+spawnto_x: (3)67
+spcecific: (4)70
+spcot: (2)128
+spdreadsheets: (5)96
+special: (2)56
+specific: (2)179
+specifidc: (1)57
+speed-up: (4)14
+spinlock.exe: (3)85, (5)31
+splluinkv: (2)183
+splunk: (1)56, (1)81, (1)115, (1)116, (2)181, (2)183, (4)97
+spotlight_storedb: (4)71
+spsql"}: (2)180
+spsql: (2)87, (2)180, (4)54
+spsqlaccount: (2)81
+spsqlran: (2)173
+spsqluser: (4)54
+sql-service: (1)146
+sql: (2)28
+sqlite: (2)28, (4)57, (4)58, (4)61, (4)62, (4)63, (4)80
+sqlitedatabase: (3)91
+srchyeduler: (1)74
+srincre: (5)51
+srkyrpec: (3)85
+srl-helpdesk: (1)132
+srl: (1)1, (1)5, (1)13, (1)14, (1)15, (1)16, (1)17, (1)18, (4)98, (5)13, (5)36, (5)49
+srperciyfic: (3)111
+srrrcmmk: (5)70, (5)124
+srsetrestorepoint: (5)10, (5)111
+srum: (1)58, (1)117, (4)24
+ssabge: (1)86
+ssds: (5)88
+ssdt,idt: (3)157
+ssdt: (3)138, (3)139, (3)140, (3)141, (3)147, (3)149, (5)139
+ssdtplugin: (3)141
+ssearchb: (4)92
+sset: (3)62
+ssh: (1)96
+ssl: (3)85
+stand-alone: (3)52, (3)162, (3)183, (4)9
+standalone: (1)72, (1)91, (1)111, (1)112, (2)24, (2)50, (3)63, (3)183, (4)64
+staqrt: (1)6
+start-bitstransferand: (2)166
+start-process: (2)167
+start/stop: (2)96, (2)161
+start: (2)42, (3)18, (5)106
+started: (3)31
+startvalue: (2)7
+statae: (5)66
+state-sponsored: (1)14
+states: (3)14
+status=unknown: (3)54
+status_##: (3)79
+stdout: (4)13, (5)53, (5)105
+stdudents: (1)6
+stealthy—at: (3)148
+stedp: (3)173
+step-by: (1)5, (1)6
+step: (5)101
+steve.rogers: (3)68
+stewp: (5)92
+sthatr: (2)15
+stigs: (1)144
+stix: (1)45, (1)48, (5)139
+stix™is: (1)48
+stlilli: (3)134
+stoeres: (4)34
+stopped—indicates: (2)96
+storage-file: (4)64, (4)66, (4)71, (4)75, (4)82, (4)83, (5)17
+storage: (5)47
+storage_file: (4)80
+stored: (5)26
+stores: (5)67
+straightforward.“-targetlist: (1)103
+strategy.docx: (5)86, (5)87
+strceam: (5)73
+strdings: (3)168
+stream-based: (5)104
+stream: (5)73
+streamchange: (5)71, (5)73, (5)90
+streamd: (1)112
+streams_interface=windows: (5)15
+streucturre: (5)34
+strings.txt: (3)167
+stringsd: (1)49
+strings—ip: (3)167
+strreamys: (5)55
+structures: (3)23
+stuxnet: (1)64, (1)78, (1)79, (2)157, (3)101, (3)128, (5)139
+sub-folder: (3)93, (3)169, (3)178
+sub-folders: (3)93, (3)133, (5)16
+sub-key: (2)21
+sub-keys: (3)178
+sub-phases: (1)40
+sub-second: (5)47, (5)48
+subfoldelrsi: (1)99
+subfolder: (1)101, (4)72
+subject: (3)69
+subject_srv.exe: (4)52
+subkeys: (2)19
+subspende: (3)12
+suc: (2)104
+sucacesss: (1)6
+succeed—too: (4)20
+success/failure: (2)50, (2)72
+success: (1)42
+successful/failed: (2)69
+successful—easily: (1)16
+succession: (5)31
+such: (1)114, (5)10
+suhanov's“thingsyou: (5)103
+suhanov: (3)168
+suiche: (3)13
+summaryinformation: (4)63
+summaryinformationolecf: (4)57
+sundada.exe: (3)161
+suneb: (3)46
+super-power: (2)83
+superbug: (1)33
+superfetch: (2)7
+superfetchdata: (2)7
+superfetchis: (2)7
+supertimeline.csv: (4)80, (4)82, (4)83
+superuseraccount: (2)58
+suppcorts: (5)22
+supply-chain: (1)74
+sure: (5)111
+surge-based: (1)31
+surprising—a: (1)41
+suscedptibiality: (1)100
+suspicious.[]also: (5)55
+suspicious: (1)79, (3)31
+svc.bat: (2)32
+svcdhoast.exce: (5)48
+svchos.exe: (2)28
+svchost: (1)116, (2)6, (3)42, (3)67, (3)147
+svchostinstance: (3)37
+svcscan: (3)162, (5)139
+svcscancomponents: (3)53
+svtoreed: (3)169
+swapfile.sys: (3)12, (3)91, (3)171, (5)139
+swapfile.sysfile: (3)171
+sweetfor: (4)28
+sweetlittle: (4)28
+swissknife: (4)9
+swp_insbcb.tmp: (5)90
+sydow(rsydow-a: (1)18
+sydowand: (1)15
+sylsitevm: (5)9
+symantec: (4)57
+symantec_scanlog: (4)57, (4)71
+syncing: (5)47
+sys: (1)106, (2)147, (3)17, (3)159
+sysdtem: (3)175
+sysevent.evt: (2)38
+sysinternals: (1)85, (2)178, (3)143, (5)86, (5)139
+sysinternalsautoruns: (1)84
+sysinternalscan: (3)7
+sysinternalscreated: (2)183
+sysinternalshas: (1)84
+sysinternalsis: (2)184
+sysinternalsprovides: (1)73
+sysinternalssigcheckcan: (4)7
+sysinternalssigcheckhas: (4)6
+sysinternalssuite: (2)120
+sysinternalsto: (2)120
+sysinternalstool: (1)79, (2)156
+sysinternalstoolkit: (4)6
+sysinternalsutilities: (5)86
+sysinternalsversion: (2)98, (3)48
+sysinternalswill: (1)74
+syslog: (4)62, (4)71
+sysmon: (1)112, (2)156, (2)160, (2)183, (2)184, (3)156, (5)112
+systeem: (4)54
+system').backupeventlog(‘g:\system.evtx: (2)178
+system)privileges: (1)141
+system-based: (2)50
+system-dependent: (3)138
+system-wide: (3)140
+system.core.ni.dll: (3)134
+system.evtx: (2)38
+system.net.webclient).downloadfile: (2)166
+system.net.webclient.downloadstring(‘http://squirreldirectory.com/a: (2)166
+system: (1)75, (1)76, (2)10, (2)42, (2)43, (2)48, (3)37, (5)111
+system>: (2)147
+system\currentcontrolset\control\crashcontrol\: (3)12
+system\currentcontrolset\control\session: (2)7, (3)12
+system\currentcontrolset\control\sessionmanager\appcompatcache\appcompatc: (2)14
+system\currentcontrolset\control\sessionmanager\appcompatcache\appcompatcache(win+: (2)14
+system\currentcontrolset\control\sessionmanager\appcompatibility\appcompa: (2)14
+system\currentcontrolset\services\psexesvc: (2)121
+system\currentcontrolset\services\sysmain: (2)7
+system\currentcontrolsetkey: (2)15
+system\selectkey: (2)15
+systemc: (3)69
+systemd_journal: (4)71
+systemlog: (2)96
+systemsettings.dll: (4)54
+systemsettings.exe: (4)54
+systemsettings: (4)54
+systems—an: (1)78
+systems—each: (2)93
+systems—or: (2)106
+systems—particularly: (3)11
+system—and: (5)82
+systinternalsprovides: (4)6
+syswow,appdata: (2)9
+syswow: (2)87, (2)167, (3)124, (3)126, (3)129, (3)134
+syystems: (5)16
+syzstema: (3)85
+t.l:i: (5)56
+t: (5)56, (5)111
+t:process: (3)92
+t[u][v: (4)6
+t_o: (3)164, (4)92
+tab-delimited: (1)86
+tab-separated: (1)99
+tabin: (1)42
+tacticls.ive: (1)44
+tactics,techniques: (1)43
+tadspaloit: (2)98
+tagscanning: (3)139
+tahe: (1)25
+tahere: (5)61
+tahreat: (5)114
+taime: (5)47
+takahiro: (3)185
+take: (1)116
+takeaways: (1)5, (1)6, (1)87
+talk: (5)27
+talktome.bad.com: (1)41
+taqke: (1)33
+target.this: (2)83
+target: (1)38, (1)40
+targetcount: (1)103, (1)104
+targetdomainname: (2)107
+targetdomainnameand: (2)107
+targetinstance.systemuptime<: (1)79
+targetinstance.systemuptime>=: (1)79
+targetinstanceisa: (1)79
+targetlist.[]if: (1)103
+targetlist: (1)104
+targetscan: (1)108
+targetusername: (2)107
+tarlgeit.v: (2)83
+tarqgeted: (5)90
+tasak: (2)89
+task-created: (2)91
+task: (2)93
+taskhostw.exe: (2)74, (3)48
+taskhostw: (2)74
+tasklist.exe: (3)143, (5)59, (5)62
+taskname: (2)123
+tasks)—non-interactive: (2)50
+taskscheduler/operational: (2)91
+taskschedulerlog: (2)91
+taysk: (3)125
+tbargeetrinrg: (1)16
+tbhe: (1)6, (5)50
+tbooel: (4)9
+tcache: (2)14
+tcep: (3)86
+tche: (5)94
+tcorr: (2)28
+tcp/ip: (3)86
+tcp/udp: (3)84, (3)87
+tcpcompartmentset: (3)86
+tcpefor: (3)86
+tcpip.sys: (3)86, (3)153
+tcplfor: (3)86
+tdest: (1)109
+tdhe: (1)42, (3)75, (5)108
+tdimewstamipns: (5)93
+tdl/tdss: (3)151, (5)139
+tdss: (3)151
+tdungan: (1)137, (2)85, (2)109
+tdunganuser: (4)50
+tdypae: (2)54
+teacm: (1)28
+team: (1)33, (1)37
+teaml: (1)106
+teamviewer: (2)114, (2)115, (5)140
+teamviewerx_logfile.log: (2)115
+teaskr: (1)74
+techndique: (3)143
+technet: (1)135, (1)140, (3)151, (5)140
+technet–local: (1)124
+technique.[]once: (3)149
+techniqueds: (1)128
+techniques.[]the: (3)109
+techniques/tactics: (1)43
+techniques: (3)171
+techniquyes: (1)6
+technology.[,: (5)88
+tedxt: (4)88
+tehe: (1)36, (4)45, (5)32, (5)103
+tehey: (5)28
+telami!ve: (1)15
+tempeo: (1)33
+templates/windows: (2)171
+temporael: (1)39
+temporarily: (1)25
+terminald: (3)50
+terminalservices-localsessionmanager/operational: (2)116
+terminalservices-rdpclientauxiliary: (2)62
+terminalservices-rdpclientlog: (2)63, (2)64
+terminalservices-rdpclientre: (2)62
+terminalservices-remoteconnectionmanager/operational: (2)116
+terminalservices: (2)67
+termr: (5)63
+teru: (5)106
+teruyamazaki: (5)104
+test: (5)89, (5)111
+text-based: (2)77, (4)72, (4)73
+tezamys: (1)33
+tfhazt: (5)51
+tfhez: (1)6
+tgts: (1)148, (2)70
+tgz: (4)39
+th,c: (3)64
+th: (3)51
+thaan: (4)88
+thaat: (3)71
+thadt: (5)106
+thaet: (1)0, (2)0, (3)0, (4)0, (5)0, (5)86
+thanc: (4)73
+that: (1)57, (1)76, (1)116, (2)43, (4)6, (5)22, (5)24, (5)37, (5)38, (5)68, (5)70, (5)77, (5)90, (5)105
+thawt: (1)53
+thawte: (1)63, (1)64
+thce: (1)6, (5)108
+thceft: (1)128
+thcrough: (3)156
+thde: (1)25, (4)42, (5)50, (5)51, (5)73, (5)89
+thdey: (1)112
+thdis: (3)174
+the-hash: (1)126
+theadversary: (1)27
+theautoruns: (1)74
+thec: (5)108
+thecommand: (2)91
+thecsrss.exe: (3)169
+thedomain: (1)126
+theere: (2)114, (3)85
+theereforre: (5)92
+theey: (5)73
+thefinal: (3)18
+thefull: (2)91
+theget-autorunsc.psmodule: (1)105
+their: (5)38
+thel: (1)72, (2)17
+them.[]this: (5)51
+them: (2)133
+themimikatz: (1)149
+themselves—such: (2)97
+then: (5)68
+thenetwork: (1)22
+theoriginal: (2)94
+theory: (4)73
+thepslistplugin: (3)21
+therbe: (3)174
+there'sa: (5)101
+there: (1)41, (2)94, (2)124
+thereare: (1)70
+theresults: (1)103
+therle.i: (4)97
+thesde: (3)12
+these: (2)101, (2)162, (5)99
+thesecurity: (3)68
+thesed: (2)57
+thesee: (2)167
+thesel: (3)129
+theseplugins: (3)62
+thewindows.psscan.psscan(psscan: (3)39
+thewindows: (1)148
+they: (2)97, (5)38
+thez: (5)47
+thfe: (5)50, (5)72
+thie: (5)90
+thiev: (1)115
+thiisv: (1)30
+third-party: (1)63, (1)103, (1)105, (1)112, (1)139, (2)41, (2)69, (2)77, (2)96, (2)134, (3)103, (3)129, (3)135
+this: (1)21, (1)37, (2)122, (5)102
+thisa: (4)44, (5)106
+thisc: (1)71
+thisd: (1)154
+thise: (3)16
+thisevent: (2)58
+thisexample: (2)85
+thisf: (3)85
+thisis~.txt: (5)42
+thiskey: (2)120
+thisl: (1)58, (2)131, (4)24
+thisw: (3)168
+thiys: (5)63
+thle: (1)94, (2)6, (2)161, (2)171
+thlei: (5)23
+thlerie'vs: (5)78
+thleyi: (5)5
+thr: (2)104
+thrdproc: (3)144, (3)145, (5)140
+thre: (3)174
+threadmap: (3)104
+threadzmapy: (3)103
+threat-hunting: (5)65
+threat: (1)91
+threr: (1)134
+thresey: (5)90
+through: (1)6, (1)126
+throughfocusing: (4)30, (4)94
+thse: (5)51
+thue: (1)28
+thve: (1)38, (3)162
+thwe: (2)122
+ticket-based: (2)60
+ticket-basedattacks: (1)153
+ticket: (1)152
+ticketattacks: (1)151
+tieavms: (5)112
+tiemvp: (5)77
+tihelm_com: (1)112
+tihev: (3)17
+tihivs: (2)107
+tiipv: (5)85
+timckets: (1)148
+timdestamp: (5)47
+time(s: (2)6, (2)8
+time-based: (3)90, (4)20, (4)30, (4)34, (4)56, (4)94
+time-limited: (5)88
+time-related: (4)22, (4)57
+time: (1)6
+time:the: (3)31
+time:things: (3)16
+timeframe: (5)11, (5)78, (5)89, (5)101
+timeframes: (2)21
+timeline(collecting: (3)90
+timeline.csv: (4)46
+timeline/plasooutput: (4)89
+timeline_ntfs.csvcontains: (3)176
+timeliner: (4)63, (5)141
+timelines: (4)97
+timelining/file: (1)84
+timelining: (1)76, (1)77, (1)84, (4)5, (4)20, (4)23, (4)32, (4)45, (4)49, (4)50, (4)75, (5)47
+timemachi: (4)62
+timemachine: (4)63
+times,: (2)133
+timesketch: (4)81, (4)97
+timesketchallows: (4)97
+timeskew: (4)45
+timeskewcorrection: (4)45
+timestamp: (2)48
+timestamped: (2)171
+timestomp.exe: (5)47
+timestomp: (4)39, (5)48, (5)141
+timestompcapability: (5)5
+timestomping: (5)5, (5)31, (5)44, (5)46, (5)47, (5)48, (5)63
+timestompingbackdates: (5)5
+timestompingperformed: (5)112
+timewline: (4)45
+timezone: (4)46, (4)64, (4)80, (4)87, (4)89, (5)141
+timezone>: (4)46
+timezonelist: (4)64
+timezonewhen: (4)80
+timle: (4)64
+timleizovnes: (4)80
+timme: (5)47
+timmelinae: (4)29
+tio: (2)151, (3)144
+tiobn: (5)72
+tiobs: (1)45
+tkools.exe: (3)46, (3)88
+tlh_e: (3)120
+tlhe_: (5)90
+tlheinv: (1)109
+tlhiis: (3)46
+tlistswitch: (1)109
+tls: (1)111
+tmhese: (1)0, (2)0, (3)0, (4)0, (5)0
+to,you: (3)18
+to.d: (4)44
+to\device\namedpipe\psexecsvc-<remote: (3)79
+tobash: (1)93
+toclean: (2)123
+tocreate: (1)152
+todaly: (3)102
+todiscovering: (2)129
+tofolzs: (5)105
+tok: (1)136, (3)68
+token::elevate: (1)137
+tokens[: (1)139
+tokensisto: (1)139
+tolaterally: (2)118
+tomalfindbut: (3)103
+tool: (4)9
+toolbars: (1)85
+toolkits: (1)60, (1)100, (2)128, (3)109
+toolls: (3)9
+tools.[]specifying: (2)9
+tools/malware: (2)132, (4)5
+tools: (2)133, (3)125, (5)38
+toolset: (2)28, (2)152, (3)67, (4)66, (5)11
+toolsets: (2)143, (2)173
+toolsfrom: (1)142
+tools—implementation: (1)146
+top-left: (3)49
+top-right: (5)86, (5)90
+top-tier: (2)143
+topc: (3)53
+topslistand: (3)53
+torecover: (3)172
+torvalds: (5)15
+tossh: (2)129
+tosystem: (2)97
+tothe: (1)93, (2)38, (2)97, (3)11, (3)86, (3)92, (3)95, (3)178
+tothese: (2)129
+touxdiscovered: (1)152
+towell-known: (3)86
+towlerainnt: (2)77
+tracdked: (5)26
+track: (1)57
+tracked: (3)107
+tracking/command: (2)160
+tracklinigv: (2)129
+tracks: (5)10, (5)37
+trademark/registered/copyright: (1)0, (2)0, (3)0, (4)0, (5)0
+transparent: (5)24
+trhe: (5)50
+trher: (1)148
+trheyr: (5)37
+trhis: (1)6
+trhreradcs: (3)103
+triage-mode: (1)111, (1)112
+triage.vhdx: (4)66
+triayge-muode: (1)112
+trickbot: (3)79, (3)149
+tried-and-true: (3)84
+trmiage: (4)30, (4)94
+trojaneddocument: (1)40
+trojanedms: (1)39
+trojanized: (1)76
+true-positive: (5)48
+truien: (5)37
+trustedby: (1)157
+trustedsignalblogspot: (1)100
+try: (5)94
+trypces: (2)15
+tshreart: (3)156
+tsk_recover: (5)97
+tslogonevent.vbs: (2)160
+tslogonevents.vbs: (1)82
+tslogonfilter: (1)82, (2)160
+tsource: (1)109
+tspkg: (1)127, (1)134
+tspkgand: (1)125, (1)127
+tspkgcredentials: (1)134
+tsv: (1)103
+tter: (5)26
+ttps: (1)36, (1)38, (1)43, (1)44, (1)52, (5)76
+turla: (3)149
+turlagroup: (3)140
+turn-on: (2)162
+tvhis: (2)52
+tvo: (3)21
+tvools,e: (3)149
+tvree: (3)127
+tvss: (1)109
+tvypiceally: (5)5
+twice—once: (1)80
+tyhe: (1)6
+tyhose: (3)52
+tyicket).: (1)148
+tyo: (3)125, (3)164
+type: (2)64, (2)179, (4)70
+typed_history.xml: (4)61
+typedurls: (1)58, (4)24, (4)59
+types::names: (5)32
+tyspe: (2)96
+tzworks$mft: (5)79
+tzworks: (5)75, (5)79, (5)81
+tzworksmala: (5)79
+tzworksor: (5)79
+u.s: (1)0, (1)40, (2)0, (3)0, (4)0, (5)0, (5)91
+u:process: (3)92
+uac: (1)44, (1)125, (2)85
+ubuntu: (1)7
+udpafor: (3)86
+udpcompartmentset: (3)86
+udse: (2)133
+udser: (3)72
+uefi: (3)138, (3)149
+uender: (3)176
+uesed: (3)113
+ufs&: (4)33
+uheu: (1)56
+uhttp://eforb.com/pzaeyqemvasrrrcmmk: (3)12
+uid/gid: (3)70
+uint(: (1)50, (4)10
+ukraine).[]black: (3)141
+uler: (2)89
+ulf: (3)90, (3)131, (3)180
+ulniixv: (4)34
+ulseir).v: (2)114
+ulseir: (2)42
+ultra-privileged: (1)123
+umfd: (2)56
+umsage: (1)123
+un-terminated: (2)64
+unallocated: (5)93
+unallocatedd: (4)42
+unallvocated: (5)105
+unassociatedfileentries: (2)24
+uncompresshibernaltiionv: (3)13
+uncompressthe: (3)13
+under-the-radar: (5)91
+understood: (1)21
+underutilized: (3)31
+unenforc.eable: (1)0, (2)0, (3)0, (4)0, (5)0
+unexpectedly—services: (2)96
+unfortunately: (1)126
+unicode: (3)167, (3)168, (5)27, (5)28, (5)41, (5)51
+uninstalling: (5)93
+unintelligible.[]believe: (2)168
+unique: (3)71, (3)87
+unistacksvcgroup: (2)100
+unix-based: (4)7, (4)42
+unlaess: (5)68
+unless: (4)44
+unlikely: (1)126
+unlikenearly: (2)83
+unlinikned: (3)103
+unlinked/unmapped: (3)135
+unlinkingonly: (3)127
+unsusuabl: (3)53
+unt: (4)62
+untagselected: (4)91
+untrusted=: (5)55
+unusual: (3)46
+up: (2)101, (3)53
+updated: (3)14
+updater.exe: (3)48
+upeon: (1)78
+upf: (1)40
+upossibele: (5)47
+uprdp: (1)126
+upthe: (2)77
+url: (3)168, (5)91
+urls: (3)5, (4)27, (4)60, (5)104
+uroburos: (3)149
+urp: (1)106
+ursinrg: (1)28
+us-cert: (5)92
+us: (3)64
+usaa: (1)106
+usaedi?l: (1)145
+usaege: (4)44
+usage-history.xml: (4)62
+usage:autorunsc[-a: (1)85
+usbstor: (4)59
+usbstorregistry: (4)60
+use: (5)47
+used: (1)77, (1)112, (2)75, (2)160, (3)164, (4)6
+usedfor: (4)42
+usefr: (1)126
+useful;or: (3)63
+usefulin: (1)136
+useing: (3)102
+uselogoncredential: (1)134
+user'sl: (4)50
+user-accessible: (3)125
+user-account: (3)92
+user-based: (2)50
+user-contributed: (1)99
+user-defined: (2)179
+user-friendly: (3)135
+user-generated: (3)5
+user-initiated: (2)52, (2)65
+user-level: (1)125, (1)151
+user-mode: (3)11
+user-specified: (1)99
+user.dll!getclipboarddata: (3)148
+user.dll: (3)147, (3)148
+user/group: (1)152
+user: (2)43
+useraccount: (2)153
+useraccountlist: (2)153
+userassist(gui: (5)93
+userassist: (1)58, (1)117, (4)24, (4)59, (4)60, (4)79, (4)87, (5)141
+userassistkey: (1)58, (4)24
+userinit.exe: (1)70, (3)46
+userinitkeyl: (1)70
+userland: (3)100, (3)102, (3)118, (3)125, (3)127, (3)128, (3)138, (3)139, (3)147, (3)148, (3)157
+usermode: (3)148
+usermodememory: (3)103
+usermodescanner: (3)103
+username,memory.workingsetsizeasworkingsetsize: (1)113
+usernames: (2)155, (3)167
+userr: (1)126
+users'l: (5)77
+users: (1)134
+usersd: (5)15
+usersecurity: (1)134
+usinag: (5)90
+using: (3)103
+usingnetenum/netadd: (2)155
+usingthe: (1)103
+usisng: (2)46
+usn+usa: (5)38
+usn-vss.csv: (5)81
+usn_record_v: (5)75
+usnjrnl-j: (5)105
+usnjrnl.csv: (5)80
+usnjrnl: (4)71, (5)67, (5)70, (5)86, (5)87, (5)105
+usnjrnlcsvs: (5)80
+usome: (1)41
+usrclass.dat: (3)178
+usually: (1)21, (4)88
+usvwatauavawh: (3)116
+ut: (2)129
+utc-based: (4)64
+utcexceptfor: (4)13
+utility,: (3)168
+utmp-utmpstructure: (5)104
+utmp: (4)62, (4)71, (5)104
+utmpx: (4)62, (4)71
+utorrent: (4)57, (4)62, (4)63
+uvse: (1)157
+uvses.e: (1)61
+uvwatauavawh: (3)116
+uwser: (5)28
+uyse: (1)134
+v+: (2)164, (2)171
+v.: (2)93, (2)94, (5)21, (5)22, (5)139
+v: (5)43
+v[rs: (1)85, (1)86, (4)6
+vacsatiorns: (1)33
+vad: (3)17
+vadflagstype: (3)130
+vadflagstypecan: (3)130
+vadimagemap: (3)120
+vadname: (3)130
+vadnameare: (3)130
+vadpte: (3)130
+vads:attempts: (3)172
+vadvirtaddrvadphyaddr: (3)130
+vaidsl)_com: (3)160
+validate: (5)111
+validcate: (1)54, (2)4, (3)3, (4)3, (5)3
+valmeost: (5)26
+value/filename: (5)10
+value: (5)51, (5)70
+valueabler: (1)42
+variabdle: (4)73
+vasrrrcmmk: (5)139
+vass: (5)17
+vblinke: (3)28
+vbr: (3)138, (5)27, (5)28
+vbscript: (2)157, (2)158
+vcase,e: (3)46
+vcn: (5)50
+vdi/cpu: (1)106
+ve: (2)151
+veache: (3)144
+vealue: (2)52
+vecdtor: (1)71
+vedrsions: (3)14
+veiryn: (1)40
+veisibility: (1)22
+veistda: (2)38
+velocidex: (1)112
+velocidexand: (1)111
+velociraptor.exe: (5)65
+velociraptors: (1)114
+velogcirmaptorail_com: (5)11
+vendor-agnostic: (1)43
+vendor/threat: (1)31
+verb-noun: (1)94
+verdification: (4)60
+verisign: (1)63
+versiolni: (5)54
+version: (2)161, (5)22
+version\winlogon: (1)144
+version\winlogon\.by: (1)144
+versiond: (5)102
+versioninfoare: (3)156
+very: (2)80, (3)164
+vhd/x: (4)66
+vhdx: (1)109
+vhdxand: (1)109
+vheree: (3)162
+via: (2)28, (5)16
+vib: (3)150
+viemw: (5)92
+vikas: (2)94
+vimrustotaal: (4)6
+violla_tilicty: (3)185
+virtaddr: (3)39
+virtaddrargument: (3)174
+virteualizabtion:: (1)126
+virtualaddress: (3)130
+virtualallocand: (3)120
+virtualallocex: (3)101, (3)105
+virtualization.[]while: (1)126
+virtualization: (3)12, (3)138
+virtualized: (3)161, (3)175, (3)178
+virtualizes: (3)176
+virustotal(www.virustotal.com: (1)86
+virustotal.com: (5)142
+virustotal: (1)60, (1)86, (2)21, (4)6, (4)8
+virustotalallowed: (2)142
+virustotalcheck: (1)86
+virustotalfeatures: (1)86
+virustotalfor: (1)85
+virustotallink: (4)8
+virustotalor: (1)86
+virustotalterms: (1)86
+virustotalto: (4)6, (4)9
+virusttotaldatabase: (4)8
+visited: (4)24
+vista+: (2)118
+vista/: (2)67
+vista/windows: (1)125
+vista\windows: (2)180
+vit: (2)15
+vlaliuavble.e: (1)151
+vloggeing: (2)42
+vmdk/vhd: (5)34
+vmdk: (4)66, (5)34
+vmemd: (3)133, (3)181
+vmemdfolder: (3)160
+vmery: (5)108
+vmm.sqlite: (3)91
+vmtools: (3)147
+vmware: (1)0, (2)0, (3)0, (3)12, (3)14, (4)0, (5)0
+vnc: (2)50, (2)114, (2)132, (3)113, (5)142
+vol.py(version: (3)21
+vol.py-h: (3)162
+vol.py: (3)14, (3)21, (3)148, (3)163, (3)164, (3)171
+vol: (3)22, (3)103, (3)165
+volalityversion: (3)60
+volatilaity: (3)103
+volatility-specific: (3)185
+volatilityprovides: (3)139
+volexity: (3)184
+volfatizlity: (3)103
+volumde: (5)10
+volume: (5)12
+volumne: (5)16
+vproceess: (3)66
+vproteections: (1)125
+vql: (1)77, (1)111, (1)112, (1)113, (1)114, (1)115, (1)116, (1)117
+vreyry: (3)109
+vs.threat: (1)31
+vsc: (5)10, (5)110, (5)111
+vscs: (4)44, (5)11, (5)101
+vsftpd: (4)71
+vsh: (5)11
+vshadowinfo: (5)11, (5)13, (5)142
+vshadowinfoand: (5)11
+vshadowinfoat: (5)13
+vshadowmount: (5)11, (5)14, (5)16, (5)101, (5)102, (5)142
+vshadowmounton: (5)14
+vshadowmountto: (5)14
+vslssivvc.exee: (2)74
+vss*: (5)16, (5)101
+vss.csv: (5)80
+vss/vsc: (5)9
+vss: (5)14
+vss__usn-vss.csv: (5)81
+vss_carver.py: (5)100
+vss_carver: (5)101, (5)103
+vss_carveris: (5)101
+vss_carveron: (5)103
+vss_carvertool: (5)101
+vss_catalog_manipulator: (5)101
+vss_catalog_manipulatortool: (5)101
+vssadmin(cid:: (1)156
+vssadmin.exe: (5)110, (5)111, (5)142
+vssadmin: (5)13, (5)110, (5)142
+vssand: (5)14
+vulnerability: (2)113, (2)119, (2)135
+vulns: (2)134
+vvaluable: (3)156
+vvolumee: (5)80
+vwirtuail: (3)17
+vyad: (3)174
+vyulneurable: (3)156
+vzalidaate: (1)76
+w/user: (1)129
+wabrninge: (2)139
+wacsvc: (2)85
+wahat: (1)42
+waheilr_e: (2)180
+waill: (5)27
+wait: (1)71
+waith: (3)50
+waitlist.dat: (5)108
+wannabe: (2)83
+wannacry: (2)118, (2)155, (3)80
+wannacryransomware: (2)81
+was: (3)72, (5)73
+wassingled: (1)126
+wastedlocker: (5)56
+watchlist: (2)167
+wayto: (1)134, (1)139
+wbem: (2)151
+wbemcons.dll: (2)160
+wbemcons: (2)160
+wbill: (2)127
+wce: (1)127, (1)148, (5)142
+wchy: (2)71
+wcith: (5)76
+wcopyriighnt: (1)86
+wde: (5)51, (5)79
+wdeigest: (1)134
+wdeviicen: (4)66
+wdherea: (5)63
+wdherew: (5)70
+wdidely: (1)126
+wdigest: (1)127, (1)134, (5)142
+wdigestare: (1)125
+wdigestplaintext: (1)134
+wdindows: (4)56
+wdinw.i+n: (1)134
+wdith: (5)105
+wdrittwen: (2)171
+we: (5)102
+weaponization: (1)38, (1)40, (1)41, (5)142
+weaponize: (3)109
+wear-leveling: (5)88
+wearponrizaytion: (1)40
+web-based: (1)112, (2)151
+web: (1)18, (3)75
+webapp: (2)134
+webcache.dat: (4)61
+webcache: (4)57
+webcacheese: (4)61
+webcachev.dat: (4)61
+webclient: (2)167
+webhist: (4)61, (4)62, (4)63, (4)71, (4)87, (4)89
+webhistory: (4)61
+webhistoryparsers: (4)61
+webmail: (1)41
+webrequest: (2)167
+webserver: (3)51
+webshcell: (3)44
+webshell: (3)75
+webshellactivity: (3)51
+webshellinstalled: (3)44
+webshellis: (3)44
+webshellpage: (3)44
+webshells/beacons: (1)62
+webshells: (2)134, (3)44
+webshellsand: (2)134
+webshellsexhibit: (3)44
+webshellsoften: (3)44
+webshellwas: (3)75
+website: (1)1, (1)40, (1)43, (1)48, (1)113, (2)47, (2)186, (3)22, (3)156, (4)37, (4)87, (5)88, (5)89, (5)106
+websites: (1)38, (1)40, (3)5
+webui(aka: (1)114
+webui: (1)111, (1)112, (1)114
+webuican: (1)112
+weekvends: (1)33
+weere: (2)117
+weinr: (2)38
+weith: (3)37, (5)112
+well-knowngroup: (3)70
+well-resourced: (1)28
+went: (5)68
+weree: (5)6
+wevtutil: (2)101
+wevtutilcl: (2)102
+wevtutilcommand-line: (2)89
+wginm: (2)38
+whack-a-mole: (1)22
+whatwe: (2)72
+whcere: (5)70
+wheere: (5)37
+wheether: (2)15
+when: (2)43, (2)48, (5)68
+whenit: (5)76
+whentracking: (2)114
+whenyou: (3)24
+where-object: (2)154, (2)178
+where: (4)26
+wherename=~processregex: (1)113
+whesre: (1)76
+which: (5)50, (5)105
+whitelisting: (5)86
+whitepaper: (1)76, (1)128, (5)10, (5)111
+whoami.exe: (2)27
+whoami: (3)72
+whois: (3)85, (3)88
+whole: (5)77
+whql: (3)12
+wials: (1)141, (1)145
+wicth: (2)97, (5)10
+wide-range: (4)5, (4)9
+wifi.log: (4)63
+wihnich: (1)39
+wiinll: (5)47
+wiinns/b: (2)38
+wiipve: (4)20
+wiki: (5)99, (5)104, (5)106
+wikipedia: (2)105, (5)63, (5)66, (5)87
+wildcards: (1)50, (2)180, (4)10, (4)72, (4)91
+wildl: (3)71
+will: (2)56, (2)162, (3)174, (5)10, (5)38, (5)99
+willbe: (1)22
+win+/powershell: (2)175
+win+: (1)74, (1)134, (1)139, (1)153, (2)6, (2)8, (2)129, (3)13, (3)48, (3)144, (3)169
+win+\+: (3)11
+win+and: (2)157
+win,!filestat: (4)71, (4)83
+win-cmdline.txt: (3)93
+win-rm: (1)18
+win.+: (1)134, (1)136, (1)139
+win.: (1)127
+win.exe: (1)60
+win/.: (2)14
+win/: (2)14
+win/serverr+: (2)160
+win: (2)6, (2)8, (2)14, (2)17, (2)38, (2)40, (2)46, (2)124, (2)151, (3)13, (4)71, (4)83
+win_gen: (4)71
+win_ntevenltilvogfeile: (2)178
+win_perfformatteddata_perfos_system: (1)79
+win_process: (2)127, (2)154
+win_service: (2)154
+win_shadowcopy: (5)110, (5)111
+winand: (2)74
+winclient.reg: (5)33, (5)40
+wincliundess: (3)102
+wincli~.reg: (5)33
+wincresdenbtialseuserd: (2)50
+wind+)dacd: (1)153
+winddowsd: (2)56
+windefender_history: (4)58
+windowds.maodscan: (3)164
+windows-based: (4)29, (5)95
+windows-defender/operational: (2)177
+windows-focused: (1)117
+windows-generic: (1)72
+windows-only: (5)65
+windows-powershell/operational: (2)161
+windows-sysmon/operational: (2)183
+windows-winrm/operationalcan: (2)129
+windows.cmdline,to: (3)63
+windows.cmdline.cmdline: (3)63
+windows.cmdline: (3)60, (3)64
+windows.cmdlineis: (3)61
+windows.cmdlineplugin: (3)67
+windows.dlllist.dlllist: (3)61
+windows.dlllist: (3)60, (3)61, (3)75, (3)162, (3)163
+windows.dlllistoutput: (3)64
+windows.dlllistplugin: (3)60, (3)64, (3)163
+windows.dumpfiles: (3)61, (3)162
+windows.dumpfilesplugin: (3)61, (3)174
+windows.dumpfileswith: (3)174
+windows.filescanis: (3)174
+windows.filescanplugin: (3)174
+windows.getsids.getsids: (3)68, (3)72
+windows.getsids: (3)60
+windows.getsidsplugin: (3)69, (3)72
+windows.getsidsshows: (3)60
+windows.handles.handles: (3)74, (3)75, (3)77
+windows.handles.handlesplugin: (3)74
+windows.handles: (3)60
+windows.handlesoutputs: (3)60
+windows.info.infoalso: (3)23
+windows.ldrmodules: (3)61, (3)126
+windows.ldrmodulesand: (3)62
+windows.ldrmodulesplugin: (3)62
+windows.malfind.malfind: (3)111
+windows.malfind.malfindplugin: (3)111
+windows.malfind: (3)62
+windows.memmap--dumpplugin: (3)165
+windows.memmap: (3)162
+windows.memmapplugin: (3)165
+windows.mftscan: (3)162
+windows.modluilves.emodulesand: (3)150
+windows.modscan.modscan: (3)150
+windows.modscan: (3)139
+windows.modules/modscan: (3)163
+windows.modules: (3)139, (3)162, (3)164
+windows.netscan.netscan: (3)88
+windows.netscan: (3)86, (3)87
+windows.netscanand: (3)87
+windows.netscanplugin: (3)86, (3)87
+windows.netstat: (3)86, (3)87
+windows.netstatas: (3)87
+windows.netstatplugin: (3)86
+windows.ntfs.i: (5)64, (5)65
+windows.pslist.pslist(pslist: (3)38, (3)39
+windows.pslist.pslist(though: (3)21
+windows.pslist.pslist: (3)23, (3)34
+windows.pslist.pslist_verin: (3)21
+windows.pslist.pslistplugin: (3)35
+windows.pslist.pslistview: (3)54
+windows.pslist/pscan: (3)163
+windows.pslist: (3)33, (3)162, (3)163, (3)165
+windows.pslistgives: (3)56
+windows.pslistplugin: (3)165
+windows.pslistwill: (3)21
+windows.psscan.psscan(psscan: (3)38
+windows.psscan.psscan: (3)38, (3)39
+windows.psscan: (3)33, (3)163
+windows.psscanbut: (3)63
+windows.pstree.pstree(pstree: (3)41
+windows.pstree.pstree: (3)41, (3)42
+windows.pstree.pstreeoutput: (3)44
+windows.pstree: (3)33
+windows.pstreeoutput: (3)92
+windows.registry.hivescan: (3)178
+windows.registry.printkey: (3)178
+windows.registry.printkeyparse: (3)174
+windows.registry.userassist: (3)178
+windows.registryhivelist: (3)178
+windows.ssdt.ssdt: (3)140
+windows.ssdt: (3)139
+windows.svcscan: (3)162
+windows.svcscanplugin: (3)180
+windows.system.pslistartifact: (1)113
+windows.system.pslistto: (1)113
+windows.vadyarascanplugin: (3)185
+windows: (2)63, (4)60
+windows\system: (1)66, (1)76, (2)32, (4)97
+windows_boot_execute: (4)60, (4)79
+windows_run: (4)60, (4)79
+windows_sam_users: (4)60, (4)79
+windows_services: (4)60, (4)79
+windows_shutdown: (4)60, (4)79
+windows_task_cache: (4)60, (4)79
+windows_timezone: (4)60, (4)79
+windows_typed_urls: (4)60, (4)79
+windows_usb_devices: (4)60
+windows_usbstor_devices: (4)60
+windows_version: (4)60, (4)79
+windowsnt(nt: (2)151
+windowsoperating: (2)6
+windowsservices: (2)40
+windowstylehidden: (2)166
+windowsxp/: (2)52, (2)58, (2)60, (2)72
+windowsy: (1)152
+windows®: (5)10
+winedowsd: (5)47
+winevt: (4)57, (4)71
+winevt\logs: (4)72
+winevtx,winiis: (4)82
+winevtx: (4)58, (4)71, (4)79
+winfirewall: (4)57, (4)58, (4)71
+winhttp.dll: (3)62
+wininet.dll: (3)59, (3)62
+wininit.exe: (3)46, (3)127
+winjob: (4)58, (4)71
+wink.sys: (3)140, (3)141
+wink: (3)161
+wink\.sys: (3)140
+winlogbeat: (2)178, (2)181
+winlogbeatanalyze: (2)179
+winlogbeathas: (2)179
+winlogbeatis: (2)179, (2)181
+winlogon.exe: (1)60, (3)31
+winlogon: (4)60, (4)79
+winlogonentries: (1)86
+winlogonexecutes: (1)70
+winlogonnotifications: (1)85
+winmem_decompress.py: (3)168
+winmem_decompress.pyto: (3)168
+winnt/: (2)104
+winnti: (3)143, (3)149
+winntirat: (3)118
+winpmem: (3)11, (5)143
+winpmemhas: (3)11
+winpmemor: (3)90
+winr+: (2)96, (2)157
+winr: (2)97, (2)128
+winrar: (4)59, (4)60
+winrar_mru: (4)60
+winreg: (4)58, (4)59, (4)71
+winreg_default: (4)60, (4)79
+winrm: (1)96, (1)99, (2)124, (2)157, (3)49
+winrmand: (2)85
+winrmconnections: (2)162
+winrmprotocol: (2)127, (2)129
+winrs: (2)123, (2)124
+winrshost.exe: (2)124
+winrswill: (2)124
+winsock: (1)85
+winsrv.dll: (3)107
+winstitiunte: (1)0, (2)0, (3)0, (4)0, (5)0
+winsvchost.exe: (2)91
+winsvchost: (1)74
+winsxs: (1)75, (1)77
+winver: (4)59
+winword.edxe: (3)50
+winword.exe: (2)149
+winx_: (3)22
+winxp: (1)74, (4)71
+winzapper: (2)104, (2)105
+winzip: (4)39
+win–: (2)14
+wiping/deletion: (5)85
+wiping: (2)132
+witeh: (1)45, (2)183
+witehin: (4)72
+with: (1)37, (1)116, (2)28, (3)101, (4)87, (4)89, (5)70, (5)99, (5)108
+withidn: (4)72
+within: (5)77
+withind: (3)71
+withoult: (1)22
+without: (1)42
+withouta: (2)120
+withremote: (1)134
+wkstn: (1)157, (2)85
+wlais: (3)169
+wm: (3)51
+wmi-activity/operational: (2)157, (2)160, (2)177
+wmi-activity: (2)160
+wmi-based: (2)156, (3)49, (3)51
+wmi/powershell: (1)123, (2)127
+wmic.exe: (2)27, (2)127, (2)151, (2)154, (2)155, (3)49
+wmic: (2)74, (2)124, (2)127, (2)130, (2)151, (2)153, (2)154, (2)155, (2)156, (2)160, (5)110, (5)111, (5)143
+wmiexecif: (3)51
+wmilargely: (2)152
+wmiprvse.exe: (2)128, (3)49, (3)51
+wmiprvse: (3)66
+wmiprvsecan: (3)49
+wmiprvsefacilitates: (3)49
+wnay: (1)76
+wnetaddconnectionwith: (2)81
+wnetwinorks: (2)183
+wo: (1)40
+wordwheelquery(keyword: (5)93
+wordwheelquery: (1)58
+workaround: (5)107
+workflow: (1)54, (1)99, (2)4, (2)11, (3)3, (3)20, (4)3, (5)3
+workq: (1)76
+workqs: (5)105
+workstation/server: (3)54
+worst-case: (2)168
+would: (3)173
+woulid: (3)12
+wow: (3)20, (3)34, (3)38, (3)39, (3)41, (3)61, (3)62
+wql: (1)79
+wre: (1)39, (5)47
+wreekrenyd: (1)28
+wrillr: (5)28
+write-blocked: (4)66
+write-blocker: (4)83
+write-blocking: (4)66
+write-only: (2)171
+writeprocessmemory: (3)100, (3)105
+written: (2)15
+wrsa.exe: (3)9
+ws-management: (1)93, (2)129
+ws_.dll: (3)147
+wsc: (1)16
+wsceaa.exe: (1)82, (2)160
+wscript.exe: (3)50
+wshy: (3)85
+wsl: (1)7, (5)43
+wsman: (1)96
+wsmprovhost.exe: (2)27, (2)131, (3)49, (3)50, (5)143
+wuhose: (1)40
+wupon: (1)39
+wvouled: (5)91
+wwp.exe: (3)44, (3)75
+wwp: (3)51
+www.f-response.com: (3)11
+wyhile: (2)122
+wze: (5)27
+x.: (2)169
+x: (2)18, (3)22, (3)115, (3)116, (3)147, (5)50
+xamp: (5)10
+xchatlog: (4)62, (4)71
+xchatscroll: (4)62
+xchatscrollback: (4)62, (4)71
+xchatscrollbacklog: (4)62
+xcode: (1)0, (2)0, (3)0, (4)0, (5)0
+xcopy.exe: (5)59, (5)62
+xhtmlformatted: (2)9
+xlsx: (4)81
+xmemory: (3)147
+xml: (1)74, (1)86, (1)96, (2)48, (2)93, (2)94, (2)106, (2)107, (2)142, (4)58, (5)106, (5)107
+xp-based: (3)86
+xp/win: (2)94
+xpath: (2)106, (2)179
+xpathallows: (2)107
+xpathfilter: (2)107
+xpathfiltering: (2)107
+xpathfilters: (2)106
+xs->bx: (3)66
+xserve: (1)0, (2)0, (3)0, (4)0, (5)0
+xterra: (1)48
+xxd: (5)53
+y(or: (2)15
+yahooupdatetask: (2)93
+yamazaki: (5)106
+yaml-based: (4)72, (4)73
+yaml: (4)14, (4)72, (4)73
+yara-rules: (4)11
+yara.exe: (4)11
+yara_match.py: (4)97
+yarac.exe: (4)11
+yarais: (1)49
+yararule: (3)131
+ybe: (3)85
+ydarwasciann: (3)185
+ydescribing: (5)34
+year-month-day-hour-minute-second: (2)173
+years: (1)71
+yeears: (1)38
+yes*: (1)129
+yfile: (3)12
+ylock: (2)50
+yoccurrences: (3)103
+you: (1)57, (1)71, (1)116, (3)31, (4)100, (5)85, (5)117
+youcanrun: (1)99
+your: (1)6, (1)33
+yourresults: (3)16
+youshould: (2)104
+youwill: (1)6
+youyr: (1)33
+yr_*: (3)131
+ysystemu: (5)70
+ythe: (5)65
+ythey: (1)145
+ytilitalov: (3)20
+yuebzyq:-e: (5)139
+yuebzyqemvasrrrcmmk: (1)39
+ywsc: (1)16
+yyyy-mm-dd..yyyy-mm-dd: (4)46
+yyyy-mm-dd: (4)44
+yyyymmdd-hhmmss: (1)86
+yyyymmddhhmmss: (2)173
+z$loagfile: (5)72
+zbcwaipe: (5)90
+zbot: (3)148
+zdefyiningq: (1)42
+zeltser: (1)0, (2)0, (3)0, (4)0, (5)0
+zero-day: (1)42, (1)78
+zeus.img--profile=winxpspx: (3)148
+zeus/zbot: (3)148
+zhas: (2)15
+zimmerman.[]in: (3)168
+ziovne: (4)64
+zip-compressed: (5)107
+zonde.identifiedradas: (5)55
+zone.identiferads: (5)54
+zone.identifier: (5)53, (5)54, (5)72, (5)91, (5)143
+zone.identifierads: (5)54
+zone.identifieralternate: (5)54
+zone.identifierand: (5)54
+zone.identifierinformation: (5)54
+zone.identifierobjects: (5)56
+zone.identifiersolutions: (5)55
+zoneid=: (5)54
+zoneidsvalues: (5)55
+zsh_extended_history: (4)71
+zsomae: (3)156
+zyqemvasrrrcmmk: (5)27
+{$_.message: (2)180
+{$_}: (2)154
+{$owners[$_.handle: (2)154
+{${$./}: (2)168
+{${: (2)168
+{${“[+}: (2)168
+{($_.pathname: (2)154
+{-not: (2)154
+{b-c-e-bae-ecc}: (5)10
+{bfa-b-e-a: (5)10
+{ddacd: (4)10
+{start-process: (2)129
+{systemroot}/winevt/logs/.+evtx: (4)72
+{systemroot}: (4)72, (4)73
+|findstr/i"auto: (2)154
+|findstr/i/v: (2)154
+~-seconds: (2)8
+~.: (4)7
+~/vsscarve-basefile/catalog: (5)101
+~/vsscarve-basefile/store: (5)101
+~: (1)48, (1)106, (2)8, (5)49
+~bcwipe.tmp: (5)90
+~bytes: (5)49
+‒directory: (1)109
+‒drive: (1)109
+‒f-response: (1)109
+‒file: (1)109
+‒unc: (1)109
+–-partitions: (4)66
+–-profile=[profile: (3)21
+–-timezone: (4)82, (4)83
+–alex: (2)15
+–appcompatcacheparser: (2)16
+–automated: (4)30, (4)94
+–class: (2)127
+–computername: (2)129
+–credential: (2)129
+–csvf: (5)80
+–device: (3)91
+–dos: (5)42
+–download: (1)7
+–dump: (3)163
+–either: (3)87
+–exec: (2)166
+–fasgt: (4)30, (4)94
+–fls: (4)30, (4)94
+–for: (3)91
+–forensic-yara-rules: (3)131
+–forensic-yara-rulescommand-line: (3)131
+–forensic: (3)91
+–historysavestyle: (2)175
+–http://for.com/mxle: (2)155
+–http://for.com/qr: (1)81
+–http://for.com/urm: (1)95
+–inhibit: (5)111
+–it: (2)18, (3)50
+–jpcert: (3)23
+–kebrberos: (1)152
+–l: (4)13
+–logname: (2)178
+–logtimeline: (4)30, (4)94
+–mbcproject: (4)16
+–meet: (3)116
+–ms: (5)98
+–name: (2)127, (2)175
+–noni: (2)166
+–nop: (2)166
+–pagcefile: (3)91
+–parsers: (4)71
+–posixcase: (5)42
+–pushbin: (1)105
+–pushbinargument: (1)105
+–r:host: (2)123, (2)124
+–raphael: (3)66
+–required: (5)58
+–rmbin: (1)105
+–rmbinargument: (1)105
+–sb: (2)89
+–scheduled: (2)89
+–scriptblock: (2)129
+–sherlocck: (4)100, (5)117
+–sherlock: (1)160, (2)189, (3)188
+–shimcacheparser: (2)16
+–sometimes: (5)32
+–targetlist: (1)103
+–the: (4)35
+–u:user: (2)123, (2)124
+–unguarded: (3)149
+–v: (4)78
+–verbose: (1)103, (1)104
+–wikipedia: (2)39
+–win/dos: (5)42
+–win: (5)42
+$standard_information: (5)46
+e$stdanwdairnd_sinfboremratriyon: (5)46
+fractional: (5)46
+mft: (5)46
+usn: (5)46
+account: (2)74
+audit: (2)80
+sfobrcee: (1)134
+built-in: (1)115
+credential: (1)125
+device: (1)125
+domain: (1)125
+export: (1)115
+kb: (1)125
+local: (1)125
+lsa: (1)125
+managed: (1)125
+protected: (1)125
+remote: (1)125
+restricted: (1)125
+ssp: (1)125
+user: (1)125

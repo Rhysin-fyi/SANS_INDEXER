@@ -198,8 +198,9 @@ def strip_all_pdfs(directory, outfile, giant_exclude):
                         for word in words:
                             word = strip_characters(word).lower()
                             if check_if_good(word, giant_exclude):
-                                total_words.append(word)
-                                long_words.append(word)
+                                cleaned_word = re.sub(r'\d', '', word)
+                                total_words.append(cleaned_word)
+                                long_words.append(cleaned_word)
                     
                     if counter not in index:
                         index[counter] = {}
@@ -212,7 +213,6 @@ def strip_all_pdfs(directory, outfile, giant_exclude):
 
     results = []
     
-   
     for word in set(total_words):
         occurrences = []
         
