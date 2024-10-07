@@ -67,7 +67,7 @@ python pdfparser.py -d <directory> -o <output_file> [options]
 
 4. **Stripping Index**:
    ```bash
-   python pdfparse.py --index SANS508_Book5Dcrypt.pdf -d "D:\SANS\508\Encrypt\DECRYPT" -o index.txt --omit Edwin Berry
+   python pdfparse.py --index SANS508_Book5Dcrypt.pdf -d "D:\SANS\508\Encrypt\DECRYPT" -o index.txt --omit John Doe
    ```
 
 ## Contribution
