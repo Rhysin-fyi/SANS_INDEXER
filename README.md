@@ -7,7 +7,7 @@ A command-line tool for parsing and manipulating SANS PDFs. This tool provides f
 
 - **Merge PDFs**: Combine multiple PDFs into a single document.
 - **Scrape Title Slides**: Extract title slides from all PDFs.
-- **Create Omega Index**: Generate an OMGEA index for efficient searching.
+- **Create Omega Index**: Generate an OMEGA index for efficient searching.
 - **Decrypt PDFs**: Decrypt password-protected PDFs.
 - **Strip Index**: Strip the specified book index into searchable terms.
 
