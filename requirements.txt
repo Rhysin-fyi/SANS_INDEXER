@@ -1,0 +1,6 @@
+pdfplumber
+PyPDF2
+argparse
+pikepdf
+requests
+tqdm
