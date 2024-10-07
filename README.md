@@ -7,7 +7,7 @@ A command-line tool for parsing and manipulating SANS PDFs. This tool provides f
 
 - **Merge PDFs**: Combine multiple PDFs into a single document.
 - **Scrape Title Slides**: Extract title slides from all PDFs.
-- **Create Omega Index**: Generate an OMGEA index for efficient searching.
+- **Create Omega Index**: Generate an OMEGA index for efficient searching.
 - **Decrypt PDFs**: Decrypt password-protected PDFs.
 - **Strip Index**: Strip the specified book index into searchable terms.
 
@@ -33,7 +33,7 @@ PLEASE make a folder with ONLY the PDFs downloaded from SANS present I do not wa
 To run the parser, use the following command in your terminal:
 
 ```bash
-python pdfparser.py -d <directory> -o <output_file> [options]
+python pdfparse.py -d <directory> -o <output_file> [options]
 ```
 
 ## Command-Line Arguments
@@ -63,7 +63,7 @@ python pdfparser.py -d <directory> -o <output_file> [options]
 
 3. **Merging PDFs**:
    ```bash
-   python pdfparser.py -m -d "D:\SANS\508\Encrypt\DECRYPT" -o MERGED.PDF
+   python pdfparse.py -m -d "D:\SANS\508\Encrypt\DECRYPT" -o MERGED.PDF
    ```
 
 4. **Stripping Index**:
