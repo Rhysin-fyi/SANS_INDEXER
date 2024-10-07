@@ -20,6 +20,7 @@ pip install -r requirements.txt
 ```
 ## PREREQUISITE
 PLEASE make a folder with ONLY the PDFs downloaded from SANS present I do not want any adverse effects to other files on your computer
+```
 508
 └── ENCRYPTED
     ├── file1.pdf
@@ -27,7 +28,7 @@ PLEASE make a folder with ONLY the PDFs downloaded from SANS present I do not wa
     ├── file3.pdf
     ├── file4.pdf
     └── file5.pdf
-
+```
 ## Usage
 To run the parser, use the following command in your terminal:
 
