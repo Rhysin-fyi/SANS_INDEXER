@@ -1,5 +1,5 @@
 FOR508 | ADVANCED INCIDENT RESPONSE THREAT HUNTING & DIGITAL FORENSICS, BOOK: 1 Page: -1
-© 2023 SANS Institute All rights reserved to SANS Institute., BOOK: 1 Page: 0
+ï¿½ 2023 SANS Institute All rights reserved to SANS Institute., BOOK: 1 Page: 0
 Welcome to Advanced Incident, BOOK: 1 Page: 1
 How to Approach Labs in FOR508, BOOK: 1 Page: 5
 Think of the labs as being accomplished in three ways. FOR508 is an advanced course so we recommend, BOOK: 1 Page: 6
@@ -9,7 +9,7 @@ FOR508 Course Agenda, BOOK: 1 Page: 9
 Detection Trends are Improving, BOOK: 1 Page: 11
 Threat Landscape, BOOK: 1 Page: 12
 Why Stark Research Labs?, BOOK: 1 Page: 14
-“I Have a Bad Feeling About This”, BOOK: 1 Page: 15
+ï¿½I Have a Bad Feeling About Thisï¿½, BOOK: 1 Page: 15
 Threat Intelligence: Crimson Osprey, BOOK: 1 Page: 16
 Stark Research Labs Network Diagram, BOOK: 1 Page: 17
 Stark Research Labs Domain Configuration, BOOK: 1 Page: 18
@@ -31,12 +31,12 @@ team has for gathering and examining data the higher the success rate., BOOK: 1 
 Advanced Incident Response and Threat Hunting Agenda, BOOK: 1 Page: 34
 The Attack Lifecycle, BOOK: 1 Page: 36
 destructive attacks like ransomware. Similar to data exfiltration the most sophisticated attackers can spend, BOOK: 1 Page: 37
-Lockheed Martin’s Cyber Kill Chain®, BOOK: 1 Page: 38
+Lockheed Martinï¿½s Cyber Kill Chainï¿½, BOOK: 1 Page: 38
 Computed indicators are those that are well computed. The most common among these indicators are hashes, BOOK: 1 Page: 39
 Recon, BOOK: 1 Page: 40
 In addition to the phone call going through someone has to be present at the other end to receive it. Your, BOOK: 1 Page: 41
 steps in their intrusion. As the intrusion progresses forward in the kill chain so the corresponding analysis, BOOK: 1 Page: 42
-Adversarial TacticsTechniques and Common Knowledge (ATT&CK™), BOOK: 1 Page: 43
+Adversarial TacticsTechniques and Common Knowledge (ATT&CKï¿½), BOOK: 1 Page: 43
 ATT&CK Categories, BOOK: 1 Page: 44
 Cyber Threat Intelligence: The ATT&CK matrix provides an essential foundation for cyber threat intelligence, BOOK: 1 Page: 45
 Threat Intelligence and ATT&CK Mapping, BOOK: 1 Page: 47
@@ -46,7 +46,7 @@ Indicators of Compromise: YARA, BOOK: 1 Page: 50
 Advanced Incident Response and Threat Hunting Agenda, BOOK: 1 Page: 51
 Malware Paradox, BOOK: 1 Page: 53
 FOR508 Intrusion Methodology Roadmap, BOOK: 1 Page: 54
-Threat Hunting: “Compromise Type”, BOOK: 1 Page: 55
+Threat Hunting: ï¿½Compromise Typeï¿½, BOOK: 1 Page: 55
 Hunting Evil: From Automated to Manual, BOOK: 1 Page: 56
 How does an analyst know which systems to perform deep dive analysis against? There are no hard and fast, BOOK: 1 Page: 57
 Detecting Compromised Endpoints without Active Malware, BOOK: 1 Page: 58
@@ -84,7 +84,7 @@ PowerShell: The Future Is Now, BOOK: 1 Page: 93
 PowerShell Basics, BOOK: 1 Page: 94
 PowerShell for incident response:, BOOK: 1 Page: 95
 PowerShell Remoting, BOOK: 1 Page: 96
-The big difference here is that “Invoke-Command” pushes processing and filtering onto the remote host. The, BOOK: 1 Page: 97
+The big difference here is that ï¿½Invoke-Commandï¿½ pushes processing and filtering onto the remote host. The, BOOK: 1 Page: 97
 PowerShell Authentication, BOOK: 1 Page: 98
 Kansa: PowerShell IR Framework, BOOK: 1 Page: 99
 learn a lot about the types of data useful during incident response by looking through the existing modules and, BOOK: 1 Page: 100
@@ -97,7 +97,7 @@ Introducing KAPE, BOOK: 1 Page: 108
 KAPE Target Collection, BOOK: 1 Page: 109
 Introducing Velociraptor, BOOK: 1 Page: 111
 From the beginning a major design goal has been flexibility. The primary way that is achieved is via a purpose-, BOOK: 1 Page: 112
-What Are Velociraptor “Artifacts”?, BOOK: 1 Page: 113
+What Are Velociraptor ï¿½Artifactsï¿½?, BOOK: 1 Page: 113
 Hunting with Velociraptor, BOOK: 1 Page: 114
 Data Analysis with Velociraptor, BOOK: 1 Page: 115
 VQL Data Transformations, BOOK: 1 Page: 116
@@ -137,7 +137,7 @@ Finding a Path to Domain Admin: Bloodhound, BOOK: 1 Page: 157
 [1] GitHub -BloodHound: https://for508.com/hfi9o, BOOK: 1 Page: 158
 COURSE RESOURCES AND CONTACT INFORMATION, BOOK: 1 Page: 160
 FOR508 | ADVANCED INCIDENT RESPONSE THREAT HUNTING & DIGITAL FORENSICS, BOOK: 2 Page: -1
-© 2023 SANS Institute All rights reserved to SANS Institute., BOOK: 2 Page: 0
+ï¿½ 2023 SANS Institute All rights reserved to SANS Institute., BOOK: 2 Page: 0
 FOR508.2 Advanced Incident Response Threat Hunting and Digital Forensics, BOOK: 2 Page: 1
 Intrusion Analysis Agenda, BOOK: 2 Page: 3
 FOR508 Intrusion Methodology Roadmap, BOOK: 2 Page: 4
@@ -169,7 +169,7 @@ There are three options when the maximum size of a log is reached:, BOOK: 2 Page
 Types of Event Logs, BOOK: 2 Page: 40
 Security Log, BOOK: 2 Page: 41
 What Is Recorded? Security Event Categories, BOOK: 2 Page: 42
-• Audit process tracking: Audit detailed tracking information for events such as program activation, BOOK: 2 Page: 43
+ï¿½ Audit process tracking: Audit detailed tracking information for events such as program activation, BOOK: 2 Page: 43
 Event Log Overview, BOOK: 2 Page: 44
 Analysis Scenarios, BOOK: 2 Page: 45
 Tracking Account Usage (1), BOOK: 2 Page: 46
@@ -180,7 +180,7 @@ In addition to helping our investigations knowing these Logon Types can also be 
 Identifying Logon Sessions, BOOK: 2 Page: 52
 Tracking Account Usage: Brute Force Password Attack, BOOK: 2 Page: 54
 Built-In Accounts, BOOK: 2 Page: 56
-• ANONYMOUS LOGON: This account is the most often misunderstood. It was originally created as a, BOOK: 2 Page: 57
+ï¿½ ANONYMOUS LOGON: This account is the most often misunderstood. It was originally created as a, BOOK: 2 Page: 57
 Tracking Administrator Account Activity, BOOK: 2 Page: 58
 Auditing Account Creation, BOOK: 2 Page: 60
 Tracking Account Usage: Remote Desktop Protocol (1), BOOK: 2 Page: 62
@@ -191,14 +191,14 @@ Remote Desktop Logging, BOOK: 2 Page: 67
 Account Logon Events, BOOK: 2 Page: 69
 Logon Error Codes, BOOK: 2 Page: 70
 4776 is recorded., BOOK: 2 Page: 71
-Privileged Local Account Abuse – (Pass the Hash), BOOK: 2 Page: 72
+Privileged Local Account Abuse ï¿½ (Pass the Hash), BOOK: 2 Page: 72
 Tracking Reconnaissance: Account and Group Enumeration (1), BOOK: 2 Page: 74
 Tracking Reconnaissance: Account and Group Enumeration (2), BOOK: 2 Page: 75
 Event Log Explorer, BOOK: 2 Page: 77
 Tracking Lateral Movement: Network Shares, BOOK: 2 Page: 80
 Tracking Lateral Movement: Administrative Shares, BOOK: 2 Page: 81
 Tracking Lateral Movement: Explicit Credentials / runas, BOOK: 2 Page: 83
-remote commands. PsExeccan be run with the “-u” and “-p” parameters on the command line to specify, BOOK: 2 Page: 84
+remote commands. PsExeccan be run with the ï¿½-uï¿½ and ï¿½-pï¿½ parameters on the command line to specify, BOOK: 2 Page: 84
 Tracking Lateral Movement: runas Detection, BOOK: 2 Page: 85
 Explicit Credentials: Cobalt Strike make_token & pth, BOOK: 2 Page: 87
 Tracking Lateral Movement: Scheduled Tasks, BOOK: 2 Page: 89
@@ -207,7 +207,7 @@ Task Scheduler Logs, BOOK: 2 Page: 91
 Windows Remote Management:Task Scheduler v1.2 Artifacts, BOOK: 2 Page: 93
 would have a task file with the same filename). They also nicely augment the information discovered via, BOOK: 2 Page: 94
 Suspicious Services, BOOK: 2 Page: 96
-• 7045: Starting with Win2008R2 a new event has been added to track the first time a particular service was, BOOK: 2 Page: 97
+ï¿½ 7045: Starting with Win2008R2 a new event has been added to track the first time a particular service was, BOOK: 2 Page: 97
 Suspicious Services: PsExec, BOOK: 2 Page: 98
 Per-User Services, BOOK: 2 Page: 100
 Event Log Clearing (1), BOOK: 2 Page: 101
@@ -235,7 +235,7 @@ Windows Remote Management Tools: Scheduled Tasks, BOOK: 2 Page: 126
 WMI: Source System Artifacts, BOOK: 2 Page: 127
 WMI: Destination System Artifacts, BOOK: 2 Page: 128
 PowerShell Remoting: Source System Artifacts, BOOK: 2 Page: 129
-admins typically do not use “wmic process call create” or encoded PowerShell scripts. Similar toother incident, BOOK: 2 Page: 130
+admins typically do not use ï¿½wmic process call createï¿½ or encoded PowerShell scripts. Similar toother incident, BOOK: 2 Page: 130
 PowerShell Remoting: Destination System Artifacts, BOOK: 2 Page: 131
 Application Deployment Software, BOOK: 2 Page: 132
 Detection of this lateral movement technique can be accomplished in multiple ways. Accounts and systems used, BOOK: 2 Page: 133
@@ -282,7 +282,7 @@ System Monitor (Sysmon) Logging (2), BOOK: 2 Page: 184
 Event Log Analysis Resources, BOOK: 2 Page: 186
 COURSE RESOURCES AND CONTACT INFORMATION, BOOK: 2 Page: 189
 FOR508 | ADVANCED INCIDENT RESPONSE THREAT HUNTING & DIGITAL FORENSICS, BOOK: 3 Page: -1
-© 2023 SANS Institute All rights reserved to SANS Institute., BOOK: 3 Page: 0
+ï¿½ 2023 SANS Institute All rights reserved to SANS Institute., BOOK: 3 Page: 0
 FOR508.3, BOOK: 3 Page: 1
 FOR508 Intrusion Methodology Roadmap, BOOK: 3 Page: 3
 Memory Forensics in Incident Response and Threat Hunting Agenda, BOOK: 3 Page: 4
@@ -303,12 +303,12 @@ Memory these modules exist because they are frequently employed by malware to co
 Volatility is a framework for performing digital investigations, BOOK: 3 Page: 20
 Volatility Usage, BOOK: 3 Page: 21
 Profile Identification and Build Numbers, BOOK: 3 Page: 22
-process list when using the pslistand psscanplugins and good output from filescanand hivelist it’s a good, BOOK: 3 Page: 23
+process list when using the pslistand psscanplugins and good output from filescanand hivelist itï¿½s a good, BOOK: 3 Page: 23
 Help!, BOOK: 3 Page: 24
 Finding the First "Hit", BOOK: 3 Page: 26
 EPROCESS Blocks in Memory, BOOK: 3 Page: 28
 Rogue Process Identification, BOOK: 3 Page: 30
-• Start time:The start time is underutilized but can be a great source of information. If you have evidence, BOOK: 3 Page: 31
+ï¿½ Start time:The start time is underutilized but can be a great source of information. If you have evidence, BOOK: 3 Page: 31
 Identify Rogue Processes with Volatility, BOOK: 3 Page: 33
 Identify Rogue Processes: windows.pslist.PsList, BOOK: 3 Page: 34
 Identify Rogue Processes: Hiding in Plain Sight, BOOK: 3 Page: 35
@@ -321,10 +321,10 @@ Finding Webshells via Parent Process Analysis, BOOK: 3 Page: 44
 Orphan Processes (Amadey), BOOK: 3 Page: 46
 Persistence and Lateral Movement Processes, BOOK: 3 Page: 48
 WMI and PowerShell Processes, BOOK: 3 Page: 49
-executes PowerShell the parent process will be “explorer.exe”. If PowerShell is running with a parent of, BOOK: 3 Page: 50
+executes PowerShell the parent process will be ï¿½explorer.exeï¿½. If PowerShell is running with a parent of, BOOK: 3 Page: 50
 Investigating WMI Processes (Impacket), BOOK: 3 Page: 51
 Data Reduction: Memory Baseliner, BOOK: 3 Page: 52
-to be malicious than a DLL existing on only one. Memory Baseliner facilitates stacking via the use of the “-d, BOOK: 3 Page: 53
+to be malicious than a DLL existing on only one. Memory Baseliner facilitates stacking via the use of the ï¿½-d, BOOK: 3 Page: 53
 Data Reduction: Memory Baseliner(DarkComet), BOOK: 3 Page: 54
 Identify Rogue Processes Review, BOOK: 3 Page: 56
 Analyze Process Objects, BOOK: 3 Page: 59
@@ -338,7 +338,7 @@ Cobalt Strike Sacrificial Processes (2), BOOK: 3 Page: 67
 Analyze Process Objects: windows.getsids.GetSIDs, BOOK: 3 Page: 68
 The windows.getsidsplugin attempts to query in-memory registry hives to match account SIDs to their, BOOK: 3 Page: 69
 Understanding Security Identifiers (SIDs), BOOK: 3 Page: 70
-• 21-1004336348-1176238915-682003330: A unique identifier for a specific domain that the, BOOK: 3 Page: 71
+ï¿½ 21-1004336348-1176238915-682003330: A unique identifier for a specific domain that the, BOOK: 3 Page: 71
 Analyze Process Objects: windows.getsids.GetSIDs, BOOK: 3 Page: 72
 Analyze Process Objects: windows.handles.Handles (1), BOOK: 3 Page: 74
 Analyze Process Objects: windows.handles.Handles (2), BOOK: 3 Page: 75
@@ -405,7 +405,7 @@ Bring Your Own Vulnerable Driver Attacks, BOOK: 3 Page: 149
 Rootkit Detection: modscan and modules, BOOK: 3 Page: 150
 Rootkit Detection: modscan (TDL Bootkit), BOOK: 3 Page: 151
 Data Reduction for Drivers: Memory Baseliner, BOOK: 3 Page: 153
-and very unlikely to ever be found on more than a handful of systems. The path of this driver using the “\??\”, BOOK: 3 Page: 154
+and very unlikely to ever be found on more than a handful of systems. The path of this driver using the ï¿½\??\ï¿½, BOOK: 3 Page: 154
 Living off the Land Drivers (LOLDrivers), BOOK: 3 Page: 156
 Audit Drivers and Rootkit Detection Review, BOOK: 3 Page: 157
 Memory Resident Object Types, BOOK: 3 Page: 159
@@ -433,7 +433,7 @@ more advanced attacks like reflective code injection hooking process hollowing a
 Scaling Analysis: Using IOCs, BOOK: 3 Page: 185
 COURSE RESOURCES AND CONTACT INFORMATION, BOOK: 3 Page: 188
 FOR508 | ADVANCED INCIDENT RESPONSE THREAT HUNTING & DIGITAL FORENSICS, BOOK: 4 Page: -1
-© 2023 SANS Institute All rights reserved to SANS Institute., BOOK: 4 Page: 0
+ï¿½ 2023 SANS Institute All rights reserved to SANS Institute., BOOK: 4 Page: 0
 FOR508.4 Advanced Incident Response Threat Hunting and Digital Forensics, BOOK: 4 Page: 1
 FOR508 Intrusion Methodology Roadmap, BOOK: 4 Page: 3
 Malware Discovery: Anomaly Detection, BOOK: 4 Page: 5
@@ -486,7 +486,7 @@ Plaso Webhistory (webhist) Parsers, BOOK: 4 Page: 61
 Plaso Linux/Android/Mac (android linux macosx), BOOK: 4 Page: 62
 Mac, BOOK: 4 Page: 63
 log2timeline.py Usage, BOOK: 4 Page: 64
-A pro tip for validating proper local time adjustments for Windows hosts is to review the “setupapi” parsing, BOOK: 4 Page: 65
+A pro tip for validating proper local time adjustments for Windows hosts is to review the ï¿½setupapiï¿½ parsing, BOOK: 4 Page: 65
 log2timeline.py Target Examples, BOOK: 4 Page: 66
 Timeline Analysis Agenda, BOOK: 4 Page: 67
 Targeted Super Timeline Options, BOOK: 4 Page: 69
@@ -514,7 +514,7 @@ Timeline Analysis Process, BOOK: 4 Page: 94
 Scaling Timeline Analysis, BOOK: 4 Page: 97
 COURSE RESOURCES AND CONTACT INFORMATION, BOOK: 4 Page: 100
 FOR508 | ADVANCED INCIDENT RESPONSE THREAT HUNTING & DIGITAL FORENSICS, BOOK: 5 Page: -1
-© 2023 SANS Institute All rights reserved to SANS Institute., BOOK: 5 Page: 0
+ï¿½ 2023 SANS Institute All rights reserved to SANS Institute., BOOK: 5 Page: 0
 FOR508.5 Advanced Incident Response Threat Hunting and Digital Forensics, BOOK: 5 Page: 1
 FOR508 Intrusion Methodology Roadmap, BOOK: 5 Page: 3
 Advanced Adversary and Anti-Forensics Detection Agenda, BOOK: 5 Page: 4
@@ -533,22 +533,22 @@ VSS Examination with log2timeline.py, BOOK: 5 Page: 17
 Advanced Adversary and Anti-Forensics Detection Agenda, BOOK: 5 Page: 20
 Note: There is a difference between the on-disk format version and a version of the NTFS.sys driver that, BOOK: 5 Page: 22
 NTFS Features, BOOK: 5 Page: 23
-• NTFS implemented file-level encryption at the filesystem level so that it operates completely transparent to, BOOK: 5 Page: 24
+ï¿½ NTFS implemented file-level encryption at the filesystem level so that it operates completely transparent to, BOOK: 5 Page: 24
 Metadata Layer Master File Table: MFT, BOOK: 5 Page: 25
 Metadata Layer Data Types Inside an MFT Entry, BOOK: 5 Page: 26
 MFT Record # Filename Description, BOOK: 5 Page: 27
 $BOOT, BOOK: 5 Page: 28
-Reference pages 277–278 of File System Forensic Analysis., BOOK: 5 Page: 29
+Reference pages 277ï¿½278 of File System Forensic Analysis., BOOK: 5 Page: 29
 Metadata Layer Metadata Entries: Allocated or Unallocated?, BOOK: 5 Page: 30
 Sequential MFT Entries, BOOK: 5 Page: 31
 Metadata Layer Typical MFT Entry Attributes, BOOK: 5 Page: 32
 Overview of an MFT Entry, BOOK: 5 Page: 33
-Analyzing File System Metadata with The Sleuth Kit’s istat, BOOK: 5 Page: 34
-system was slow by 32 seconds then adding the flag “-s -32” would be used to correct this. When this option is, BOOK: 5 Page: 35
+Analyzing File System Metadata with The Sleuth Kitï¿½s istat, BOOK: 5 Page: 34
+system was slow by 32 seconds then adding the flag ï¿½-s -32ï¿½ would be used to correct this. When this option is, BOOK: 5 Page: 35
 Analyzing MFT Entry Header & $STANDARD_INFORMATION, BOOK: 5 Page: 36
-Each valid MFT entry will begin with a signature of “FILE” (0x46 0x49 0x4C 0x45). If the system has detected, BOOK: 5 Page: 37
+Each valid MFT entry will begin with a signature of ï¿½FILEï¿½ (0x46 0x49 0x4C 0x45). If the system has detected, BOOK: 5 Page: 37
 ingfragments of the MFT during data recovery. The inclusion of this field changed the header length which is, BOOK: 5 Page: 38
-At offset 0x38 is a set of flags. These flags track the file’s attributes such as hidden read-only and so on., BOOK: 5 Page: 39
+At offset 0x38 is a set of flags. These flags track the fileï¿½s attributes such as hidden read-only and so on., BOOK: 5 Page: 39
 Analyzing $FILE_NAME & Attributes Summary, BOOK: 5 Page: 40
 Offset 0x59 is the Namespace Type that tells us what kind of name to expect. Possible values include (hex, BOOK: 5 Page: 42
 Windows Time Rules, BOOK: 5 Page: 43
@@ -559,7 +559,7 @@ Timestomp Detection, BOOK: 5 Page: 48
 Analyzing $DATA, BOOK: 5 Page: 49
 Alternate Data Streams (ADS), BOOK: 5 Page: 51
 unexpected alternate data streams., BOOK: 5 Page: 52
-Extracting Data with The Sleuth Kit’s icat, BOOK: 5 Page: 53
+Extracting Data with The Sleuth Kitï¿½s icat, BOOK: 5 Page: 53
 The Zone.Identifier ADS: Evidence of Download, BOOK: 5 Page: 54
 Finally as we saw in the previous slide istatis another tool that can show the existence of additional data, BOOK: 5 Page: 55
 Hide and Execute Malicious Payloads with ADS, BOOK: 5 Page: 56
@@ -567,9 +567,9 @@ Filename Layer Filenames: Not Just Stored in the $MFT, BOOK: 5 Page: 57
 Filename Layer NTFS Directory Attributes, BOOK: 5 Page: 58
 B-Tree Index Searching, BOOK: 5 Page: 59
 node. The Allocated Size of Entries tells us how much space is available to store entries. By subtracting Size of, BOOK: 5 Page: 60
-it’s no accident that the name of the index is “$I30”. Can you remember what the attribute signature is of a, BOOK: 5 Page: 61
+itï¿½s no accident that the name of the index is ï¿½$I30ï¿½. Can you remember what the attribute signature is of a, BOOK: 5 Page: 61
 B-Tree Index Rebalancing, BOOK: 5 Page: 62
-Here’s a summary of the changes from rebalancing:, BOOK: 5 Page: 63
+Hereï¿½s a summary of the changes from rebalancing:, BOOK: 5 Page: 63
 Parsing $I30 Directory Indexes, BOOK: 5 Page: 64
 File System Journaling Overview, BOOK: 5 Page: 66
 $LogFile Provides File System Resilience, BOOK: 5 Page: 67
@@ -577,10 +577,10 @@ For example if the modification timestamps needed to be updated and the file siz
 $UsnJrnl Provides Change Tracking Service, BOOK: 5 Page: 69
 Regarding the storage of the change journal the records are stored in an alternate data stream named $J of the, BOOK: 5 Page: 70
 Common Activity Patterns in the Journals, BOOK: 5 Page: 71
-• $LogFileMarker for File/Directory Creation: NTFS performs many functions with the creation of a file, BOOK: 5 Page: 72
-• $UsnJrnl Marker for ADS Creation: The $UsnJrnl logs the creation deletion or rename of an ADS with the, BOOK: 5 Page: 73
+ï¿½ $LogFileMarker for File/Directory Creation: NTFS performs many functions with the creation of a file, BOOK: 5 Page: 72
+ï¿½ $UsnJrnl Marker for ADS Creation: The $UsnJrnl logs the creation deletion or rename of an ADS with the, BOOK: 5 Page: 73
 Useful Filters and Searches in the Journals, BOOK: 5 Page: 76
-• Attacker’s working directories: Discovering the directories attackers are using to store their files is a big find, BOOK: 5 Page: 77
+ï¿½ Attackerï¿½s working directories: Discovering the directories attackers are using to store their files is a big find, BOOK: 5 Page: 77
 LogFileParser for $LogFile Analysis, BOOK: 5 Page: 78
 Parsing the $LogFilecan be useful for more than recovering metadata about files of interest. It can sometimes, BOOK: 5 Page: 79
 MFTECmd for $UsnJrnl Analysis, BOOK: 5 Page: 80
@@ -594,26 +594,26 @@ Characteristics of Other Popular Wipers, BOOK: 5 Page: 88
 BCWipe was the most effective tool we tested but still showed leaked information particularly in both of the, BOOK: 5 Page: 89
 2. The final action on the target file was a FileDelete. Notice a few rows up were several DataOverwrite, BOOK: 5 Page: 90
 Next we take a look at Eraser. This is a common open-source wiping tool that has been around since 2003. It, BOOK: 5 Page: 91
-This is contrary to several online articles discussing cipher.exe’s use of EFSTMPWP. They often say this is a, BOOK: 5 Page: 92
-Registry Key/Value “Records” Recovery, BOOK: 5 Page: 93
-Finding “Fileless” Malware in the Registry, BOOK: 5 Page: 94
+This is contrary to several online articles discussing cipher.exeï¿½s use of EFSTMPWP. They often say this is a, BOOK: 5 Page: 92
+Registry Key/Value ï¿½Recordsï¿½ Recovery, BOOK: 5 Page: 93
+Finding ï¿½Filelessï¿½ Malware in the Registry, BOOK: 5 Page: 94
 File Recovery: Metadata Method vs. Carving Method, BOOK: 5 Page: 95
 From there we generally select a few additional files based on the case type. For many investigations including, BOOK: 5 Page: 96
 File Recovery via Metadata Method, BOOK: 5 Page: 97
 File Recovery via Carving Method, BOOK: 5 Page: 98
-Before running PhotoRec it’s important to have a game plan for which files would be most pertinent to the, BOOK: 5 Page: 99
+Before running PhotoRec itï¿½s important to have a game plan for which files would be most pertinent to the, BOOK: 5 Page: 99
 Recovering Deleted Volume Shadow Snapshots, BOOK: 5 Page: 100
 Carving for Snapshots in the FOR508 SIFT, BOOK: 5 Page: 101
 Once one or more snapshots have been recovered the next step is to access the data in a usable manner. The, BOOK: 5 Page: 102
 Example Snapshot Recovery with vss_carver, BOOK: 5 Page: 103
 Stream Carving for Event Log and File System Records, BOOK: 5 Page: 104
 carves as many or more events as other tested tools carving for the same records. One more benefit worth, BOOK: 5 Page: 105
-One option of note is the ability to extract slack space with the ‘-s’ switch. This will tell blkls to look only at, BOOK: 5 Page: 106
-“Carving” for Strings, BOOK: 5 Page: 107
+One option of note is the ability to extract slack space with the ï¿½-sï¿½ switch. This will tell blkls to look only at, BOOK: 5 Page: 106
+ï¿½Carvingï¿½ for Strings, BOOK: 5 Page: 107
 In this slide we see the results of searching for a Bitlocker recovery key using the two techniques just discussed., BOOK: 5 Page: 108
 Advanced Adversary and Anti-Forensics Detection Agenda, BOOK: 5 Page: 109
 Leverage File System History, BOOK: 5 Page: 110
-host. Clearly there’s room to increase storage beyond 32 MB for just about any system in any environment., BOOK: 5 Page: 111
+host. Clearly thereï¿½s room to increase storage beyond 32 MB for just about any system in any environment., BOOK: 5 Page: 111
 Level Up On Visibility, BOOK: 5 Page: 112
 FOR508 Course Agenda, BOOK: 5 Page: 114
 COURSE RESOURCES AND CONTACT INFORMATION, BOOK: 5 Page: 117
