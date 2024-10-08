@@ -5,4 +5,3 @@ pikepdf
 requests
 tqdm
 docx
-csv
