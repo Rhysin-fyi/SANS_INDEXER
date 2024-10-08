@@ -74,7 +74,7 @@ python pdfparse.py -d <directory> -o <output_file> [options]
    python pdfparse.py -d "D:\SANS\508\Encrypt" -o omegaindex.txt --omega
    ```
 
-2.1 **OMEGA INDEX formatted csv**:
+2. (cont.) **OMEGA INDEX formatted csv**:
    ```bash
    python pdfparse.py -d "D:\SANS\508\Encrypt" -o omegaindex.txt --omega --format csv
    ```
