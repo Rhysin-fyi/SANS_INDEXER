@@ -177,11 +177,7 @@ def split_index(directory, book, outfile, omit):
     return full_index
 
 def format_output(results, format_type, output_file):
-    if format_type == "txt":
-        with open(output_file, "w", encoding="utf-8", errors="ignore") as f:
-            f.write("\n".join(results))
-    
-    elif format_type == "csv":
+    if format_type == "csv":
         with open(output_file, "w", newline='', encoding="utf-8", errors="ignore") as csvfile:
             writer = csv.writer(csvfile)
             writer.writerow(["Word", "Occurrences"])
@@ -193,6 +189,9 @@ def format_output(results, format_type, output_file):
         for word, occurrences in results:
             doc.add_paragraph(f"{word}: {occurrences}")
         doc.save(output_file)
+    else:
+        with open(output_file, "w", encoding="utf-8", errors="ignore") as f:
+            f.write("\n".join(results))
 
 def strip_all_pdfs(directory, outfile, giant_exclude, format_type):
     files = [f for f in os.listdir(directory) if f.endswith(".pdf")]
