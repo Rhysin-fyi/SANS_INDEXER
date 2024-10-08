@@ -86,7 +86,7 @@ def decrypt_pdfs(directory, outfile, passwd):
 
     return
 
-def pdf_merger(directory):
+def pdf_merger(directory,outfile):
     files = os.listdir(directory)
     files = sorted(files, key=lambda f: int(re.search(r'Book(\s?\d+)', os.path.basename(f)).group(1)))
 
@@ -97,7 +97,7 @@ def pdf_merger(directory):
             pdf_name = os.path.join(directory,names)
             mergeFile.append(PyPDF2.PdfReader(pdf_name, 'rb'))
         
-    mergeFile.write("SANSmerged.pdf")
+    mergeFile.write(outfile)
     
 def scrape_titles(directory,outputfile):
     files = os.listdir(directory)
