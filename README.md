@@ -36,18 +36,32 @@ To run the parser, use the following command in your terminal:
 python pdfparse.py -d <directory> -o <output_file> [options]
 ```
 
-## Command-Line Arguments
+## Command Line Options:
 
-- `-m`, `--merge`: Merge all PDFs into a single PDF (kinda useless as this tool is recursive but ¯\(ツ)/¯ ).
-- `-s`, `--scrape`: Scrape all title slides across all PDFs.
-- `--strip <Book5>`: Strips the specified book index into search terms.
-- `--omega`: Make an OMGEA index.
-- `--dcrypt`: Decrypt all PDFs in the specified directory. **Enclose the password in quotes.**
-- `--omit`, `--omit <Strings>`: Specify strings to omit during scrape.
-- `-p`, `--passwd <PASS>`: Specify the password to use with decryption. **Wrap the password in quotes.**
-- `-d`, `--dir <Dir>`: Specify which directory the SANS PDFs are located in.
-- `-o`, `--out <OutFile>`: Specify the output file name.
-- `-b`, `--book <OutFile>`: Specify book5 name to index.
+- **`-m, --merge`**: Merge all PDFs into a single PDF. *(Note: This may be redundant as the tool processes recursively.)*
+
+- **`-s, --scrape`**: Scrape all title slides from the PDFs.
+
+- **`--labs`**: Specifically scrape Lab titles from the PDFs.
+
+- **`--index <Book5>`**: Strip the specified book index (e.g., Book5) into search terms.
+
+- **`--omega`**: Generate an OMGEA index.
+
+- **`--dcrypt`**: Decrypt all PDFs in the specified directory. *(Note: Password must be enclosed in quotes.)*
+
+- **`-p, --passwd <PASS>`**: Provide the password for PDF decryption. *(Password should be wrapped in quotes.)*
+
+- **`-d, --dir <Dir>`**: Specify the directory containing the SANS PDFs.
+
+- **`-o, --out <OutFile>`**: Define the output file name.
+
+- **`--omit <Strings>`**: Provide a list of strings to omit during scraping (e.g., certain names or phrases).
+
+- **`--format <FORMAT>`**: Specify the output format: `.txt`, `.csv`, or `.doc`.
+
+
+
 
 ## Examples
 
