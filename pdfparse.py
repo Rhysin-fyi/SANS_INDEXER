@@ -7,6 +7,8 @@ import pikepdf
 import pikepdf.models
 import requests as rq
 from tqdm import tqdm
+import csv
+import docx
 
 pattern = r"(^[a-zA-Z0-9]{32}$)"
 wordspattern = r"^(?!.*[^\x20-\x7E])(?=[^\d:])[^\d:\n]{3,}(?: [^\d:\n]+)*"
@@ -34,6 +36,7 @@ def create_parser():
     parser.add_argument("-d", "--dir", metavar="Dir", type=str, help="Specify which directory SANS PDFs live in")
     parser.add_argument("-o", "--out", metavar="OutFile", type=str, help="Specify output file name")
     parser.add_argument("--omit", metavar="NAME", type=str, nargs='*', help="Specify a list of strings to omit from the scrape")
+    parser.add_argument("--format", metavar="FORMAT", type=str, choices=["txt", "csv", "doc"], help="Specify output format: .txt, .csv, .doc")
     return parser
 
 def strip_characters(word):
@@ -51,8 +54,8 @@ def strip_characters(word):
 
 
 def decrypt_pdfs(directory, outfile, passwd):
-    files = os.listdir(directory)
-    files = sorted(files, key=lambda f: int(re.search(r'Book(\s?\d+)', os.path.basename(f)).group(1)))
+    files = [f for f in os.listdir(directory) if f.endswith(".pdf")]
+    files = sorted(files, key=lambda f: int(re.search(r'[b|B]ook(\s?\d+)', os.path.basename(f)).group(1)))
 
     counter = 1
     decrypting = "DECRYPT"
@@ -87,7 +90,7 @@ def decrypt_pdfs(directory, outfile, passwd):
     return
 
 def pdf_merger(directory,outfile):
-    files = os.listdir(directory)
+    files = [f for f in os.listdir(directory) if f.endswith(".pdf")]
     files = sorted(files, key=lambda f: int(re.search(r'Book(\s?\d+)', os.path.basename(f)).group(1)))
 
     mergeFile = PyPDF2.PdfMerger()
@@ -100,7 +103,7 @@ def pdf_merger(directory,outfile):
     mergeFile.write(outfile)
     
 def scrape_titles(directory,outputfile):
-    files = os.listdir(directory)
+    files = [f for f in os.listdir(directory) if f.endswith(".pdf")]
     files = sorted(files, key=lambda f: int(re.search(r'Book(\s?\d+)', os.path.basename(f)).group(1)))
     outputfile = open(outputfile, "w")
     counter = 1
@@ -173,9 +176,27 @@ def split_index(directory, book, outfile, omit):
 
     return full_index
 
-def strip_all_pdfs(directory, outfile, giant_exclude):
-    files = os.listdir(directory)
-    files = sorted(files, key=lambda f: int(re.search(r'Book(\s?\d+)', os.path.basename(f)).group(1)))
+def format_output(results, format_type, output_file):
+    if format_type == "txt":
+        with open(output_file, "w", encoding="utf-8", errors="ignore") as f:
+            f.write("\n".join(results))
+    
+    elif format_type == "csv":
+        with open(output_file, "w", newline='', encoding="utf-8", errors="ignore") as csvfile:
+            writer = csv.writer(csvfile)
+            writer.writerow(["Word", "Occurrences"])
+            for word, occurrences in results:
+                writer.writerow([word, occurrences])
+    
+    elif format_type == "doc":
+        doc = docx.Document()
+        for word, occurrences in results:
+            doc.add_paragraph(f"{word}: {occurrences}")
+        doc.save(output_file)
+
+def strip_all_pdfs(directory, outfile, giant_exclude, format_type):
+    files = [f for f in os.listdir(directory) if f.endswith(".pdf")]
+    files = sorted(files, key=lambda f: int(re.search(r'Book(\d+)', os.path.basename(f)).group(1)))
     counter = 1  
     index = {}  
     total_words = []
@@ -183,6 +204,8 @@ def strip_all_pdfs(directory, outfile, giant_exclude):
     for name in files:
         if name.endswith("pdf"):
             pdf_path = os.path.join(directory, name)
+            print(pdf_path, name)
+            
             with pdfplumber.open(pdf_path) as pdf:
                 for pages in tqdm(pdf.pages, desc=f"Processing Pages in {name}", leave=False):
                     text = pages.extract_text().split()
@@ -219,25 +242,30 @@ def strip_all_pdfs(directory, outfile, giant_exclude):
     results = []
     
     for word in set(total_words):
-        occurrences = []
+        occurrences = {}
         
         for book_num, pages in index.items():
             for pagenum, words_on_page in pages.items():
                 if word in words_on_page:
-                    occurrences.append(f"({book_num}){pagenum}")
+                    if book_num not in occurrences:
+                        occurrences[book_num] = []
+                    occurrences[book_num].append(pagenum)
 
-        if len(occurrences) < 15:
-            joined_occurrences = ', '.join(occurrences)
-            results.append(f"{word}: {joined_occurrences}")
+        formatted_occurrences = []
+        for book_num, page_numbers in occurrences.items():
+            page_numbers_str = " ".join(map(str, sorted(page_numbers)))
+            formatted_occurrences.append(f"({book_num}){page_numbers_str}")
 
-    results.sort(key=str.casefold)
+        if len(formatted_occurrences) < 15:
+            joined_occurrences = ', '.join(formatted_occurrences)
+            results.append((word, joined_occurrences)) 
+    results.sort(key=lambda x: x[0].casefold())
 
-    with open(outfile, "w", encoding="utf-8", errors="ignore") as f:
-        f.write("\n".join(results))
+    format_output(results, format_type, outfile)
 
-def omega_index(directory,outfile):
+def omega_index(directory,outfile,format_type):
     giant_exclude = get_wordlist()
-    strip_all_pdfs(directory,outfile,giant_exclude)
+    strip_all_pdfs(directory,outfile,giant_exclude,format_type)
 
     return
 
@@ -258,7 +286,7 @@ def main():
             scrape_titles(directory, outfile)
             return
         elif args.omega:
-            omega_index(directory,outfile)
+            omega_index(directory,outfile,args.format)
             return
         elif args.index:
             split_index(directory,book,outfile,omitted_strings)
@@ -275,5 +303,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-        
