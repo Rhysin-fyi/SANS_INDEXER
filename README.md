@@ -23,11 +23,11 @@ PLEASE make a folder with ONLY the PDFs downloaded from SANS present I do not wa
 ```
 508
 └── ENCRYPTED
-    ├── file1.pdf
-    ├── file2.pdf
-    ├── file3.pdf
-    ├── file4.pdf
-    └── file5.pdf
+    ├── FOR508 - Book 1_2538395.pdf
+    ├── FOR508 - Book 2_2538395.pdf
+    ├── FOR508 - Book 3_2538395.pdf
+    ├── FOR508 - Book 4_2538395.pdf
+    └── FOR508 - Book 5_2538395.pdf
 ```
 ## Usage
 To run the parser, use the following command in your terminal:
@@ -42,7 +42,7 @@ python pdfparse.py -d <directory> -o <output_file> [options]
 
 - **`-s, --scrape`**: Scrape all title slides from the PDFs.
 
-- **`--labs`**: Specifically scrape Lab titles from the PDFs.
+- **`--labs`**: Specifically scrape Lab titles from the PDFs use with -s.
 
 - **`--index <Book5>`**: Strip the specified book index (e.g., Book5) into search terms.
 
@@ -61,31 +61,41 @@ python pdfparse.py -d <directory> -o <output_file> [options]
 - **`--format <FORMAT>`**: Specify the output format: `.txt`, `.csv`, or `.doc`.
 
 
-
-
 ## Examples
 
-1. **Decrypting PDFs**: The SANS PASSWORD MUST BE IN QUOTES this will also create a new sub-folder called decrypt in the same directory as the Encryped PDFs, if using bash use escape on unsafe characters
+1. **Decrypting PDFs**: The SANS PASSWORD MUST BE IN QUOTES this will also create a new sub-folder called decrypt in the same directory as the Encryped PDFs, if using zsh use escape on unsafe characters or bash single quotes
+**RECOMMENDED**: Use default names after downloading from SANS, when using -o for dcrypt use SANS and course # followed by and underscore (ex. SANS508_)
    ```bash
-   python pdfparse.py -d D:\SANS\508\Encrypt -o SANS508_ --dcrypt --pass "4$`s9....1-q=V"
+   python pdfparse.py -d "D:\SANS\508\Encrypt" -o SANS508_ --dcrypt --pass "4$`s9....1-q=V"
    ```
    
 2. **OMEGA INDEX**:
    ```bash
-   python pdfparse.py -d D:\SANS\508\Encrypt -o omegaindex.txt --omega
+   python pdfparse.py -d "D:\SANS\508\Encrypt" -o omegaindex.txt --omega
    ```
+
+2.1 **OMEGA INDEX formatted csv**:
+   ```bash
+   python pdfparse.py -d "D:\SANS\508\Encrypt" -o omegaindex.txt --omega --format csv
+   ```
+
    
 3. **Scraping Title Slides**:
    ```bash
    python pdfparse.py -s -d "D:\SANS\508\Encrypt\DECRYPT" -o Slidescrape.txt
    ```
 
-4. **Merging PDFs**:
+4. **Scraping LAB Title Slides**:
+   ```bash
+   python pdfparse.py -s -d "D:\SANS\508\Encrypt\DECRYPT" -o Labscrape.txt --labs
+   ```
+
+5. **Merging PDFs**:
    ```bash
    python pdfparse.py -m -d "D:\SANS\508\Encrypt\DECRYPT" -o MERGED.PDF
    ```
 
-5. **Stripping Index**:
+6. **Stripping Index**:
    ```bash
    python pdfparse.py --index SANS508_Book5Dcrypt.pdf -d "D:\SANS\508\Encrypt\DECRYPT" -o index.txt --omit John Doe
    ```
