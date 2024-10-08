@@ -11,6 +11,7 @@ import csv
 import docx
 
 pattern = r"(^[a-zA-Z0-9]{32}$)"
+lab_pattern = r"Lab\s\d\.\d"
 wordspattern = r"^(?!.*[^\x20-\x7E])(?=[^\d:])[^\d:\n]{3,}(?: [^\d:\n]+)*"
 HARD_CODED_OMIT = ["� SANS Institute","this page intentionally left blank.","ohNrhAfzA","live","lia","Licensed To","� SANS Institute  ","Index","� SANS Institute "]
 characters_to_strip = "()'\":,”“‘?;-•’—…[]!"
@@ -29,6 +30,7 @@ def create_parser():
     parser = argparse.ArgumentParser(description="Command Line SANS PDF parser")
     parser.add_argument("-m", "--merge", action="store_true", help="Merge all PDFs into a single PDF (kinda useless but ¯\(ツ)/¯ )")
     parser.add_argument("-s", "--scrape", action="store_true", help="Scrape all title slides accross all PDFs")
+    parser.add_argument("--labs", action="store_true", help="Specific switch to scrape Lab titles")
     parser.add_argument("--index", metavar="Book5",type=str, help="This strips the book five index into search terms")
     parser.add_argument("--omega", action="store_true", help="Make an OMGEA index")
     parser.add_argument("--dcrypt", action="store_true", help="Decrypt all PDFs in directory ENCLOSE PASSWORD IN QUOTES")
@@ -102,25 +104,33 @@ def pdf_merger(directory,outfile):
         
     mergeFile.write(outfile)
     
-def scrape_titles(directory,outputfile):
+def scrape_titles(directory, outputfile, lab_switch):
+    regular_pattern = r"(^[a-zA-Z0-9]{32}$)"
+    
     files = [f for f in os.listdir(directory) if f.endswith(".pdf")]
     files = sorted(files, key=lambda f: int(re.search(r'[b|B]ook(\s?\d+)', os.path.basename(f)).group(1)))
+
     outputfile = open(outputfile, "w")
     counter = 1
+
     for file in files:
-        if(file.endswith("pdf")):
-            pdf_name = os.path.join(directory,file)
+        if file.endswith("pdf"):
+            pdf_name = os.path.join(directory, file)
             with pdfplumber.open(pdf_name) as pdf:
                 for pages in tqdm(pdf.pages, desc="Processing Title Slides"):
                     text = pages.extract_text()
                     page = pages.page_number
-
                     text = text.split('\n')
-                    clean = text[1].replace(",", "")
-                    if(re.search(pattern, clean)):
-                        continue
-                    else:
-                        outputfile.write(f"{clean}, BOOK: {counter} Page: {page-2}\n") 
+                    
+                    if text and len(text) > 1:
+                        clean = text[1].replace(",", "")
+                        if lab_switch:
+                            if re.search(lab_pattern, clean):
+                                outputfile.write(f"{clean}, BOOK: {counter} Page: {page-2}\n")
+                        else:
+                            if not re.search(pattern, clean):
+                                outputfile.write(f"{clean}, BOOK: {counter} Page: {page-2}\n")
+        
         counter += 1
 
     outputfile.close()
@@ -282,7 +292,7 @@ def main():
             pdf_merger(directory, outfile)
             return
         elif args.scrape:
-            scrape_titles(directory, outfile)
+            scrape_titles(directory, outfile, args.labs)
             return
         elif args.omega:
             omega_index(directory,outfile,args.format)
