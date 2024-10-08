@@ -51,7 +51,7 @@ python pdfparse.py -d <directory> -o <output_file> [options]
 
 ## Examples
 
-1. **Decrypting PDFs**: The SANS PASSWORD MUST BE IN QUOTES this will also create a new sub-folder called decrypt in the same directory as the Encryped PDFs
+1. **Decrypting PDFs**: The SANS PASSWORD MUST BE IN QUOTES this will also create a new sub-folder called decrypt in the same directory as the Encryped PDFs, if using bash use escape on unsafe characters
    ```bash
    python pdfparse.py -d D:\SANS\508\Encrypt -o SANS508_ --dcrypt --pass "4$`s9....1-q=V"
    ```
