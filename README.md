@@ -55,18 +55,23 @@ python pdfparse.py -d <directory> -o <output_file> [options]
    ```bash
    python pdfparse.py -d D:\SANS\508\Encrypt -o SANS508_ --dcrypt --pass "4$`s9....1-q=V"
    ```
-
-2. **Scraping Title Slides**:
+   
+2. **OMEGA INDEX**:
+   ```bash
+   python pdfparse.py -d D:\SANS\508\Encrypt -o omegaindex.txt --omega
+   ```
+   
+3. **Scraping Title Slides**:
    ```bash
    python pdfparse.py -s -d "D:\SANS\508\Encrypt\DECRYPT" -o Slidescrape.txt
    ```
 
-3. **Merging PDFs**:
+4. **Merging PDFs**:
    ```bash
    python pdfparse.py -m -d "D:\SANS\508\Encrypt\DECRYPT" -o MERGED.PDF
    ```
 
-4. **Stripping Index**:
+5. **Stripping Index**:
    ```bash
    python pdfparse.py --index SANS508_Book5Dcrypt.pdf -d "D:\SANS\508\Encrypt\DECRYPT" -o index.txt --omit John Doe
    ```
