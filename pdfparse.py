@@ -191,7 +191,7 @@ def format_output(results, format_type, output_file):
         doc.save(output_file)
     else:
         with open(output_file, "w", encoding="utf-8", errors="ignore") as f:
-            f.write("\n".join(results))
+            f.write("\n".join([f"{word}: {occurrences}" for word, occurrences in results]))
 
 def strip_all_pdfs(directory, outfile, giant_exclude, format_type):
     files = [f for f in os.listdir(directory) if f.endswith(".pdf")]
