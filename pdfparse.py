@@ -91,7 +91,7 @@ def decrypt_pdfs(directory, outfile, passwd):
 
 def pdf_merger(directory,outfile):
     files = [f for f in os.listdir(directory) if f.endswith(".pdf")]
-    files = sorted(files, key=lambda f: int(re.search(r'Book(\s?\d+)', os.path.basename(f)).group(1)))
+    files = sorted(files, key=lambda f: int(re.search(r'[b|B]ook(\s?\d+)', os.path.basename(f)).group(1)))
 
     mergeFile = PyPDF2.PdfMerger()
 
@@ -104,7 +104,7 @@ def pdf_merger(directory,outfile):
     
 def scrape_titles(directory,outputfile):
     files = [f for f in os.listdir(directory) if f.endswith(".pdf")]
-    files = sorted(files, key=lambda f: int(re.search(r'Book(\s?\d+)', os.path.basename(f)).group(1)))
+    files = sorted(files, key=lambda f: int(re.search(r'[b|B]ook(\s?\d+)', os.path.basename(f)).group(1)))
     outputfile = open(outputfile, "w")
     counter = 1
     for file in files:
@@ -196,7 +196,7 @@ def format_output(results, format_type, output_file):
 
 def strip_all_pdfs(directory, outfile, giant_exclude, format_type):
     files = [f for f in os.listdir(directory) if f.endswith(".pdf")]
-    files = sorted(files, key=lambda f: int(re.search(r'Book(\d+)', os.path.basename(f)).group(1)))
+    files = sorted(files, key=lambda f: int(re.search(r'[b|B]ook(\s?\d+)', os.path.basename(f)).group(1)))
     counter = 1  
     index = {}  
     total_words = []
