@@ -4,4 +4,4 @@ argparse
 pikepdf
 requests
 tqdm
-docx
+python-docx
