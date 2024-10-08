@@ -52,6 +52,8 @@ def strip_characters(word):
 
 def decrypt_pdfs(directory, outfile, passwd):
     files = os.listdir(directory)
+    files = sorted(files, key=lambda f: int(re.search(r'Book(\s?\d+)', os.path.basename(f)).group(1)))
+
     counter = 1
     decrypting = "DECRYPT"
     decrypt_path = os.path.join(directory,decrypting)
@@ -86,6 +88,7 @@ def decrypt_pdfs(directory, outfile, passwd):
 
 def pdf_merger(directory):
     files = os.listdir(directory)
+    files = sorted(files, key=lambda f: int(re.search(r'Book(\s?\d+)', os.path.basename(f)).group(1)))
 
     mergeFile = PyPDF2.PdfMerger()
 
@@ -98,6 +101,7 @@ def pdf_merger(directory):
     
 def scrape_titles(directory,outputfile):
     files = os.listdir(directory)
+    files = sorted(files, key=lambda f: int(re.search(r'Book(\s?\d+)', os.path.basename(f)).group(1)))
     outputfile = open(outputfile, "w")
     counter = 1
     for file in files:
@@ -171,6 +175,7 @@ def split_index(directory, book, outfile, omit):
 
 def strip_all_pdfs(directory, outfile, giant_exclude):
     files = os.listdir(directory)
+    files = sorted(files, key=lambda f: int(re.search(r'Book(\s?\d+)', os.path.basename(f)).group(1)))
     counter = 1  
     index = {}  
     total_words = []
