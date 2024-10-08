@@ -8,7 +8,7 @@ import pikepdf.models
 import requests as rq
 from tqdm import tqdm
 import csv
-import python-docx
+import docx
 
 pattern = r"(^[a-zA-Z0-9]{32}$)"
 wordspattern = r"^(?!.*[^\x20-\x7E])(?=[^\d:])[^\d:\n]{3,}(?: [^\d:\n]+)*"
