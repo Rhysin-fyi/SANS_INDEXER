@@ -28,7 +28,7 @@ def get_wordlist():
 
 def create_parser():
     parser = argparse.ArgumentParser(description="Command Line SANS PDF parser")
-    parser.add_argument("-m", "--merge", action="store_true", help="Merge all PDFs into a single PDF (kinda useless but ¯\(ツ)/¯ )")
+    parser.add_argument("-m", "--merge", action="store_true", help="Merge all PDFs into a single PDF (kinda useless but if the need is there, here you go)")
     parser.add_argument("-s", "--scrape", action="store_true", help="Scrape all title slides accross all PDFs")
     parser.add_argument("--labs", action="store_true", help="Specific switch to scrape Lab titles")
     parser.add_argument("--index", metavar="Book5",type=str, help="This strips the book five index into search terms")
