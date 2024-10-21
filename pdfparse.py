@@ -110,20 +110,20 @@ def pdf_merger(directory,outfile):
 def entry_is_num(user_entry):
     try:   
         user_entry = int(user_entry)
-        if user_entry in array_delim:
+        if user_entry in array_delim and user_entry.is_integer():
             return True, user_entry
         else:
             print("Choose an option 0-4")
             return False, user_entry
     except:
         print("That is not a numeric option try again: ")
-        return False
+        return False, user_entry
 
 
 def scrape_titles(directory, outputfile, lab_switch):
     regular_pattern = r"(^[a-zA-Z0-9]{32}$)"
     flag = True
-    next_page = True
+    next_page = False
     check_user = False
     files = [f for f in os.listdir(directory) if f.endswith(".pdf")]
     files = sorted(files, key=lambda f: int(re.search(r'[b|B]ook(\s?\d+)', os.path.basename(f)).group(1)))
