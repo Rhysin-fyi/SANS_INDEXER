@@ -17,6 +17,7 @@ HARD_CODED_OMIT = ["� SANS Institute","this page intentionally left blank.","o
 characters_to_strip = "()'\":,”“‘?;-•’—…[]!"
 phrases_to_strip = ["'s", "'re", "'ve", "'t", "[0]", "[1]", "[2]", "[3]", "[4]", "[5]", "[6]"]
 delimeter = "Licensed To: "
+array_delim = [0,1,2,3,4]
 
 def get_wordlist():
     common_words = rq.get("https://raw.githubusercontent.com/dwyl/english-words/master/words.txt").text.split("\n")
@@ -55,9 +56,10 @@ def strip_characters(word):
             word_length = len(word)
 
 
+
 def decrypt_pdfs(directory, outfile, passwd):
     files = [f for f in os.listdir(directory) if f.endswith(".pdf")]
-    files = sorted(files, key=lambda f: int(re.search(r'[b|B]ook(\s?\d+)', os.path.basename(f)).group(1)))
+    files = sorted(files, key=lambda f: int(re.search(r'[b|B]ook(\s?\d?)', os.path.basename(f)).group(1)))
 
     counter = 1
     decrypting = "DECRYPT"
@@ -103,15 +105,59 @@ def pdf_merger(directory,outfile):
             mergeFile.append(PyPDF2.PdfReader(pdf_name, 'rb'))
         
     mergeFile.write(outfile)
-    
+
+
+def entry_is_num(user_entry):
+    try:   
+        user_entry = int(user_entry)
+        if user_entry in array_delim:
+            return True, user_entry
+        else:
+            print("Choose an option 0-4")
+            return False, user_entry
+    except:
+        print("That is not a numeric option try again: ")
+        return False
+
+
 def scrape_titles(directory, outputfile, lab_switch):
     regular_pattern = r"(^[a-zA-Z0-9]{32}$)"
-    
+    flag = True
+    next_page = True
+    check_user = False
     files = [f for f in os.listdir(directory) if f.endswith(".pdf")]
     files = sorted(files, key=lambda f: int(re.search(r'[b|B]ook(\s?\d+)', os.path.basename(f)).group(1)))
-
+    title_index = int
     outputfile = open(outputfile, "w")
     counter = 1
+
+    for file in files:
+        if file.endswith("pdf"):
+            pdf_name = os.path.join(directory, file)
+            with pdfplumber.open(pdf_name) as pdf:
+                for pages in pdf.pages:
+                    text = pages.extract_text()
+                    page = pages.page_number
+                    text = text.split('\n')
+                    if ((page-2 == 14 or next_page) and (counter == 1 and flag == True)):
+                        print(f"BOOK {counter} PAGE: {page-2}")
+                        print("0: ",text[0].replace(",", ""))
+                        print("1: ",text[1].replace(",", ""))
+                        print("2: ",text[2].replace(",", ""))
+                        print("3: ",text[3].replace(",", ""))
+                        print("4: If you need the next page")
+                        while(not check_user):
+                            title_index = input(f"Enter the number of the correct Title display for page {page - 2}: ")
+                            check_user, user_input = entry_is_num(title_index)
+                            
+                        if title_index != "4":
+                            flag = False
+                            title_index = int(user_input)
+                            break
+                        else:
+                            check_user = False
+                            continue
+                break
 
     for file in files:
         if file.endswith("pdf"):
@@ -123,7 +169,7 @@ def scrape_titles(directory, outputfile, lab_switch):
                     text = text.split('\n')
                     
                     if text and len(text) > 1:
-                        clean = text[1].replace(",", "")
+                        clean = text[title_index].replace(",", "")
                         if lab_switch:
                             if re.search(lab_pattern, clean):
                                 outputfile.write(f"{clean}, BOOK: {counter} Page: {page-2}\n")
@@ -221,24 +267,13 @@ def strip_all_pdfs(directory, outfile, giant_exclude, format_type):
                     pagenum = pages.page_number - 2
                     
                     long_words = [] 
-                    for page in text:
-                        page = page.replace("\n", " ").replace("\t", " ")
-                        page_len = len(page)
-                        while True:
-                            page = page.replace("  ", " ")
-                            if len(page) == page_len:
-                                break
-                            else:
-                                page_len = len(page)
-                        page = page.strip()
-                        words = page.split(" ")
-                        for word in words:
-                            word = strip_characters(word).lower()
-                            if check_if_good(word, giant_exclude):
-                                cleaned_word = re.sub(r'\d', '', word)
-                                total_words.append(cleaned_word)
-                                long_words.append(cleaned_word)
-                    
+                    for word in text:
+                        word = strip_characters(word).lower()
+                        if check_if_good(word, giant_exclude):
+                            cleaned_word = re.sub(r'\d', '', word)
+                            total_words.append(cleaned_word)
+                            long_words.append(cleaned_word)
+                            
                     if counter not in index:
                         index[counter] = {}
                     if pagenum not in index[counter]:
