@@ -122,9 +122,11 @@ def entry_is_num(user_entry):
 
 def scrape_titles(directory, outputfile, lab_switch):
     regular_pattern = r"(^[a-zA-Z0-9]{32}$)"
+    
     flag = True
     next_page = False
     check_user = False
+
     files = [f for f in os.listdir(directory) if f.endswith(".pdf")]
     files = sorted(files, key=lambda f: int(re.search(r'[b|B]ook(\s?\d+)', os.path.basename(f)).group(1)))
     title_index = int
@@ -139,7 +141,7 @@ def scrape_titles(directory, outputfile, lab_switch):
                     text = pages.extract_text()
                     page = pages.page_number
                     text = text.split('\n')
-                    if ((page-2 == 14 or next_page) and (counter == 1 and flag == True)):
+                    if (((page-2 == 3 or next_page) and (counter == 1 and flag == True))):
                         print(f"BOOK {counter} PAGE: {page-2}")
                         print("0: ",text[0].replace(",", ""))
                         print("1: ",text[1].replace(",", ""))
@@ -150,12 +152,13 @@ def scrape_titles(directory, outputfile, lab_switch):
                             title_index = input(f"Enter the number of the correct Title display for page {page - 2}: ")
                             check_user, user_input = entry_is_num(title_index)
                             
-                        if title_index != "4":
+                        if user_input != 4:
                             flag = False
                             title_index = int(user_input)
                             break
                         else:
                             check_user = False
+                            next_page = True
                             continue
                 break
 
